@@ -1,69 +1,73 @@
 {
   "date": "2026-02-14",
-  "generated_at": "2026-02-15T14:15:15.321801",
+  "generated_at": "2026-02-15T14:21:36.071760",
   "brief": [
     {
-      "conclusion": "OpenAI应构建Slack，以更好地整合其AI技术。",
-      "why_hot": "这代表了AI在企业沟通工具中的潜在应用方向。",
+      "conclusion": "OpenAI应构建类似Slack的工具，以整合其AI技术于日常工作中。",
+      "why_hot": "指出了将AI集成到现有工作流程中的新方向。",
       "evidence_urls": [
         "https://www.latent.space/p/ainews-why-openai-should-build-slack"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Gemini 3 Deep Think展示了生成高质量SVG图像的能力。",
-      "why_hot": "显示了AI模型在创意内容生成方面的新进展。",
-      "evidence_urls": [
-        "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/"
-      ],
-      "category": "ai"
-    },
-    {
-      "conclusion": "Stoat响应用户反馈移除了所有LLM生成的代码。",
-      "why_hot": "体现了社区对AI生成代码质量的关注及其影响。",
+      "conclusion": "Stoat项目因用户批评移除了所有由大模型生成的代码。",
+      "why_hot": "反映了社区对AI生成内容质量的关注及反馈的重要性。",
       "evidence_urls": [
         "https://github.com/orgs/stoatchat/discussions/1022"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Off Grid项目允许离线运行AI文本、图像生成等功能。",
-      "why_hot": "标志着AI应用向更广泛的使用场景扩展。",
+      "conclusion": "Google发布了Gemini-skills库，支持Gemini API、SDK以及模型/代理交互。",
+      "why_hot": "为开发者提供了更多利用Gemini进行创新的机会。",
+      "evidence_urls": [
+        "https://github.com/google-gemini/gemini-skills"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "Off Grid项目允许用户在手机上离线运行AI文本、图像生成等功能。",
+      "why_hot": "展示了移动设备上实现AI功能的可能性。",
       "evidence_urls": [
         "https://github.com/alichherawalla/off-grid-mobile"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Langasync项目使开发者能够通过LangChain链使用OpenAI和Anthropic批量API。",
-      "why_hot": "为开发人员提供了更灵活的AI集成解决方案。",
+      "conclusion": "Langasync项目让开发者能够使用OpenAI/Anthropic批量API与LangChain链。",
+      "why_hot": "简化了多个AI服务之间的集成过程。",
       "evidence_urls": [
         "https://github.com/langasync/langasync"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "nautilus_trader是一个高性能的算法交易平台，在GitHub上获得了显著增长。",
-      "why_hot": "反映了交易自动化领域对于高效工具的需求增加。",
+      "conclusion": "nautilus_trader成为GitHub趋势榜上的新星，提供高性能算法交易平台。",
+      "why_hot": "表明了对于高效金融交易解决方案的需求日益增长。",
       "evidence_urls": [
         "https://github.com/nautechsystems/nautilus_trader"
       ],
       "category": "github"
     },
     {
-      "conclusion": "rowboat作为开源AI同事助手，具有记忆功能，受到广泛关注。",
-      "why_hot": "突出了人机协作在未来工作环境中的重要性。",
+      "conclusion": "rowboat作为一个开源AI同事助手，具有记忆功能，在GitHub上迅速获得关注。",
+      "why_hot": "体现了人机协作领域的进步。",
       "evidence_urls": [
         "https://github.com/rowboatlabs/rowboat"
       ],
       "category": "github"
     },
     {
-      "conclusion": "SushiSwap与Solana合作推出新活动，奖励丰厚。",
-      "why_hot": "展示了DeFi平台如何通过跨链合作吸引用户。",
-      "evidence_urls": [
-        "https://galxe.com/sushiswap/campaign/GCQZDj9"
-      ],
+      "conclusion": "SushiSwap在Solana上推出活动，参与即可赢取奖励。",
+      "why_hot": "促进了DeFi领域内的跨链合作与发展。",
+      "evidence_urls": [],
+      "category": "web3"
+    },
+    {
+      "conclusion": "BeatSwap发起$1,000 USDT奖池活动，鼓励用户激活金库并赚取L2E奖励。",
+      "why_hot": "激励了更多用户参与到Layer 2经济活动中来。",
+      "evidence_urls": [],
       "category": "web3"
     }
   ],
@@ -75,9 +79,9 @@
       "text": "OpenAI should build Slack.",
       "lang": "en",
       "created_at": "2026-02-14T07:50:13+00:00",
-      "likes": 194,
+      "likes": 196,
       "reposts": 0,
-      "replies": 225,
+      "replies": 229,
       "bookmarks": 0,
       "urls": [
         "https://www.latent.space/p/ainews-why-openai-should-build-slack"
@@ -87,7 +91,7 @@
       ],
       "is_ad_suspect": false,
       "cluster_id": "cluster_041",
-      "heat_score": 1.62
+      "heat_score": 1.65
     },
     {
       "id": "hn_47016050",
@@ -287,7 +291,7 @@
       "name": "nautechsystems/nautilus_trader",
       "owner": "nautechsystems",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "stars": 19082,
+      "stars": 19087,
       "forks": 2279,
       "stars_24h": 30,
       "created_at": "2018-06-25T06:26:16+00:00",
@@ -321,7 +325,7 @@
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 2670,
+      "stars": 2675,
       "forks": 242,
       "stars_24h": 639,
       "created_at": "2025-12-12T12:36:45+00:00",
@@ -347,7 +351,7 @@
       "name": "rowboatlabs/rowboat",
       "owner": "rowboatlabs",
       "description": "Open-source AI coworker, with memory",
-      "stars": 6457,
+      "stars": 6463,
       "forks": 545,
       "stars_24h": 819,
       "created_at": "2025-01-13T09:30:40+00:00",
@@ -385,7 +389,7 @@
       "name": "github/gh-aw",
       "owner": "github",
       "description": "GitHub Agentic Workflows",
-      "stars": 2526,
+      "stars": 2529,
       "forks": 185,
       "stars_24h": 213,
       "created_at": "2025-08-12T17:40:41+00:00",
@@ -416,7 +420,7 @@
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "owner": "ChromeDevTools",
       "description": "Chrome DevTools for coding agents",
-      "stars": 25259,
+      "stars": 25261,
       "forks": 1487,
       "stars_24h": 353,
       "created_at": "2025-09-11T10:39:55+00:00",
@@ -446,7 +450,7 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 1754,
+      "stars": 1762,
       "forks": 88,
       "stars_24h": 729,
       "created_at": "2025-12-05T07:45:38+00:00",
@@ -472,8 +476,8 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 195822,
-      "forks": 33917,
+      "stars": 195834,
+      "forks": 33921,
       "stars_24h": 2758,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -494,13 +498,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 1061,
-      "open_issues": 6146
+      "open_issues": 6151
     },
     {
       "name": "moonshine-ai/moonshine",
       "owner": "moonshine-ai",
       "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
-      "stars": 3612,
+      "stars": 3615,
       "forks": 175,
       "stars_24h": 160,
       "created_at": "2024-10-04T22:10:28+00:00",
@@ -520,7 +524,7 @@
       "name": "brave/brave-browser",
       "owner": "brave",
       "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
-      "stars": 21450,
+      "stars": 21453,
       "forks": 2969,
       "stars_24h": 23,
       "created_at": "2017-11-09T23:44:38+00:00",
@@ -541,13 +545,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 388,
-      "open_issues": 10368
+      "open_issues": 10369
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 692,
+      "stars": 695,
       "forks": 258,
       "stars_24h": 168,
       "created_at": "2025-12-09T15:19:10+00:00",
@@ -582,7 +586,7 @@
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6341,
+      "stars": 6345,
       "forks": 565,
       "stars_24h": 351,
       "created_at": "2025-06-07T04:32:30+00:00",
@@ -673,7 +677,7 @@
       "name": "resemble-ai/chatterbox",
       "owner": "resemble-ai",
       "description": "SoTA open-source TTS",
-      "stars": 22650,
+      "stars": 22651,
       "forks": 2970,
       "stars_24h": 65,
       "created_at": "2025-04-23T08:16:38+00:00",
