@@ -1,0 +1,1552 @@
+{
+  "date": "2026-02-14",
+  "generated_at": "2026-02-15T20:42:18.385175",
+  "brief": [
+    {
+      "conclusion": "Stoat响应用户批评，移除了所有由大型语言模型生成的代码。",
+      "why_hot": "展示了社区反馈对项目方向的影响。",
+      "evidence_urls": [
+        "https://github.com/orgs/stoatchat/discussions/1022"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "Rune为AI代码生成提供了一种规范模式，确保一致性。",
+      "why_hot": "解决了AI代码生成过程中的一致性和可靠性问题。",
+      "evidence_urls": [
+        "https://github.com/vict00r99/Rune-stone"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "DevDay是一个AI编码会话的日终回顾工具。",
+      "why_hot": "帮助开发者更好地跟踪和总结每天的AI辅助编程活动。",
+      "evidence_urls": [
+        "https://github.com/ujjwaljainnn/devday"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "cgrep是一个本地、代码感知的搜索工具，专为AI编码代理设计。",
+      "why_hot": "提高了AI在代码搜索任务中的效率与准确性。",
+      "evidence_urls": [
+        "https://github.com/meghendra6/cgrep"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "Remote-OpenCode允许通过Discord从手机运行AI编码代理。",
+      "why_hot": "增加了AI开发工具的可访问性与灵活性。",
+      "evidence_urls": [
+        "https://github.com/RoundTable02/remote-opencode"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "steipete/gogcli项目提供了Google Suite命令行接口，支持Gmail、GCal等服务。",
+      "why_hot": "简化了Google服务的使用流程，适合喜欢CLI的用户。",
+      "evidence_urls": [
+        "https://github.com/steipete/gogcli"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "rowboatlabs/rowboat是一个开源的AI同事系统，具有记忆功能。",
+      "why_hot": "代表了AI作为团队成员参与工作的未来趋势。",
+      "evidence_urls": [
+        "https://github.com/rowboatlabs/rowboat"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "Chrome DevTools for coding agents增强了对AI编码助手的支持。",
+      "why_hot": "为AI辅助开发提供了更强大的调试与分析能力。",
+      "evidence_urls": [
+        "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "LORE是一个将LOGO语言转换成Python的转译器，适用于EdisonV3教育机器人。",
+      "why_hot": "促进了教育领域中编程语言之间的迁移学习。",
+      "evidence_urls": [
+        "https://github.com/dgpc/LORE"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "Web3领域正在探索更多基于区块链的身份验证解决方案。",
+      "why_hot": "随着数字身份的重要性日益增加，这些技术可能成为未来的标准。",
+      "evidence_urls": [],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [
+    {
+      "id": "hn_47016050",
+      "author_name": "ashleyn",
+      "author_handle": "@ashleyn",
+      "text": "Stoat removes all LLM-generated code following user criticism.",
+      "lang": "en",
+      "created_at": "2026-02-14T16:54:30+00:00",
+      "likes": 40,
+      "reposts": 0,
+      "replies": 69,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/orgs/stoatchat/discussions/1022"
+      ],
+      "tags": [
+        "repo"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_010",
+      "heat_score": 0.5
+    },
+    {
+      "id": "hn_47015481",
+      "author_name": "vict00r99",
+      "author_handle": "@vict00r99",
+      "text": "Show HN: Rune | A spec pattern for consistent AI code generation.",
+      "lang": "en",
+      "created_at": "2026-02-14T15:57:23+00:00",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 3,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/vict00r99/Rune-stone"
+      ],
+      "tags": [
+        "repo"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_006",
+      "heat_score": 0.29
+    },
+    {
+      "id": "hn_47018267",
+      "author_name": "ujjwaljainnn",
+      "author_handle": "@ujjwaljainnn",
+      "text": "Show HN: DevDay – End-of-day recap for AI coding sessions.",
+      "lang": "en",
+      "created_at": "2026-02-14T20:51:35+00:00",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/ujjwaljainnn/devday"
+      ],
+      "tags": [
+        "repo"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_000",
+      "heat_score": 0.28
+    },
+    {
+      "id": "hn_47013067",
+      "author_name": "meghendra",
+      "author_handle": "@meghendra",
+      "text": "Show HN: cgrep – local, code-aware search for AI coding agents.",
+      "lang": "en",
+      "created_at": "2026-02-14T09:30:37+00:00",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/meghendra6/cgrep"
+      ],
+      "tags": [
+        "repo"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_002",
+      "heat_score": 0.28
+    },
+    {
+      "id": "hn_47021346",
+      "author_name": "remocode",
+      "author_handle": "@remocode",
+      "text": "Show HN: Remote-OpenCode – Run your AI coding agent from your phone via Discord.",
+      "lang": "en",
+      "created_at": "2026-02-15T05:41:30+00:00",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/RoundTable02/remote-opencode"
+      ],
+      "tags": [
+        "repo"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_003",
+      "heat_score": 0.28
+    },
+    {
+      "id": "hn_47019426",
+      "author_name": "daave",
+      "author_handle": "@daave",
+      "text": "Show HN: LORE - LOGO-to-Python transpiler for the EdisonV3 educational robot.",
+      "lang": "en",
+      "created_at": "2026-02-14T23:19:57+00:00",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/dgpc/LORE"
+      ],
+      "tags": [
+        "repo"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_005",
+      "heat_score": 0.28
+    },
+    {
+      "id": "hn_47019297",
+      "author_name": "MoKetchups",
+      "author_handle": "@MoKetchups",
+      "text": "LLM Alignment/Hallucinations Can't Be Fixed – Proof.",
+      "lang": "en",
+      "created_at": "2026-02-14T23:03:57+00:00",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/moketchups/permanently-jailbroken"
+      ],
+      "tags": [
+        "repo"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_012",
+      "heat_score": 0.28
+    },
+    {
+      "id": "hn_47013274",
+      "author_name": "mazilin",
+      "author_handle": "@mazilin",
+      "text": "Show HN: AI Station Navigator – LLM=CPU, Agents=Processes, Skills=Apps.",
+      "lang": "en",
+      "created_at": "2026-02-14T10:05:55+00:00",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/canishowtime/ai-station-navigator"
+      ],
+      "tags": [
+        "repo"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_017",
+      "heat_score": 0.28
+    },
+    {
+      "id": "hn_47015876",
+      "author_name": "kurinikku",
+      "author_handle": "@kurinikku",
+      "text": "Karpathy's microgpt as a book via Claude Code.",
+      "lang": "en",
+      "created_at": "2026-02-14T16:36:26+00:00",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/savarin/microgpt/tree/main/docs/chapters"
+      ],
+      "tags": [
+        "repo",
+        "模型更新"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_025",
+      "heat_score": 0.28
+    },
+    {
+      "id": "hn_47014331",
+      "author_name": "wierdbytes",
+      "author_handle": "@wierdbytes",
+      "text": "Show HN: CC Wiretap – intercepting and visualizing Claude Code traffic real-time.",
+      "lang": "en",
+      "created_at": "2026-02-14T13:20:27+00:00",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/wierdbytes/cc-wiretap"
+      ],
+      "tags": [
+        "repo",
+        "模型更新"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_026",
+      "heat_score": 0.28
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "stars": 19049,
+      "forks": 2276,
+      "stars_24h": 30,
+      "created_at": "2018-06-25T06:26:16+00:00",
+      "language": "Rust",
+      "topics": [
+        "algorithmic-trading-engine",
+        "artificial-intelligence",
+        "crypto-trading",
+        "equity-trading",
+        "forex",
+        "futures-trading",
+        "machine-learning",
+        "options-trading",
+        "python",
+        "rust",
+        "sports-betting",
+        "trading",
+        "trading-platform"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "steipete/gogcli",
+      "owner": "steipete",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+      "stars": 2615,
+      "forks": 236,
+      "stars_24h": 639,
+      "created_at": "2025-12-12T12:36:45+00:00",
+      "language": "Go",
+      "topics": [
+        "gcal",
+        "gcontacts",
+        "gdrive",
+        "gmail",
+        "google"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "owner": "rowboatlabs",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 6403,
+      "forks": 538,
+      "stars_24h": 217,
+      "created_at": "2025-01-13T09:30:40+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "agents-sdk",
+        "ai",
+        "ai-agents",
+        "ai-agents-automation",
+        "chatgpt",
+        "claude-code",
+        "claude-cowork",
+        "generative-ai",
+        "llm",
+        "multiagent",
+        "opeani",
+        "open-source",
+        "orchestration",
+        "productivity"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "github/gh-aw",
+      "owner": "github",
+      "description": "GitHub Agentic Workflows",
+      "stars": 2498,
+      "forks": 182,
+      "stars_24h": 213,
+      "created_at": "2025-08-12T17:40:41+00:00",
+      "language": "Go",
+      "topics": [
+        "actions",
+        "cai",
+        "ci",
+        "claude-code",
+        "codex",
+        "copilot",
+        "gh-extension",
+        "github-actions"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "owner": "ChromeDevTools",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 25237,
+      "forks": 1485,
+      "stars_24h": 331,
+      "created_at": "2025-09-11T10:39:55+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "browser",
+        "chrome",
+        "chrome-devtools",
+        "debugging",
+        "devtools",
+        "mcp",
+        "mcp-server",
+        "puppeteer"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "alibaba/zvec",
+      "owner": "alibaba",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "stars": 1687,
+      "forks": 84,
+      "stars_24h": 172,
+      "created_at": "2025-12-05T07:45:38+00:00",
+      "language": "C++",
+      "topics": [
+        "ann-search",
+        "embedded-database",
+        "rag",
+        "vector-search",
+        "vectordb"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "RAG"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "openclaw/openclaw",
+      "owner": "openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 195626,
+      "forks": 33857,
+      "stars_24h": 2758,
+      "created_at": "2025-11-24T10:16:47+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "assistant",
+        "crustacean",
+        "molty",
+        "openclaw",
+        "own-your-data",
+        "personal"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "moonshine-ai/moonshine",
+      "owner": "moonshine-ai",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "stars": 3575,
+      "forks": 174,
+      "stars_24h": 160,
+      "created_at": "2024-10-04T22:10:28+00:00",
+      "language": "C",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "brave/brave-browser",
+      "owner": "brave",
+      "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+      "stars": 21433,
+      "forks": 2968,
+      "stars_24h": 23,
+      "created_at": "2017-11-09T23:44:38+00:00",
+      "language": "",
+      "topics": [
+        "brave",
+        "browser",
+        "chromium",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "SynkraAI/aios-core",
+      "owner": "SynkraAI",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "stars": 677,
+      "forks": 255,
+      "stars_24h": 209,
+      "created_at": "2025-12-09T15:19:10+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "automation",
+        "claude",
+        "cli",
+        "development",
+        "framework",
+        "fullstack",
+        "nodejs",
+        "orchestration",
+        "typescript"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ruvnet/wifi-densepose",
+      "owner": "ruvnet",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
+      "stars": 6314,
+      "forks": 563,
+      "stars_24h": 98,
+      "created_at": "2025-06-07T04:32:30+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Comfy-Org/ComfyUI-Manager",
+      "owner": "Comfy-Org",
+      "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+      "stars": 13600,
+      "forks": 1949,
+      "stars_24h": 3,
+      "created_at": "2023-04-23T14:36:09+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "HKUDS/RAG-Anything",
+      "owner": "HKUDS",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "stars": 13325,
+      "forks": 1599,
+      "stars_24h": 183,
+      "created_at": "2025-06-06T06:47:29+00:00",
+      "language": "Python",
+      "topics": [
+        "multi-modal-rag",
+        "retrieval-augmented-generation"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "eval",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Jeffallan/claude-skills",
+      "owner": "Jeffallan",
+      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "stars": 2607,
+      "forks": 166,
+      "stars_24h": 358,
+      "created_at": "2025-10-20T20:27:22+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-marketplace",
+        "claude-skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false
+    },
+    {
+      "name": "resemble-ai/chatterbox",
+      "owner": "resemble-ai",
+      "description": "SoTA open-source TTS",
+      "stars": 22645,
+      "forks": 2969,
+      "stars_24h": 65,
+      "created_at": "2025-04-23T08:16:38+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false
+    }
+  ],
+  "github_new": [],
+  "clusters": [
+    {
+      "id": "cluster_009",
+      "title": "Colored Petri Nets, LLMs, and distributed applications.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.1,
+      "keywords": [
+        "colored",
+        "petri",
+        "nets",
+        "llms",
+        "distributed",
+        "applications"
+      ],
+      "tweet_ids": [
+        "hn_47018405"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_010",
+      "title": "Stoat removes all LLM-generated code following user criticis...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.1,
+      "keywords": [
+        "stoat",
+        "removes",
+        "all",
+        "llm",
+        "generated",
+        "code",
+        "following",
+        "user"
+      ],
+      "tweet_ids": [
+        "hn_47016050"
+      ],
+      "repo_names": [
+        "orgs/stoatchat"
+      ]
+    },
+    {
+      "id": "cluster_018",
+      "title": "Golf game built last night with Claude Code, Svelte and Thre...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.1,
+      "keywords": [
+        "golf",
+        "game",
+        "built",
+        "last",
+        "night",
+        "claude",
+        "code",
+        "svelte"
+      ],
+      "tweet_ids": [
+        "hn_47014704"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_032",
+      "title": "Evolving Git for the Next Decade.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.1,
+      "keywords": [
+        "evolving",
+        "git",
+        "next",
+        "decade"
+      ],
+      "tweet_ids": [
+        "hn_47018814"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_000",
+      "title": "Show HN: DevDay – End-of-day recap for AI coding sessions.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "devday",
+        "end",
+        "day",
+        "recap",
+        "coding",
+        "sessions"
+      ],
+      "tweet_ids": [
+        "hn_47018267"
+      ],
+      "repo_names": [
+        "ujjwaljainnn/devday"
+      ]
+    },
+    {
+      "id": "cluster_001",
+      "title": "Insect Empire – A browser survivor-like built with AI art an...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "insect",
+        "empire",
+        "browser",
+        "survivor",
+        "like",
+        "built",
+        "art",
+        "coding"
+      ],
+      "tweet_ids": [
+        "hn_47016339"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_002",
+      "title": "Show HN: cgrep – local, code-aware search for AI coding agen...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "cgrep",
+        "local",
+        "code",
+        "aware",
+        "search",
+        "coding",
+        "agents"
+      ],
+      "tweet_ids": [
+        "hn_47013067"
+      ],
+      "repo_names": [
+        "meghendra6/cgrep"
+      ]
+    },
+    {
+      "id": "cluster_003",
+      "title": "Show HN: Remote-OpenCode – Run your AI coding agent from you...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "remote",
+        "opencode",
+        "run",
+        "coding",
+        "agent",
+        "phone",
+        "via"
+      ],
+      "tweet_ids": [
+        "hn_47021346"
+      ],
+      "repo_names": [
+        "RoundTable02/remote-opencode"
+      ]
+    },
+    {
+      "id": "cluster_004",
+      "title": "Show HN: Stack Overflow, but for AI agents (questions, answe...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "stack",
+        "overflow",
+        "agents",
+        "questions",
+        "answers",
+        "logs",
+        "context"
+      ],
+      "tweet_ids": [
+        "hn_47019736"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_005",
+      "title": "Show HN: LORE - LOGO-to-Python transpiler for the EdisonV3 e...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "lore",
+        "logo",
+        "python",
+        "transpiler",
+        "edisonv",
+        "educational",
+        "robot"
+      ],
+      "tweet_ids": [
+        "hn_47019426"
+      ],
+      "repo_names": [
+        "dgpc/LORE"
+      ]
+    },
+    {
+      "id": "cluster_006",
+      "title": "Show HN: Rune | A spec pattern for consistent AI code genera...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "rune",
+        "spec",
+        "pattern",
+        "consistent",
+        "code",
+        "generation"
+      ],
+      "tweet_ids": [
+        "hn_47015481"
+      ],
+      "repo_names": [
+        "vict00r99/Rune-stone"
+      ]
+    },
+    {
+      "id": "cluster_007",
+      "title": "The Coding Agent Explorer for Claude Code (.NET).",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "coding",
+        "agent",
+        "explorer",
+        "claude",
+        "code",
+        "net"
+      ],
+      "tweet_ids": [
+        "hn_47014527"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_008",
+      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on ...",
+      "theme": "IDE / Copilot Tools",
+      "heat_score": 0.0,
+      "keywords": [
+        "openai",
+        "sidesteps",
+        "nvidia",
+        "unusually",
+        "fast",
+        "coding",
+        "model",
+        "plate"
+      ],
+      "tweet_ids": [
+        "hn_47016620"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_011",
+      "title": "Two different tricks for fast LLM inference.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "two",
+        "different",
+        "tricks",
+        "fast",
+        "llm",
+        "inference"
+      ],
+      "tweet_ids": [
+        "hn_47019691"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_012",
+      "title": "LLM Alignment/Hallucinations Can't Be Fixed – Proof.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "llm",
+        "alignment",
+        "hallucinations",
+        "fixed",
+        "proof"
+      ],
+      "tweet_ids": [
+        "hn_47019297"
+      ],
+      "repo_names": [
+        "moketchups/permanently-jailbroken"
+      ]
+    },
+    {
+      "id": "cluster_013",
+      "title": "Stitching Vision Encoders into LLMs: Clip vs. I-JEPA vs. ViT...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "stitching",
+        "vision",
+        "encoders",
+        "llms",
+        "clip",
+        "jepa",
+        "vit",
+        "comparison"
+      ],
+      "tweet_ids": [
+        "hn_47020246"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_014",
+      "title": "MathArena: Evaluating LLMs on uncontaminated math questions.",
+      "theme": "Evaluation / Evals",
+      "heat_score": 0.0,
+      "keywords": [
+        "matharena",
+        "evaluating",
+        "llms",
+        "uncontaminated",
+        "math",
+        "questions"
+      ],
+      "tweet_ids": [
+        "hn_47019304"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_015",
+      "title": "Agent-evals: Metacognitive scoring and boundary testing for ...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "agent",
+        "evals",
+        "metacognitive",
+        "scoring",
+        "boundary",
+        "testing",
+        "llm",
+        "coding"
+      ],
+      "tweet_ids": [
+        "hn_47019084"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_016",
+      "title": "Biases in the Blind Spot: Detecting What LLMs Fail to Mentio...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "biases",
+        "blind",
+        "spot",
+        "detecting",
+        "what",
+        "llms",
+        "fail",
+        "mention"
+      ],
+      "tweet_ids": [
+        "hn_47017184"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_017",
+      "title": "Show HN: AI Station Navigator – LLM=CPU, Agents=Processes, S...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "station",
+        "navigator",
+        "llm",
+        "cpu",
+        "agents",
+        "processes",
+        "skills"
+      ],
+      "tweet_ids": [
+        "hn_47013274"
+      ],
+      "repo_names": [
+        "canishowtime/ai-station-navigator"
+      ]
+    },
+    {
+      "id": "cluster_019",
+      "title": "Show HN: Long Mem code agent cut 95% costs for Claude with s...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "long",
+        "mem",
+        "code",
+        "agent",
+        "cut",
+        "costs",
+        "claude"
+      ],
+      "tweet_ids": [
+        "hn_47012614"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_020",
+      "title": "Pentagon used Claude in Maduro Venezuela raid.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "pentagon",
+        "used",
+        "claude",
+        "maduro",
+        "venezuela",
+        "raid"
+      ],
+      "tweet_ids": [
+        "hn_47014060"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_021",
+      "title": "Reddit users in /r/MyboyfriendisAI are migrating from ChatGP...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "reddit",
+        "users",
+        "myboyfriendisai",
+        "migrating",
+        "chatgpt",
+        "claude"
+      ],
+      "tweet_ids": [
+        "hn_47019108"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_022",
+      "title": "Show HN: An x86 assembly game from 2002, ported to WebAssemb...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "assembly",
+        "game",
+        "ported",
+        "webassembly",
+        "claude",
+        "code"
+      ],
+      "tweet_ids": [
+        "hn_47019979"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_023",
+      "title": "My Claude Code Toolkit.",
+      "theme": "Tooling / Infra",
+      "heat_score": 0.0,
+      "keywords": [
+        "claude",
+        "code",
+        "toolkit"
+      ],
+      "tweet_ids": [
+        "hn_47015611"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_024",
+      "title": "Show HN: Npx Claude-traces, visualizer for Claude Code/Agent...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "claude",
+        "traces",
+        "show",
+        "npx",
+        "visualizer",
+        "code",
+        "agent",
+        "sdk"
+      ],
+      "tweet_ids": [
+        "hn_47018696"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_025",
+      "title": "Karpathy's microgpt as a book via Claude Code.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "karpathy",
+        "microgpt",
+        "book",
+        "via",
+        "claude",
+        "code"
+      ],
+      "tweet_ids": [
+        "hn_47015876"
+      ],
+      "repo_names": [
+        "savarin/microgpt"
+      ]
+    },
+    {
+      "id": "cluster_026",
+      "title": "Show HN: CC Wiretap – intercepting and visualizing Claude Co...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "wiretap",
+        "intercepting",
+        "visualizing",
+        "claude",
+        "code",
+        "traffic",
+        "real"
+      ],
+      "tweet_ids": [
+        "hn_47014331"
+      ],
+      "repo_names": [
+        "wierdbytes/cc-wiretap"
+      ]
+    },
+    {
+      "id": "cluster_027",
+      "title": "Subreddit collapses as OpenAI retires GPT-4o and terminates ...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "subreddit",
+        "collapses",
+        "openai",
+        "retires",
+        "gpt",
+        "terminates",
+        "dozens",
+        "lovers"
+      ],
+      "tweet_ids": [
+        "hn_47018690"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_028",
+      "title": "What happens when you put Claude, GPT, Grok, and DeepSeek in...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "what",
+        "happens",
+        "when",
+        "put",
+        "claude",
+        "gpt",
+        "grok",
+        "deepseek"
+      ],
+      "tweet_ids": [
+        "hn_47020283"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_029",
+      "title": "MicroGPT - Train and inference a GPT in pure, dependency-fre...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "microgpt",
+        "train",
+        "inference",
+        "gpt",
+        "pure",
+        "dependency",
+        "free",
+        "python"
+      ],
+      "tweet_ids": [
+        "hn_47020107"
+      ],
+      "repo_names": [
+        "karpathy/8627fe009c40f57531cb18360106ce95"
+      ]
+    },
+    {
+      "id": "cluster_030",
+      "title": "The most important part of an AI system-the human.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "most",
+        "important",
+        "part",
+        "system",
+        "human"
+      ],
+      "tweet_ids": [
+        "hn_47020389"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_031",
+      "title": "Language models imply world models.",
+      "theme": "Model Releases & Updates",
+      "heat_score": 0.0,
+      "keywords": [
+        "models",
+        "language",
+        "imply",
+        "world"
+      ],
+      "tweet_ids": [
+        "hn_47018017"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_033",
+      "title": "Show HN: Git Navigator – Use Git Without Learning Git.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "git",
+        "show",
+        "navigator",
+        "use",
+        "without",
+        "learning"
+      ],
+      "tweet_ids": [
+        "hn_47020569"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_034",
+      "title": "Chiplets Get Physical: The Days of Mix-and-Match Silicon Dra...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "chiplets",
+        "get",
+        "physical",
+        "days",
+        "mix",
+        "match",
+        "silicon",
+        "draw"
+      ],
+      "tweet_ids": [
+        "hn_47013556"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_035",
+      "title": "Neovide Cursors for Ghostty.",
+      "theme": "IDE / Copilot Tools",
+      "heat_score": 0.0,
+      "keywords": [
+        "neovide",
+        "cursors",
+        "ghostty"
+      ],
+      "tweet_ids": [
+        "hn_47013567"
+      ],
+      "repo_names": [
+        "sahaj-b/ghostty-cursor-shaders"
+      ]
+    },
+    {
+      "id": "cluster_036",
+      "title": "Show HN: Logbooks, notebook computing for coding agents.",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "logbooks",
+        "notebook",
+        "computing",
+        "coding",
+        "agents"
+      ],
+      "tweet_ids": [
+        "hn_47017760"
+      ],
+      "repo_names": [
+        "rwhaling/logbooks"
+      ]
+    },
+    {
+      "id": "cluster_037",
+      "title": "Curosr: Expanding our long-running agents research preview.",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "curosr",
+        "expanding",
+        "our",
+        "long",
+        "running",
+        "agents",
+        "research",
+        "preview"
+      ],
+      "tweet_ids": [
+        "hn_47017794"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_038",
+      "title": "Claude Agent in VS Code: no extension required, Copilot subs...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "claude",
+        "agent",
+        "code",
+        "extension",
+        "required",
+        "copilot",
+        "subscription",
+        "supported"
+      ],
+      "tweet_ids": [
+        "hn_47014017"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_039",
+      "title": "Show HN: Multispace -save,organize,and launch workspaces–too...",
+      "theme": "Tooling / Infra",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "multispace",
+        "save",
+        "organize",
+        "launch",
+        "workspaces",
+        "tools",
+        "apps"
+      ],
+      "tweet_ids": [
+        "hn_47012584"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_040",
+      "title": "Show HN: What if your job search worked while you were worki...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "what",
+        "job",
+        "search",
+        "worked",
+        "while",
+        "working",
+        "sleeping"
+      ],
+      "tweet_ids": [
+        "hn_47012480"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_041",
+      "title": "Show HN: Tilth v0.3 – 17% cheaper AI code navigation (279 ru...",
+      "theme": "Model Releases & Updates",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "tilth",
+        "cheaper",
+        "code",
+        "navigation",
+        "runs",
+        "claude",
+        "models"
+      ],
+      "tweet_ids": [
+        "hn_47016959"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_042",
+      "title": "Subreddit collapses as OpenAI retires GPT-4o and the chance ...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "subreddit",
+        "collapses",
+        "openai",
+        "retires",
+        "gpt",
+        "chance",
+        "lover"
+      ],
+      "tweet_ids": [
+        "hn_47018490"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_043",
+      "title": "Show HN: PolyMCP – A framework for building and orchestratin...",
+      "theme": "Tooling / Infra",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "polymcp",
+        "framework",
+        "building",
+        "orchestrating",
+        "mcp",
+        "agents"
+      ],
+      "tweet_ids": [
+        "hn_47017912"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_044",
+      "title": "Ask HN: What explains the recent surge in LLM coding capabil...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "ask",
+        "what",
+        "explains",
+        "recent",
+        "surge",
+        "llm",
+        "coding",
+        "capabilities"
+      ],
+      "tweet_ids": [
+        "hn_47019798"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_045",
+      "title": "CPUs are getting so small they're starting to hallucinate.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "cpus",
+        "getting",
+        "small",
+        "starting",
+        "hallucinate"
+      ],
+      "tweet_ids": [
+        "hn_47013847"
+      ],
+      "repo_names": []
+    }
+  ],
+  "quests": [],
+  "markets": [],
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
