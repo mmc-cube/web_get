@@ -1,76 +1,84 @@
 {
   "date": "2026-02-16",
-  "generated_at": "2026-02-17T14:34:46.892026",
+  "generated_at": "2026-02-17T15:29:18.838741",
   "brief": [
     {
-      "conclusion": "Anthropic试图隐藏Claude AI的操作，开发者对此表示不满。",
-      "why_hot": "这反映了AI开发中透明度与控制权之间的矛盾日益突出。",
+      "conclusion": "Anthropic试图隐藏Claude AI的行为，引发开发者不满。",
+      "why_hot": "反映了AI模型透明度与开发者信任间的重要平衡问题。",
       "evidence_urls": [
         "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Claude-engram项目引入了大脑启发式的持久内存机制。",
-      "why_hot": "探索如何使AI模型拥有更接近人类的记忆能力是当前研究的一个重要方向。",
+      "conclusion": "Claude-engram项目推出，提供受大脑启发的持久内存功能。",
+      "why_hot": "探索了AI系统如何模仿人脑长期记忆机制的新方向。",
       "evidence_urls": [
         "https://github.com/mlapeter/claude-engram"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Agent Forge为Claude Code提供了持久内存及桌面自动化功能。",
-      "why_hot": "这类工具的出现预示着未来AI助手将更加智能且易于集成到日常工作流程中。",
+      "conclusion": "Agent Forge发布，旨在为Claude Code增加持久化存储和桌面自动化能力。",
+      "why_hot": "展示了通过外部工具增强现有AI助手功能的可能性。",
       "evidence_urls": [
         "https://github.com/WeberG619/agent-forge"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "荷兰政府发布了针对Claude的插件集合，旨在提高公共服务效率。",
-      "why_hot": "政府机构采用AI技术来改善服务质量和响应速度成为趋势。",
+      "conclusion": "荷兰政府发布了针对Claude插件集，以提高公共服务效率。",
+      "why_hot": "标志着国家层面开始正式采用AI技术优化政务流程。",
       "evidence_urls": [
         "https://github.com/MinBZK/overheid-claude-plugins"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Comfy Pilot允许通过MCP服务器让Claude Code编辑ComfyUI工作流。",
-      "why_hot": "结合多种AI工具以实现更复杂任务的能力正变得越来越普遍。",
+      "conclusion": "Comfy Pilot允许用户利用Claude Code编辑ComfyUI工作流。",
+      "why_hot": "促进了不同AI平台之间的互操作性。",
       "evidence_urls": [
         "https://github.com/ConstantineB6/comfy-pilot"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "p-e-w/heretic项目在GitHub上迅速获得关注，它能自动移除语言模型中的审查。",
-      "why_hot": "该项目展示了社区对于开放自由交流环境的支持。",
+      "conclusion": "Dewdrops项目可将Git仓库转换成单一Markdown文件供LLM使用。",
+      "why_hot": "简化了AI处理复杂代码库的过程。",
+      "evidence_urls": [
+        "https://github.com/MedUnes/dewdrops"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "HJX语言结合HTML、CSS和JavaScript，专为AI原生Web开发设计。",
+      "why_hot": "提出了一种全新的编程范式，可能改变未来网页开发方式。",
+      "evidence_urls": [
+        "https://github.com/loayabdalslam/hjx"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "p-e-w/heretic项目自动移除语言模型中的审查内容。",
+      "why_hot": "反映了当前社会对言论自由与信息开放性的关注。",
       "evidence_urls": [
         "https://github.com/p-e-w/heretic"
       ],
       "category": "github"
     },
     {
-      "conclusion": "alibaba/zvec作为一款轻量级、高性能的向量数据库，在GitHub上受到热烈欢迎。",
-      "why_hot": "随着数据密集型应用的增长，高效的数据检索解决方案变得至关重要。",
+      "conclusion": "SushiSwap在Solana上启动新活动，参与者有机会赢取奖励。",
+      "why_hot": "表明跨链合作正在成为加密货币领域的一个重要趋势。",
       "evidence_urls": [
-        "https://github.com/alibaba/zvec"
-      ],
-      "category": "github"
-    },
-    {
-      "conclusion": "SushiSwap与Solana合作推出新活动，参与者有机会赢得丰厚奖励。",
-      "why_hot": "跨链DeFi项目的合作不仅增加了流动性，也为用户带来了更多参与机会。",
-      "evidence_urls": [
-        "https://galxe.com/SushiSwap/campaign/GCvQYD"
+        "https://galxe.com/SushiSwap/campaign/GCQh5v"
       ],
       "category": "web3"
     },
     {
-      "conclusion": "BeatSwap发起的活动鼓励用户激活其金库并赚取L2E奖励。",
-      "why_hot": "这种激励机制有助于促进平台内资产的活跃度和用户的长期留存。",
+      "conclusion": "参与UniMex X活动即可获得4,500 UNX代币。",
+      "why_hot": "提供了普通用户接触并了解DeFi项目的低门槛机会。",
       "evidence_urls": [
-        "https://galxe.com/BeatSwap/campaign/GCvQYD"
+        "https://galxe.com/UniMexX/campaign/GCQg5v"
       ],
       "category": "web3"
     }
@@ -214,9 +222,9 @@
       "text": "Show HN: Maths, CS and AI Compendium.",
       "lang": "en",
       "created_at": "2026-02-16T15:15:50+00:00",
-      "likes": 78,
+      "likes": 81,
       "reposts": 0,
-      "replies": 17,
+      "replies": 18,
       "bookmarks": 0,
       "urls": [
         "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
@@ -297,8 +305,8 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 6792,
-      "forks": 684,
+      "stars": 6834,
+      "forks": 686,
       "stars_24h": 666,
       "created_at": "2025-09-21T05:46:16+00:00",
       "language": "Python",
@@ -315,13 +323,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 35,
-      "open_issues": 60
+      "open_issues": 59
     },
     {
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9191,
+      "stars": 9200,
       "forks": 609,
       "stars_24h": 283,
       "created_at": "2022-03-09T09:18:22+00:00",
@@ -346,14 +354,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 42,
-      "open_issues": 323
+      "open_issues": 324
     },
     {
       "name": "obra/superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 53224,
-      "forks": 4045,
+      "stars": 53270,
+      "forks": 4047,
       "stars_24h": 725,
       "created_at": "2025-10-09T19:45:18+00:00",
       "language": "Shell",
@@ -366,14 +374,14 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 302,
-      "open_issues": 147
+      "watchers": 301,
+      "open_issues": 150
     },
     {
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3732,
+      "stars": 3748,
       "forks": 316,
       "stars_24h": 469,
       "created_at": "2025-12-12T12:36:45+00:00",
@@ -399,8 +407,8 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4264,
-      "forks": 227,
+      "stars": 4288,
+      "forks": 228,
       "stars_24h": 1473,
       "created_at": "2025-12-05T07:45:38+00:00",
       "language": "C++",
@@ -419,14 +427,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 23,
-      "open_issues": 45
+      "open_issues": 46
     },
     {
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 203834,
-      "forks": 36855,
+      "stars": 203998,
+      "forks": 36911,
       "stars_24h": 4201,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -446,15 +454,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1110,
-      "open_issues": 6977
+      "watchers": 1111,
+      "open_issues": 7002
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1086,
-      "forks": 378,
+      "stars": 1093,
+      "forks": 380,
       "stars_24h": 194,
       "created_at": "2025-12-09T15:19:10+00:00",
       "language": "JavaScript",
@@ -488,8 +496,8 @@
       "name": "ashishps1/awesome-system-design-resources",
       "owner": "ashishps1",
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "stars": 32638,
-      "forks": 7287,
+      "stars": 32662,
+      "forks": 7289,
       "stars_24h": 1097,
       "created_at": "2023-10-25T01:50:42+00:00",
       "language": "Java",
@@ -519,7 +527,7 @@
       "name": "steipete/summarize",
       "owner": "steipete",
       "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-      "stars": 3276,
+      "stars": 3297,
       "forks": 213,
       "stars_24h": 117,
       "created_at": "2025-12-17T12:19:51+00:00",
@@ -544,7 +552,7 @@
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 16826,
+      "stars": 16847,
       "forks": 4411,
       "stars_24h": 565,
       "created_at": "2019-04-02T21:41:52+00:00",
@@ -581,7 +589,7 @@
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14315,
+      "stars": 14334,
       "forks": 2424,
       "stars_24h": 102,
       "created_at": "2024-08-29T19:52:32+00:00",
@@ -601,8 +609,8 @@
       "name": "davila7/claude-code-templates",
       "owner": "davila7",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 20620,
-      "forks": 1927,
+      "stars": 20635,
+      "forks": 1929,
       "stars_24h": 110,
       "created_at": "2025-07-04T01:26:26+00:00",
       "language": "Python",
@@ -626,7 +634,7 @@
       "name": "OpenCTI-Platform/opencti",
       "owner": "OpenCTI-Platform",
       "description": "Open Cyber Threat Intelligence Platform",
-      "stars": 8282,
+      "stars": 8293,
       "forks": 1222,
       "stars_24h": 13,
       "created_at": "2018-12-17T22:57:34+00:00",
@@ -648,13 +656,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 147,
-      "open_issues": 1747
+      "open_issues": 1746
     },
     {
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6941,
+      "stars": 6942,
       "forks": 598,
       "stars_24h": 300,
       "created_at": "2025-06-07T04:32:30+00:00",
@@ -2513,16 +2521,6 @@
     },
     {
       "platform": "Galxe",
-      "title": "$1,000 USDT Prize Pool – Power Your Vault & Earn L2E Rewards!",
-      "task_type": "测试网",
-      "cost_tag": "0成本",
-      "risk_tag": "较低",
-      "deadline": 1771340399,
-      "url": "https://galxe.com/BeatSwap",
-      "note": "来自 BeatSwap 的热门活动"
-    },
-    {
-      "platform": "Galxe",
       "title": "ECOR | Clicked a couple of times — grabbed $1,000",
       "task_type": "测试网",
       "cost_tag": "0成本",
@@ -2530,6 +2528,16 @@
       "deadline": 1771606800,
       "url": "https://galxe.com/ECOR",
       "note": "来自 ECOR 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Follow UniMex X to Grab 4,500 UNX Tokens",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1771848000,
+      "url": "https://galxe.com/UniMex",
+      "note": "来自 UniMex 的热门活动"
     }
   ],
   "markets": [
