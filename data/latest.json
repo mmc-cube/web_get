@@ -1,85 +1,54 @@
 {
   "date": "2026-02-15",
-  "generated_at": "2026-02-17T05:09:31.153982",
+  "generated_at": "2026-02-17T06:09:21.974362",
   "brief": [
     {
-      "conclusion": "OpenAI已开始将GPT-5.3-Codex请求静默路由至GPT-5.2。",
-      "why_hot": "这表明了OpenAI在模型迭代和优化方面的持续努力。",
+      "conclusion": "OpenAI宣布将GPT-5.3-Codex请求重定向至GPT-5.2，以优化性能。",
+      "why_hot": "表明了OpenAI对模型效率和用户体验的持续优化。",
       "evidence_urls": [
         "https://github.com/openai/codex/issues/11561"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Alibaba发布了ZVec，一个轻量级、超快的进程内向量数据库。",
-      "why_hot": "这代表了阿里巴巴在高性能向量数据库技术上的最新突破。",
+      "conclusion": "Alibaba发布了一款轻量级、快速的进程内向量数据库zvec，适用于多种场景。",
+      "why_hot": "此工具可能为AI应用提供更高效的数据处理能力。",
       "evidence_urls": [
         "https://github.com/alibaba/zvec"
       ],
       "category": "github"
     },
     {
-      "conclusion": "Rowboat Labs推出了开源AI同事工具Rowboat，支持记忆功能。",
-      "why_hot": "为开发者提供了更高效的协作方式，特别是在远程工作环境中。",
+      "conclusion": "OpenClaw团队加入OpenAI，计划进一步开发个人AI助手。",
+      "why_hot": "这标志着OpenAI在构建跨平台AI助手方面的又一重要进展。",
       "evidence_urls": [
-        "https://github.com/rowboatlabs/rowboat"
-      ],
-      "category": "github"
-    },
-    {
-      "conclusion": "OpenClaw宣布加入OpenAI生态，成为个人AI助手的新选择。",
-      "why_hot": "标志着OpenAI生态系统进一步扩大其影响力与应用范围。",
-      "evidence_urls": [
-        "https://steipete.me/posts/2026/openclaw",
-        "https://github.com/openclaw/openclaw"
+        "https://steipete.me/posts/2026/openclaw"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Synkra AI发布了一个全栈开发的AI编排系统核心框架。",
-      "why_hot": "有助于加速软件开发流程中的自动化程度。",
+      "conclusion": "SynkraAI推出aios-core框架，旨在通过AI协调系统实现全栈开发自动化。",
+      "why_hot": "展示了AI在软件开发流程中扮演越来越重要的角色。",
       "evidence_urls": [
         "https://github.com/SynkraAI/aios-core"
       ],
       "category": "github"
     },
     {
-      "conclusion": "SushiSwap在Solana上推出新活动，参与者有机会赢得奖励。",
-      "why_hot": "这是DeFi领域两个重要项目合作的重要里程碑。",
-      "evidence_urls": [],
+      "conclusion": "SushiSwap与Solana合作推出新活动，参与用户有机会获得奖励。",
+      "why_hot": "这是DeFi领域两个重要项目之间的一次强强联合。",
+      "evidence_urls": [
+        "https://galxe.com/sushiswap/campaign/GCmXW"
+      ],
       "category": "web3"
     },
     {
-      "conclusion": "Jemini项目提供了一种新的方式来处理Epstein文件。",
-      "why_hot": "展示了自然语言处理技术在特定数据集上的应用潜力。",
+      "conclusion": "Rowboat发布开源AI同事项目，支持记忆功能。",
+      "why_hot": "强调了AI在协作工作中的潜力。",
       "evidence_urls": [
-        "https://jmail.world/jemini"
+        "https://github.com/rowboatlabs/rowboat"
       ],
-      "category": "ai"
-    },
-    {
-      "conclusion": "Claude Extender为Claude代码添加了自主代理管理功能。",
-      "why_hot": "增强了Claude作为AI助手的能力，使其更加灵活多用。",
-      "evidence_urls": [
-        "https://github.com/wbnns/cx"
-      ],
-      "category": "ai"
-    },
-    {
-      "conclusion": "Ollama for MLX (OMLX)是针对Apple Silicon优化的LLM推理服务器。",
-      "why_hot": "解决了苹果设备上运行大型语言模型的一个关键痛点。",
-      "evidence_urls": [
-        "https://github.com/jundot/omlx"
-      ],
-      "category": "ai"
-    },
-    {
-      "conclusion": "OpenSlimedit通过零配置减少了AI编码时的token使用量。",
-      "why_hot": "对于降低AI辅助编程的成本具有重要意义。",
-      "evidence_urls": [
-        "https://github.com/ASidorenkoCode/openslimedit"
-      ],
-      "category": "ai"
+      "category": "github"
     }
   ],
   "top_tweets": [
@@ -90,9 +59,9 @@
       "text": "I’m joining OpenAI.",
       "lang": "en",
       "created_at": "2026-02-15T21:54:15+00:00",
-      "likes": 1396,
+      "likes": 1400,
       "reposts": 0,
-      "replies": 1079,
+      "replies": 1081,
       "bookmarks": 0,
       "urls": [
         "https://steipete.me/posts/2026/openclaw"
@@ -101,8 +70,8 @@
         "观点"
       ],
       "is_ad_suspect": false,
-      "cluster_id": "cluster_033",
-      "heat_score": 4.88
+      "cluster_id": "cluster_034",
+      "heat_score": 4.89
     },
     {
       "id": "hn_47024892",
@@ -133,9 +102,9 @@
       "text": "Show HN: Jemini – Gemini for the Epstein Files.",
       "lang": "en",
       "created_at": "2026-02-16T05:53:03+00:00",
-      "likes": 302,
+      "likes": 314,
       "reposts": 0,
-      "replies": 57,
+      "replies": 60,
       "bookmarks": 0,
       "urls": [
         "https://jmail.world/jemini"
@@ -144,8 +113,8 @@
         "模型更新"
       ],
       "is_ad_suspect": false,
-      "cluster_id": "cluster_039",
-      "heat_score": 0.4
+      "cluster_id": "cluster_040",
+      "heat_score": 0.42
     },
     {
       "id": "hn_47025398",
@@ -306,8 +275,8 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 3799,
-      "forks": 203,
+      "stars": 3866,
+      "forks": 208,
       "stars_24h": 1094,
       "created_at": "2025-12-05T07:45:38+00:00",
       "language": "C++",
@@ -332,8 +301,8 @@
       "name": "nautechsystems/nautilus_trader",
       "owner": "nautechsystems",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "stars": 19834,
-      "forks": 2329,
+      "stars": 19844,
+      "forks": 2332,
       "stars_24h": 546,
       "created_at": "2018-06-25T06:26:16+00:00",
       "language": "Rust",
@@ -359,15 +328,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 179,
+      "watchers": 180,
       "open_issues": 67
     },
     {
       "name": "rowboatlabs/rowboat",
       "owner": "rowboatlabs",
       "description": "Open-source AI coworker, with memory",
-      "stars": 7390,
-      "forks": 621,
+      "stars": 7403,
+      "forks": 623,
       "stars_24h": 700,
       "created_at": "2025-01-13T09:30:40+00:00",
       "language": "TypeScript",
@@ -404,8 +373,8 @@
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3581,
-      "forks": 304,
+      "stars": 3592,
+      "forks": 305,
       "stars_24h": 637,
       "created_at": "2025-12-12T12:36:45+00:00",
       "language": "Go",
@@ -430,8 +399,8 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 202278,
-      "forks": 36367,
+      "stars": 202396,
+      "forks": 36424,
       "stars_24h": 3873,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -451,14 +420,14 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1096,
-      "open_issues": 6785
+      "watchers": 1100,
+      "open_issues": 6826
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1018,
+      "stars": 1024,
       "forks": 364,
       "stars_24h": 205,
       "created_at": "2025-12-09T15:19:10+00:00",
@@ -493,7 +462,7 @@
       "name": "letta-ai/letta-code",
       "owner": "letta-ai",
       "description": "The memory-first coding agent",
-      "stars": 1494,
+      "stars": 1503,
       "forks": 156,
       "stars_24h": 22,
       "created_at": "2025-10-25T04:17:51+00:00",
@@ -513,8 +482,8 @@
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6852,
-      "forks": 586,
+      "stars": 6860,
+      "forks": 587,
       "stars_24h": 344,
       "created_at": "2025-06-07T04:32:30+00:00",
       "language": "Python",
@@ -533,7 +502,7 @@
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9117,
+      "stars": 9126,
       "forks": 604,
       "stars_24h": 182,
       "created_at": "2022-03-09T09:18:22+00:00",
@@ -558,14 +527,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 42,
-      "open_issues": 321
+      "open_issues": 322
     },
     {
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 16635,
-      "forks": 4395,
+      "stars": 16657,
+      "forks": 4396,
       "stars_24h": 339,
       "created_at": "2019-04-02T21:41:52+00:00",
       "language": "Python",
@@ -594,15 +563,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 191,
+      "watchers": 192,
       "open_issues": 330
     },
     {
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14242,
-      "forks": 2417,
+      "stars": 14245,
+      "forks": 2418,
       "stars_24h": 165,
       "created_at": "2024-08-29T19:52:32+00:00",
       "language": "Python",
@@ -621,8 +590,8 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 6545,
-      "forks": 656,
+      "stars": 6562,
+      "forks": 657,
       "stars_24h": 891,
       "created_at": "2025-09-21T05:46:16+00:00",
       "language": "Python",
@@ -639,13 +608,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 35,
-      "open_issues": 62
+      "open_issues": 61
     },
     {
       "name": "hesreallyhim/awesome-claude-code",
       "owner": "hesreallyhim",
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
-      "stars": 23949,
+      "stars": 23956,
       "forks": 1412,
       "stars_24h": 133,
       "created_at": "2025-04-19T20:55:59+00:00",
@@ -685,8 +654,8 @@
       "name": "karpathy/nanochat",
       "owner": "karpathy",
       "description": "The best ChatGPT that $100 can buy.",
-      "stars": 43499,
-      "forks": 5668,
+      "stars": 43502,
+      "forks": 5669,
       "stars_24h": 100,
       "created_at": "2025-10-13T13:46:35+00:00",
       "language": "Python",
@@ -706,7 +675,7 @@
       "owner": "home-assistant",
       "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
       "stars": 84856,
-      "forks": 36766,
+      "forks": 36765,
       "stars_24h": 27,
       "created_at": "2013-09-17T07:29:48+00:00",
       "language": "Python",
@@ -728,13 +697,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 1330,
-      "open_issues": 3237
+      "open_issues": 3238
     }
   ],
   "github_new": [],
   "clusters": [
     {
-      "id": "cluster_033",
+      "id": "cluster_034",
       "title": "I’m joining OpenAI.",
       "theme": "Demos / New Apps",
       "heat_score": 2.5,
@@ -748,7 +717,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_039",
+      "id": "cluster_040",
       "title": "Show HN: Jemini – Gemini for the Epstein Files.",
       "theme": "Demos / New Apps",
       "heat_score": 0.4,
@@ -800,7 +769,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_057",
+      "id": "cluster_058",
       "title": "OpenClaw (ClawdBot) joins OpenAI.",
       "theme": "Demos / New Apps",
       "heat_score": 0.1,
@@ -818,7 +787,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_062",
+      "id": "cluster_063",
       "title": "Show HN: Lightwave – Real-time notes app, 3.5 years of hand-...",
       "theme": "Demos / New Apps",
       "heat_score": 0.1,
@@ -1439,6 +1408,25 @@
     },
     {
       "id": "cluster_032",
+      "title": "Show HN: LaTeX Salon, a Trystero-based multiplayer LaTeX scr...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "latex",
+        "show",
+        "salon",
+        "trystero",
+        "based",
+        "multiplayer",
+        "scratchpad"
+      ],
+      "tweet_ids": [
+        "hn_47025788"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_033",
       "title": "Show HN: Addictive little browser game involving gravity.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1457,7 +1445,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_034",
+      "id": "cluster_035",
       "title": "OpenClaw creator Peter Steinberger joins OpenAI.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1475,7 +1463,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_035",
+      "id": "cluster_036",
       "title": "Following Discord's suit, OpenAI will scan your usage and as...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1495,7 +1483,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_036",
+      "id": "cluster_037",
       "title": "Microsoft AI chief confirms plan to ditch OpenAI.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1513,7 +1501,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_037",
+      "id": "cluster_038",
       "title": "Peter Steinberger, creator of OpenClaw, joins OpenAI.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1531,7 +1519,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_038",
+      "id": "cluster_039",
       "title": "OpenAI Hires OpenClaw AI Agent Developer Peter Steinberg.",
       "theme": "Coding Agents",
       "heat_score": 0.0,
@@ -1550,7 +1538,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_040",
+      "id": "cluster_041",
       "title": "Gemini's mobile app inherits Google's location permissions.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1569,7 +1557,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_041",
+      "id": "cluster_042",
       "title": "Show HN: AIWriteBook – AI tool to write, design, and publish...",
       "theme": "Tooling / Infra",
       "heat_score": 0.0,
@@ -1589,7 +1577,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_042",
+      "id": "cluster_043",
       "title": "Show HN: Mindweave – AI-powered personal knowledge hub with ...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1609,7 +1597,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_043",
+      "id": "cluster_044",
       "title": "Show HN: Vibe Audit – Detecting Context Drift in Coding Agen...",
       "theme": "Coding Agents",
       "heat_score": 0.0,
@@ -1631,7 +1619,7 @@
       ]
     },
     {
-      "id": "cluster_044",
+      "id": "cluster_045",
       "title": "Show HN: Wisepanel – Multi-model AI panel for decision suppo...",
       "theme": "Model Releases & Updates",
       "heat_score": 0.0,
@@ -1650,7 +1638,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_045",
+      "id": "cluster_046",
       "title": "Show HN: Deadend CLI – Open-source self-hosted agentic pente...",
       "theme": "Coding Agents",
       "heat_score": 0.0,
@@ -1672,7 +1660,7 @@
       ]
     },
     {
-      "id": "cluster_046",
+      "id": "cluster_047",
       "title": "Anthropic resists as Department of War wants AI to kill.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1690,7 +1678,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_047",
+      "id": "cluster_048",
       "title": "Pentagon threatens to cut off Anthropic in AI safeguards dis...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1709,7 +1697,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_048",
+      "id": "cluster_049",
       "title": "Show HN: MarginDash – See which AI customers are profitable.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1727,7 +1715,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_049",
+      "id": "cluster_050",
       "title": "Show HN: LLM AuthZ Audit – find auth gaps and prompt injecti...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1749,7 +1737,7 @@
       ]
     },
     {
-      "id": "cluster_050",
+      "id": "cluster_051",
       "title": "Show HN: Minisft – from base model to chat model.",
       "theme": "Model Releases & Updates",
       "heat_score": 0.0,
@@ -1768,7 +1756,7 @@
       ]
     },
     {
-      "id": "cluster_051",
+      "id": "cluster_052",
       "title": "Where Does Ollama run glm-5:cloud Run? And other Security Bl...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1788,7 +1776,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_052",
+      "id": "cluster_053",
       "title": "I made a real BMO local AI agent with a Raspberry Pi and Oll...",
       "theme": "Coding Agents",
       "heat_score": 0.0,
@@ -1807,7 +1795,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_053",
+      "id": "cluster_054",
       "title": "Show HN: AgentKV – SQLite for AI agent memory (MMAP vector+g...",
       "theme": "Coding Agents",
       "heat_score": 0.0,
@@ -1829,7 +1817,7 @@
       ]
     },
     {
-      "id": "cluster_054",
+      "id": "cluster_055",
       "title": "I got tired of babysitting Claude,so I built AI agent that r...",
       "theme": "Coding Agents",
       "heat_score": 0.0,
@@ -1851,7 +1839,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_055",
+      "id": "cluster_056",
       "title": "Codex CLI might silently re-route your GPT-5.3 traffic to GP...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1870,7 +1858,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_056",
+      "id": "cluster_057",
       "title": "Show HN: PolyMCP – A framework for structuring and orchestra...",
       "theme": "Tooling / Infra",
       "heat_score": 0.0,
@@ -1889,7 +1877,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_058",
+      "id": "cluster_059",
       "title": "Show HN: I built \"Docker for code\", isolate AI logic into se...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1909,7 +1897,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_059",
+      "id": "cluster_060",
       "title": "Ask HN: LLMs helping you read papers and books.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1927,7 +1915,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_060",
+      "id": "cluster_061",
       "title": "LLM-written short story about being a LLM.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1944,7 +1932,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_061",
+      "id": "cluster_062",
       "title": "Launched Book Digest on PH – learned that users want 3x more...",
       "theme": "Model Releases & Updates",
       "heat_score": 0.0,
@@ -1964,7 +1952,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_063",
+      "id": "cluster_064",
       "title": "Ask HN: What's the best realtime, local, TTS solution? Live ...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1984,7 +1972,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_064",
+      "id": "cluster_065",
       "title": "Top non-ad google result for \"polymarket\" in Australia is a ...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
