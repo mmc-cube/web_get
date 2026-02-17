@@ -1,76 +1,68 @@
 {
   "date": "2026-02-16",
-  "generated_at": "2026-02-17T11:52:42.777467",
+  "generated_at": "2026-02-17T12:30:15.089608",
   "brief": [
     {
-      "conclusion": "Anthropic试图隐藏Claude的AI操作，引发开发者不满。",
-      "why_hot": "揭示了AI模型透明度问题对开发者信任的影响。",
+      "conclusion": "Anthropic试图隐藏Claude AI的行为，引发开发者不满。",
+      "why_hot": "反映了AI工具透明度与用户信任之间的紧张关系。",
       "evidence_urls": [
         "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Claude-engram项目为Claude AI引入了脑启发的持久记忆功能。",
-      "why_hot": "展示了将生物学概念融入AI设计以增强其能力的趋势。",
+      "conclusion": "Claude-engram项目尝试为Claude添加持久记忆功能。",
+      "why_hot": "展示了如何通过模拟大脑机制来增强现有AI模型的能力。",
       "evidence_urls": [
         "https://github.com/mlapeter/claude-engram"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Agent Forge项目提供了持久内存和桌面自动化支持给Claude Code。",
-      "why_hot": "强调了通过外部工具扩展现有AI助手功能的重要性。",
+      "conclusion": "Agent Forge为Claude Code提供桌面自动化和持久内存支持。",
+      "why_hot": "增强了Claude在复杂任务处理中的实用性和可靠性。",
       "evidence_urls": [
         "https://github.com/WeberG619/agent-forge"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "荷兰政府发布了针对Claude插件集。",
-      "why_hot": "表明政府机构正积极采用先进AI技术提高工作效率。",
+      "conclusion": "荷兰政府发布了一套针对Claude的插件集合。",
+      "why_hot": "表明了公共部门对于利用先进AI技术提高效率的兴趣。",
       "evidence_urls": [
         "https://github.com/MinBZK/overheid-claude-plugins"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Comfy Pilot允许Claude Code编辑ComfyUI工作流。",
-      "why_hot": "体现了AI在图形界面定制领域的应用潜力。",
+      "conclusion": "Comfy Pilot是一个让Claude Code能够编辑ComfyUI工作流程的服务。",
+      "why_hot": "促进了不同AI工具间的互操作性。",
       "evidence_urls": [
         "https://github.com/ConstantineB6/comfy-pilot"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "p-e-w/heretic项目新增891星，总星数达6,674。",
-      "why_hot": "全自动语言模型审查移除工具受到广泛关注。",
+      "conclusion": "p-e-w/heretic项目自动移除语言模型中的审查内容，今日新增891星。",
+      "why_hot": "代表了开源社区对言论自由的支持态度。",
       "evidence_urls": [
         "https://github.com/p-e-w/heretic"
       ],
       "category": "github"
     },
     {
-      "conclusion": "alibaba/zvec项目新增1,473星，总星数达4,194。",
-      "why_hot": "轻量级、快速的进程内向量数据库解决方案吸引了大量关注。",
+      "conclusion": "alibaba/zvec是一款轻量级、超快的进程内向量数据库，今日新增1473星。",
+      "why_hot": "满足了快速增长的数据检索需求。",
       "evidence_urls": [
         "https://github.com/alibaba/zvec"
       ],
       "category": "github"
     },
     {
-      "conclusion": "SushiSwap与Solana合作推出新活动。",
-      "why_hot": "结合了两大热门区块链平台，为用户带来新的参与机会。",
+      "conclusion": "SushiSwap宣布与Solana合作推出新活动。",
+      "why_hot": "这标志着DeFi领域两大重要玩家之间的战略合作。",
       "evidence_urls": [
-        "https://galxe.com/SushiXSolanaLaunch"
-      ],
-      "category": "web3"
-    },
-    {
-      "conclusion": "BeatSwap提供$1,000 USDT奖池激励用户参与。",
-      "why_hot": "鼓励用户利用去中心化金融工具获取奖励。",
-      "evidence_urls": [
-        "https://galxe.com/beatswap-l2e-rewards"
+        "https://galxe.com/sushiswap/campaign/GCvEzV"
       ],
       "category": "web3"
     }
@@ -297,8 +289,8 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 6674,
-      "forks": 665,
+      "stars": 6701,
+      "forks": 668,
       "stars_24h": 891,
       "created_at": "2025-09-21T05:46:16+00:00",
       "language": "Python",
@@ -321,8 +313,8 @@
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9166,
-      "forks": 607,
+      "stars": 9173,
+      "forks": 608,
       "stars_24h": 182,
       "created_at": "2022-03-09T09:18:22+00:00",
       "language": "TypeScript",
@@ -346,14 +338,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 42,
-      "open_issues": 323
+      "open_issues": 324
     },
     {
       "name": "obra/superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 53121,
-      "forks": 4033,
+      "stars": 53139,
+      "forks": 4036,
       "stars_24h": 725,
       "created_at": "2025-10-09T19:45:18+00:00",
       "language": "Shell",
@@ -373,8 +365,8 @@
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3691,
-      "forks": 313,
+      "stars": 3704,
+      "forks": 315,
       "stars_24h": 469,
       "created_at": "2025-12-12T12:36:45+00:00",
       "language": "Go",
@@ -399,8 +391,8 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4194,
-      "forks": 221,
+      "stars": 4217,
+      "forks": 224,
       "stars_24h": 1473,
       "created_at": "2025-12-05T07:45:38+00:00",
       "language": "C++",
@@ -425,8 +417,8 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 203332,
-      "forks": 36713,
+      "stars": 203442,
+      "forks": 36733,
       "stars_24h": 4201,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -446,15 +438,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1109,
-      "open_issues": 6912
+      "watchers": 1112,
+      "open_issues": 6929
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1059,
-      "forks": 366,
+      "stars": 1064,
+      "forks": 369,
       "stars_24h": 194,
       "created_at": "2025-12-09T15:19:10+00:00",
       "language": "JavaScript",
@@ -488,8 +480,8 @@
       "name": "ashishps1/awesome-system-design-resources",
       "owner": "ashishps1",
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "stars": 32563,
-      "forks": 7279,
+      "stars": 32577,
+      "forks": 7281,
       "stars_24h": 1097,
       "created_at": "2023-10-25T01:50:42+00:00",
       "language": "Java",
@@ -516,11 +508,36 @@
       "open_issues": 6
     },
     {
+      "name": "steipete/summarize",
+      "owner": "steipete",
+      "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+      "stars": 3239,
+      "forks": 213,
+      "stars_24h": 117,
+      "created_at": "2025-12-17T12:19:51+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "cli",
+        "summarize",
+        "typescript"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 14,
+      "open_issues": 26
+    },
+    {
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 16771,
-      "forks": 4406,
+      "stars": 16782,
+      "forks": 4408,
       "stars_24h": 339,
       "created_at": "2019-04-02T21:41:52+00:00",
       "language": "Python",
@@ -556,8 +573,8 @@
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14271,
-      "forks": 2422,
+      "stars": 14283,
+      "forks": 2423,
       "stars_24h": 165,
       "created_at": "2024-08-29T19:52:32+00:00",
       "language": "Python",
@@ -576,7 +593,7 @@
       "name": "davila7/claude-code-templates",
       "owner": "davila7",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 20597,
+      "stars": 20600,
       "forks": 1926,
       "stars_24h": 216,
       "created_at": "2025-07-04T01:26:26+00:00",
@@ -601,7 +618,7 @@
       "name": "OpenCTI-Platform/opencti",
       "owner": "OpenCTI-Platform",
       "description": "Open Cyber Threat Intelligence Platform",
-      "stars": 8247,
+      "stars": 8252,
       "forks": 1221,
       "stars_24h": 13,
       "created_at": "2018-12-17T22:57:34+00:00",
@@ -623,14 +640,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 147,
-      "open_issues": 1751
+      "open_issues": 1750
     },
     {
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6931,
-      "forks": 597,
+      "stars": 6933,
+      "forks": 598,
       "stars_24h": 300,
       "created_at": "2025-06-07T04:32:30+00:00",
       "language": "Python",
@@ -682,35 +699,6 @@
       "trend_status": "new",
       "watchers": 19,
       "open_issues": 7
-    },
-    {
-      "name": "kaifcodec/user-scanner",
-      "owner": "kaifcodec",
-      "description": "🕵️🫆 (2-in-1) Emaill and Username  OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis",
-      "stars": 708,
-      "forks": 72,
-      "stars_24h": 33,
-      "created_at": "2025-10-19T04:21:48+00:00",
-      "language": "Python",
-      "topics": [
-        "email-osint",
-        "osint",
-        "osint-email",
-        "osint-tool",
-        "osint-tools",
-        "osint-username",
-        "python",
-        "username-osint"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 8,
-      "open_issues": 10
     }
   ],
   "github_new": [],
@@ -748,6 +736,25 @@
       ],
       "tweet_ids": [
         "hn_47038270"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_028",
+      "title": "Show HN: Glitchy camera – a circuit-bent camera simulator in...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.1,
+      "keywords": [
+        "camera",
+        "show",
+        "glitchy",
+        "circuit",
+        "bent",
+        "simulator",
+        "browser"
+      ],
+      "tweet_ids": [
+        "hn_47033954"
       ],
       "repo_names": []
     },
@@ -1101,26 +1108,6 @@
     },
     {
       "id": "cluster_017",
-      "title": "US Military used Anthropic's AI model Claude in Venezuela ra...",
-      "theme": "Model Releases & Updates",
-      "heat_score": 0.0,
-      "keywords": [
-        "military",
-        "used",
-        "anthropic",
-        "model",
-        "claude",
-        "venezuela",
-        "raid",
-        "report"
-      ],
-      "tweet_ids": [
-        "hn_47036533"
-      ],
-      "repo_names": []
-    },
-    {
-      "id": "cluster_018",
       "title": "Grug Meets His Match – Or – Grug, Claude, and Big Snap Man.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1136,6 +1123,26 @@
       ],
       "tweet_ids": [
         "hn_47044125"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_018",
+      "title": "US Military used Anthropic's AI model Claude in Venezuela ra...",
+      "theme": "Model Releases & Updates",
+      "heat_score": 0.0,
+      "keywords": [
+        "military",
+        "used",
+        "anthropic",
+        "model",
+        "claude",
+        "venezuela",
+        "raid",
+        "report"
+      ],
+      "tweet_ids": [
+        "hn_47036533"
       ],
       "repo_names": []
     },
@@ -1305,25 +1312,6 @@
       "repo_names": [
         "Kuberwastaken/picogpt"
       ]
-    },
-    {
-      "id": "cluster_028",
-      "title": "Show HN: Glitchy camera – a circuit-bent camera simulator in...",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.0,
-      "keywords": [
-        "camera",
-        "show",
-        "glitchy",
-        "circuit",
-        "bent",
-        "simulator",
-        "browser"
-      ],
-      "tweet_ids": [
-        "hn_47033954"
-      ],
-      "repo_names": []
     },
     {
       "id": "cluster_029",
