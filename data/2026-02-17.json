@@ -1,82 +1,85 @@
 {
   "date": "2026-02-15",
-  "generated_at": "2026-02-17T03:38:21.621444",
+  "generated_at": "2026-02-17T05:09:31.153982",
   "brief": [
     {
-      "conclusion": "OpenAI宣布路由GPT-5.3-Codex请求至GPT-5.2，以优化性能。",
-      "why_hot": "此调整可能影响使用Codex的开发者体验和应用表现。",
+      "conclusion": "OpenAI已开始将GPT-5.3-Codex请求静默路由至GPT-5.2。",
+      "why_hot": "这表明了OpenAI在模型迭代和优化方面的持续努力。",
       "evidence_urls": [
         "https://github.com/openai/codex/issues/11561"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "知名开发者mfiguiere加入OpenAI团队，或带来新一波技术创新。",
-      "why_hot": "关键人才流动往往预示着企业未来发展方向的重大变化。",
-      "evidence_urls": [
-        "https://steipete.me/posts/2026/openclaw"
-      ],
-      "category": "ai"
-    },
-    {
-      "conclusion": "Alibaba发布zvec项目，提供轻量级向量数据库解决方案。",
-      "why_hot": "该项目旨在解决高效数据检索问题，对AI应用场景有重要价值。",
+      "conclusion": "Alibaba发布了ZVec，一个轻量级、超快的进程内向量数据库。",
+      "why_hot": "这代表了阿里巴巴在高性能向量数据库技术上的最新突破。",
       "evidence_urls": [
         "https://github.com/alibaba/zvec"
       ],
       "category": "github"
     },
     {
-      "conclusion": "Nautilus Trader作为高性能算法交易平台亮相GitHub趋势榜。",
-      "why_hot": "它代表了金融技术领域利用AI进行更智能决策的趋势。",
-      "evidence_urls": [
-        "https://github.com/nautechsystems/nautilus_trader"
-      ],
-      "category": "github"
-    },
-    {
-      "conclusion": "OpenSlimedit开源工具可显著减少AI编码时的token消耗。",
-      "why_hot": "这有助于降低开发成本并提高效率。",
-      "evidence_urls": [
-        "https://github.com/ASidorenkoCode/openslimedit"
-      ],
-      "category": "ai"
-    },
-    {
-      "conclusion": "Rowboat推出带有记忆功能的开源AI同事助手。",
-      "why_hot": "该工具展示了AI在日常工作中辅助人类的新方式。",
+      "conclusion": "Rowboat Labs推出了开源AI同事工具Rowboat，支持记忆功能。",
+      "why_hot": "为开发者提供了更高效的协作方式，特别是在远程工作环境中。",
       "evidence_urls": [
         "https://github.com/rowboatlabs/rowboat"
       ],
       "category": "github"
     },
     {
-      "conclusion": "OpenClaw成为今日GitHub上增长最快的项目之一，新增数千星标。",
-      "why_hot": "其跨平台兼容性和个性化定制能力吸引了大量关注。",
+      "conclusion": "OpenClaw宣布加入OpenAI生态，成为个人AI助手的新选择。",
+      "why_hot": "标志着OpenAI生态系统进一步扩大其影响力与应用范围。",
       "evidence_urls": [
+        "https://steipete.me/posts/2026/openclaw",
         "https://github.com/openclaw/openclaw"
       ],
-      "category": "github"
+      "category": "ai"
     },
     {
-      "conclusion": "Synkra AIOS核心框架发布，旨在通过AI协调全栈开发流程。",
-      "why_hot": "表明AI正逐渐渗透到软件工程的各个层面。",
+      "conclusion": "Synkra AI发布了一个全栈开发的AI编排系统核心框架。",
+      "why_hot": "有助于加速软件开发流程中的自动化程度。",
       "evidence_urls": [
         "https://github.com/SynkraAI/aios-core"
       ],
       "category": "github"
     },
     {
-      "conclusion": "SushiSwap与Solana合作推出新活动，为参与者提供奖励。",
-      "why_hot": "此类合作有助于促进区块链生态系统内的用户参与度。",
+      "conclusion": "SushiSwap在Solana上推出新活动，参与者有机会赢得奖励。",
+      "why_hot": "这是DeFi领域两个重要项目合作的重要里程碑。",
       "evidence_urls": [],
       "category": "web3"
     },
     {
-      "conclusion": "BeatSwap发起L2E（Learn to Earn）计划，设置1,000 USDT奖池激励用户。",
-      "why_hot": "这种模式鼓励更多人学习加密货币知识同时获得收益。",
-      "evidence_urls": [],
-      "category": "web3"
+      "conclusion": "Jemini项目提供了一种新的方式来处理Epstein文件。",
+      "why_hot": "展示了自然语言处理技术在特定数据集上的应用潜力。",
+      "evidence_urls": [
+        "https://jmail.world/jemini"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "Claude Extender为Claude代码添加了自主代理管理功能。",
+      "why_hot": "增强了Claude作为AI助手的能力，使其更加灵活多用。",
+      "evidence_urls": [
+        "https://github.com/wbnns/cx"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "Ollama for MLX (OMLX)是针对Apple Silicon优化的LLM推理服务器。",
+      "why_hot": "解决了苹果设备上运行大型语言模型的一个关键痛点。",
+      "evidence_urls": [
+        "https://github.com/jundot/omlx"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "OpenSlimedit通过零配置减少了AI编码时的token使用量。",
+      "why_hot": "对于降低AI辅助编程的成本具有重要意义。",
+      "evidence_urls": [
+        "https://github.com/ASidorenkoCode/openslimedit"
+      ],
+      "category": "ai"
     }
   ],
   "top_tweets": [
@@ -87,9 +90,9 @@
       "text": "I’m joining OpenAI.",
       "lang": "en",
       "created_at": "2026-02-15T21:54:15+00:00",
-      "likes": 1395,
+      "likes": 1396,
       "reposts": 0,
-      "replies": 1076,
+      "replies": 1079,
       "bookmarks": 0,
       "urls": [
         "https://steipete.me/posts/2026/openclaw"
@@ -99,7 +102,7 @@
       ],
       "is_ad_suspect": false,
       "cluster_id": "cluster_033",
-      "heat_score": 4.87
+      "heat_score": 4.88
     },
     {
       "id": "hn_47024892",
@@ -122,6 +125,27 @@
       "is_ad_suspect": false,
       "cluster_id": "cluster_024",
       "heat_score": 0.42
+    },
+    {
+      "id": "hn_47031334",
+      "author_name": "dvrp",
+      "author_handle": "@dvrp",
+      "text": "Show HN: Jemini – Gemini for the Epstein Files.",
+      "lang": "en",
+      "created_at": "2026-02-16T05:53:03+00:00",
+      "likes": 302,
+      "reposts": 0,
+      "replies": 57,
+      "bookmarks": 0,
+      "urls": [
+        "https://jmail.world/jemini"
+      ],
+      "tags": [
+        "模型更新"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_039",
+      "heat_score": 0.4
     },
     {
       "id": "hn_47025398",
@@ -212,27 +236,6 @@
       "heat_score": 0.37
     },
     {
-      "id": "hn_47031334",
-      "author_name": "dvrp",
-      "author_handle": "@dvrp",
-      "text": "Show HN: Jemini – Gemini for the Epstein Files.",
-      "lang": "en",
-      "created_at": "2026-02-16T05:53:03+00:00",
-      "likes": 279,
-      "reposts": 0,
-      "replies": 53,
-      "bookmarks": 0,
-      "urls": [
-        "https://jmail.world/jemini"
-      ],
-      "tags": [
-        "模型更新"
-      ],
-      "is_ad_suspect": false,
-      "cluster_id": "cluster_039",
-      "heat_score": 0.37
-    },
-    {
       "id": "hn_47026886",
       "author_name": "crog",
       "author_handle": "@crog",
@@ -303,8 +306,8 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 3731,
-      "forks": 199,
+      "stars": 3799,
+      "forks": 203,
       "stars_24h": 1094,
       "created_at": "2025-12-05T07:45:38+00:00",
       "language": "C++",
@@ -329,8 +332,8 @@
       "name": "nautechsystems/nautilus_trader",
       "owner": "nautechsystems",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "stars": 19813,
-      "forks": 2325,
+      "stars": 19834,
+      "forks": 2329,
       "stars_24h": 546,
       "created_at": "2018-06-25T06:26:16+00:00",
       "language": "Rust",
@@ -357,13 +360,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 179,
-      "open_issues": 66
+      "open_issues": 67
     },
     {
       "name": "rowboatlabs/rowboat",
       "owner": "rowboatlabs",
       "description": "Open-source AI coworker, with memory",
-      "stars": 7361,
+      "stars": 7390,
       "forks": 621,
       "stars_24h": 700,
       "created_at": "2025-01-13T09:30:40+00:00",
@@ -401,8 +404,8 @@
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3553,
-      "forks": 303,
+      "stars": 3581,
+      "forks": 304,
       "stars_24h": 637,
       "created_at": "2025-12-12T12:36:45+00:00",
       "language": "Go",
@@ -427,8 +430,8 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 202046,
-      "forks": 36274,
+      "stars": 202278,
+      "forks": 36367,
       "stars_24h": 3873,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -449,14 +452,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 1096,
-      "open_issues": 6775
+      "open_issues": 6785
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1010,
-      "forks": 358,
+      "stars": 1018,
+      "forks": 364,
       "stars_24h": 205,
       "created_at": "2025-12-09T15:19:10+00:00",
       "language": "JavaScript",
@@ -483,14 +486,14 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 38,
+      "watchers": 40,
       "open_issues": 24
     },
     {
       "name": "letta-ai/letta-code",
       "owner": "letta-ai",
       "description": "The memory-first coding agent",
-      "stars": 1478,
+      "stars": 1494,
       "forks": 156,
       "stars_24h": 22,
       "created_at": "2025-10-25T04:17:51+00:00",
@@ -510,8 +513,8 @@
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6831,
-      "forks": 585,
+      "stars": 6852,
+      "forks": 586,
       "stars_24h": 344,
       "created_at": "2025-06-07T04:32:30+00:00",
       "language": "Python",
@@ -530,8 +533,8 @@
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9094,
-      "forks": 603,
+      "stars": 9117,
+      "forks": 604,
       "stars_24h": 182,
       "created_at": "2022-03-09T09:18:22+00:00",
       "language": "TypeScript",
@@ -561,8 +564,8 @@
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 16613,
-      "forks": 4389,
+      "stars": 16635,
+      "forks": 4395,
       "stars_24h": 339,
       "created_at": "2019-04-02T21:41:52+00:00",
       "language": "Python",
@@ -598,8 +601,8 @@
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14236,
-      "forks": 2416,
+      "stars": 14242,
+      "forks": 2417,
       "stars_24h": 165,
       "created_at": "2024-08-29T19:52:32+00:00",
       "language": "Python",
@@ -618,8 +621,8 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 6509,
-      "forks": 650,
+      "stars": 6545,
+      "forks": 656,
       "stars_24h": 891,
       "created_at": "2025-09-21T05:46:16+00:00",
       "language": "Python",
@@ -642,7 +645,7 @@
       "name": "hesreallyhim/awesome-claude-code",
       "owner": "hesreallyhim",
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
-      "stars": 23940,
+      "stars": 23949,
       "forks": 1412,
       "stars_24h": 133,
       "created_at": "2025-04-19T20:55:59+00:00",
@@ -682,7 +685,7 @@
       "name": "karpathy/nanochat",
       "owner": "karpathy",
       "description": "The best ChatGPT that $100 can buy.",
-      "stars": 43495,
+      "stars": 43499,
       "forks": 5668,
       "stars_24h": 100,
       "created_at": "2025-10-13T13:46:35+00:00",
@@ -703,7 +706,7 @@
       "owner": "home-assistant",
       "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
       "stars": 84856,
-      "forks": 36763,
+      "forks": 36766,
       "stars_24h": 27,
       "created_at": "2013-09-17T07:29:48+00:00",
       "language": "Python",
@@ -745,6 +748,23 @@
       "repo_names": []
     },
     {
+      "id": "cluster_039",
+      "title": "Show HN: Jemini – Gemini for the Epstein Files.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.4,
+      "keywords": [
+        "show",
+        "jemini",
+        "gemini",
+        "epstein",
+        "files"
+      ],
+      "tweet_ids": [
+        "hn_47031334"
+      ],
+      "repo_names": []
+    },
+    {
       "id": "cluster_008",
       "title": "Two different tricks for fast LLM inference.",
       "theme": "Demos / New Apps",
@@ -776,23 +796,6 @@
       ],
       "tweet_ids": [
         "hn_47026186"
-      ],
-      "repo_names": []
-    },
-    {
-      "id": "cluster_039",
-      "title": "Show HN: Jemini – Gemini for the Epstein Files.",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.3,
-      "keywords": [
-        "show",
-        "jemini",
-        "gemini",
-        "epstein",
-        "files"
-      ],
-      "tweet_ids": [
-        "hn_47031334"
       ],
       "repo_names": []
     },
