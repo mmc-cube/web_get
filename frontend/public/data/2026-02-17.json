@@ -1,84 +1,76 @@
 {
   "date": "2026-02-16",
-  "generated_at": "2026-02-17T15:29:18.838741",
+  "generated_at": "2026-02-17T16:29:26.303122",
   "brief": [
     {
-      "conclusion": "Anthropic试图隐藏Claude AI的行为，引发开发者不满。",
-      "why_hot": "反映了AI模型透明度与开发者信任间的重要平衡问题。",
+      "conclusion": "Anthropic试图隐藏Claude的AI行为，开发者对此表示不满。",
+      "why_hot": "这反映了透明度在AI行业中的重要性以及开发者对工具控制权的关注。",
       "evidence_urls": [
         "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Claude-engram项目推出，提供受大脑启发的持久内存功能。",
-      "why_hot": "探索了AI系统如何模仿人脑长期记忆机制的新方向。",
+      "conclusion": "Claude-engram项目提供了一种受大脑启发的持久内存解决方案。",
+      "why_hot": "此项目展示了如何利用生物灵感增强AI的记忆能力。",
       "evidence_urls": [
         "https://github.com/mlapeter/claude-engram"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Agent Forge发布，旨在为Claude Code增加持久化存储和桌面自动化能力。",
-      "why_hot": "展示了通过外部工具增强现有AI助手功能的可能性。",
+      "conclusion": "Agent Forge为Claude Code增加了持久内存和桌面自动化功能。",
+      "why_hot": "它代表了向更强大、更可靠的AI辅助开发工具迈进的重要一步。",
       "evidence_urls": [
         "https://github.com/WeberG619/agent-forge"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "荷兰政府发布了针对Claude插件集，以提高公共服务效率。",
-      "why_hot": "标志着国家层面开始正式采用AI技术优化政务流程。",
+      "conclusion": "荷兰政府发布了针对Claude的插件集。",
+      "why_hot": "这表明政府机构正积极采用AI技术以提高公共服务效率。",
       "evidence_urls": [
         "https://github.com/MinBZK/overheid-claude-plugins"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Comfy Pilot允许用户利用Claude Code编辑ComfyUI工作流。",
-      "why_hot": "促进了不同AI平台之间的互操作性。",
+      "conclusion": "Comfy Pilot允许Claude Code编辑ComfyUI工作流。",
+      "why_hot": "该项目推动了AI与现有图形界面设计工具之间的集成。",
       "evidence_urls": [
         "https://github.com/ConstantineB6/comfy-pilot"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Dewdrops项目可将Git仓库转换成单一Markdown文件供LLM使用。",
-      "why_hot": "简化了AI处理复杂代码库的过程。",
-      "evidence_urls": [
-        "https://github.com/MedUnes/dewdrops"
-      ],
-      "category": "github"
-    },
-    {
-      "conclusion": "HJX语言结合HTML、CSS和JavaScript，专为AI原生Web开发设计。",
-      "why_hot": "提出了一种全新的编程范式，可能改变未来网页开发方式。",
-      "evidence_urls": [
-        "https://github.com/loayabdalslam/hjx"
-      ],
-      "category": "github"
-    },
-    {
-      "conclusion": "p-e-w/heretic项目自动移除语言模型中的审查内容。",
-      "why_hot": "反映了当前社会对言论自由与信息开放性的关注。",
+      "conclusion": "p-e-w/heretic项目今日新上榜，旨在自动去除语言模型中的审查。",
+      "why_hot": "该项目解决了当前AI生成内容可能存在的信息过滤问题。",
       "evidence_urls": [
         "https://github.com/p-e-w/heretic"
       ],
       "category": "github"
     },
     {
-      "conclusion": "SushiSwap在Solana上启动新活动，参与者有机会赢取奖励。",
-      "why_hot": "表明跨链合作正在成为加密货币领域的一个重要趋势。",
+      "conclusion": "alibaba/zvec作为轻量级向量数据库发布，迅速获得关注。",
+      "why_hot": "高效的数据处理能力对于现代AI应用至关重要。",
       "evidence_urls": [
-        "https://galxe.com/SushiSwap/campaign/GCQh5v"
+        "https://github.com/alibaba/zvec"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "SushiSwap与Solana合作推出活动，参与者有机会赢取奖励。",
+      "why_hot": "此类活动有助于促进DeFi平台间的用户互动及社区增长。",
+      "evidence_urls": [
+        "https://galxe.com/sushiswap/campaign/GCjRJW"
       ],
       "category": "web3"
     },
     {
-      "conclusion": "参与UniMex X活动即可获得4,500 UNX代币。",
-      "why_hot": "提供了普通用户接触并了解DeFi项目的低门槛机会。",
+      "conclusion": "UniMex X邀请用户关注其社交媒体账号以获取UNX代币。",
+      "why_hot": "通过简单的参与即可获得加密货币奖励，吸引了不少Web3新手。",
       "evidence_urls": [
-        "https://galxe.com/UniMexX/campaign/GCQg5v"
+        "https://galxe.com/unimexx/campaign/GCjQcE"
       ],
       "category": "web3"
     }
@@ -91,9 +83,9 @@
       "text": "Anthropic tries to hide Claude's AI actions. Devs hate it.",
       "lang": "en",
       "created_at": "2026-02-16T11:06:28+00:00",
-      "likes": 379,
+      "likes": 382,
       "reposts": 0,
-      "replies": 237,
+      "replies": 239,
       "bookmarks": 0,
       "urls": [
         "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
@@ -103,7 +95,7 @@
       ],
       "is_ad_suspect": false,
       "cluster_id": "cluster_015",
-      "heat_score": 1.31
+      "heat_score": 1.32
     },
     {
       "id": "hn_47037566",
@@ -222,7 +214,7 @@
       "text": "Show HN: Maths, CS and AI Compendium.",
       "lang": "en",
       "created_at": "2026-02-16T15:15:50+00:00",
-      "likes": 81,
+      "likes": 83,
       "reposts": 0,
       "replies": 18,
       "bookmarks": 0,
@@ -305,8 +297,8 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 6834,
-      "forks": 686,
+      "stars": 6870,
+      "forks": 688,
       "stars_24h": 666,
       "created_at": "2025-09-21T05:46:16+00:00",
       "language": "Python",
@@ -329,39 +321,28 @@
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9200,
+      "stars": 9218,
       "forks": 609,
       "stars_24h": 283,
-      "created_at": "2022-03-09T09:18:22+00:00",
+      "created_at": "2026-02-17T16:28:50.977592",
       "language": "TypeScript",
-      "topics": [
-        "docker",
-        "emby",
-        "jellyfin",
-        "movie",
-        "notifications",
-        "nzb",
-        "plex",
-        "radarr",
-        "sonarr",
-        "tv"
-      ],
+      "topics": [],
       "readme_summary": "",
       "relevance_tags": [
         "tooling"
       ],
-      "is_new": false,
+      "is_new": true,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 42,
-      "open_issues": 324
+      "watchers": 0,
+      "open_issues": 0
     },
     {
       "name": "obra/superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 53270,
-      "forks": 4047,
+      "stars": 53304,
+      "forks": 4050,
       "stars_24h": 725,
       "created_at": "2025-10-09T19:45:18+00:00",
       "language": "Shell",
@@ -381,7 +362,7 @@
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3748,
+      "stars": 3760,
       "forks": 316,
       "stars_24h": 469,
       "created_at": "2025-12-12T12:36:45+00:00",
@@ -407,7 +388,7 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4288,
+      "stars": 4321,
       "forks": 228,
       "stars_24h": 1473,
       "created_at": "2025-12-05T07:45:38+00:00",
@@ -433,8 +414,8 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 203998,
-      "forks": 36911,
+      "stars": 204200,
+      "forks": 36984,
       "stars_24h": 4201,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -454,15 +435,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1111,
-      "open_issues": 7002
+      "watchers": 1110,
+      "open_issues": 7024
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1093,
-      "forks": 380,
+      "stars": 1096,
+      "forks": 382,
       "stars_24h": 194,
       "created_at": "2025-12-09T15:19:10+00:00",
       "language": "JavaScript",
@@ -496,9 +477,9 @@
       "name": "ashishps1/awesome-system-design-resources",
       "owner": "ashishps1",
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "stars": 32662,
-      "forks": 7289,
-      "stars_24h": 1097,
+      "stars": 32684,
+      "forks": 7293,
+      "stars_24h": 457,
       "created_at": "2023-10-25T01:50:42+00:00",
       "language": "Java",
       "topics": [
@@ -527,8 +508,8 @@
       "name": "steipete/summarize",
       "owner": "steipete",
       "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-      "stars": 3297,
-      "forks": 213,
+      "stars": 3310,
+      "forks": 214,
       "stars_24h": 117,
       "created_at": "2025-12-17T12:19:51+00:00",
       "language": "TypeScript",
@@ -552,8 +533,8 @@
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 16847,
-      "forks": 4411,
+      "stars": 16875,
+      "forks": 4410,
       "stars_24h": 565,
       "created_at": "2019-04-02T21:41:52+00:00",
       "language": "Python",
@@ -589,8 +570,8 @@
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14334,
-      "forks": 2424,
+      "stars": 14349,
+      "forks": 2425,
       "stars_24h": 102,
       "created_at": "2024-08-29T19:52:32+00:00",
       "language": "Python",
@@ -609,8 +590,8 @@
       "name": "davila7/claude-code-templates",
       "owner": "davila7",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 20635,
-      "forks": 1929,
+      "stars": 20647,
+      "forks": 1930,
       "stars_24h": 110,
       "created_at": "2025-07-04T01:26:26+00:00",
       "language": "Python",
@@ -627,42 +608,34 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 142,
+      "watchers": 143,
       "open_issues": 93
     },
     {
       "name": "OpenCTI-Platform/opencti",
       "owner": "OpenCTI-Platform",
       "description": "Open Cyber Threat Intelligence Platform",
-      "stars": 8293,
-      "forks": 1222,
+      "stars": 8308,
+      "forks": 1223,
       "stars_24h": 13,
-      "created_at": "2018-12-17T22:57:34+00:00",
+      "created_at": "2026-02-17T16:28:50.978314",
       "language": "TypeScript",
-      "topics": [
-        "cti",
-        "cyber",
-        "cybersecurity",
-        "intelligence",
-        "osint",
-        "security",
-        "threat-intelligence"
-      ],
+      "topics": [],
       "readme_summary": "",
       "relevance_tags": [
         "tooling"
       ],
-      "is_new": false,
+      "is_new": true,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 147,
-      "open_issues": 1746
+      "watchers": 0,
+      "open_issues": 0
     },
     {
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6942,
+      "stars": 6944,
       "forks": 598,
       "stars_24h": 300,
       "created_at": "2025-06-07T04:32:30+00:00",
@@ -2542,18 +2515,18 @@
   ],
   "markets": [
     {
-      "title": "US strikes Iran by February 16, 2026?",
-      "summary": "This market will resolve to \"Yes\" if the US initiates a drone, missile, or air strike on Iranian soil or any official Ir",
-      "volume": "$3,502,588",
-      "odds_change": null,
-      "url": "https://polymarket.com/event/us-strikes-iran-by-february-16-2026-732-528"
-    },
-    {
       "title": "Will FC Barcelona win on 2026-02-16?",
       "summary": "In the upcoming game, scheduled for February 16, 2026\nIf FC Barcelona wins, this market will resolve to \"Yes\".\nOtherwise",
-      "volume": "$3,339,528",
+      "volume": "$2,736,001",
       "odds_change": null,
       "url": "https://polymarket.com/event/lal-gir-bar-2026-02-16-bar"
+    },
+    {
+      "title": "US strikes Iran by February 28, 2026?",
+      "summary": "This market will resolve to \"Yes\" if the US initiates a drone, missile, or air strike on Iranian soil or any official Ir",
+      "volume": "$2,507,745",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/us-strikes-iran-by-february-28-2026-227-967-547-688-589-491-592-418-452-924-384-915-464-672-196-157-993-596-269-535-381-391-471-256-988-997-296-225-762-973-292-827-345-182-558-215-794-879-189-761"
     }
   ],
   "meta": {
