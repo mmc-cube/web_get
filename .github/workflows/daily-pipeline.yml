@@ -2,8 +2,13 @@ name: Daily Data Pipeline
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/5 * * * *"   # 测试用：每 5 分钟；确认后改回 "0 1 * * *"（UTC=01:00，北京=09:00）
   workflow_dispatch:
+
+# 防止并发跑导致 push 冲突（你这个 workflow 会 push 回 main，强烈建议开启）
+concurrency:
+  group: daily-pipeline
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -16,13 +21,16 @@ jobs:
     timeout-minutes: 30
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          cache: 'pip'
+          python-version: "3.11"
+          cache: "pip"
           cache-dependency-path: pipeline/requirements.txt
 
       - name: Install dependencies
@@ -45,30 +53,61 @@ jobs:
             cp output/daily.json "data/${DATE}.json"
             cp output/daily.json "frontend/public/data/${DATE}.json"
             cp output/daily.json frontend/public/data/latest.json
+          else
+            echo "output/daily.json not found, skipping copy"
           fi
 
       - name: Commit and push data
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           DATE=$(date -u +%Y-%m-%d)
+
           git add data/ frontend/public/data/
           git commit -m "data: ${DATE} daily update" || echo "No changes to commit"
-          git push
+
+          # 拉取远端最新，避免 main 落后导致 push rejected
+          git pull --rebase origin main
+
+          # 并发情况下仍可能失败，重试几次
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "Push failed, retrying in 5s... ($i/5)"
+            sleep 5
+            git pull --rebase origin main
+          done
 
       - name: Cleanup old data (> 30 days)
         run: |
+          set -e
           find data/ -name "*.json" -mtime +30 -delete 2>/dev/null || true
           find frontend/public/data/ -name "*.json" -mtime +30 ! -name "latest.json" -delete 2>/dev/null || true
+
           git add -A
-          git diff --cached --quiet || git commit -m "chore: cleanup old data" && git push
+          if git diff --cached --quiet; then
+            echo "No cleanup changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: cleanup old data"
+
+          git pull --rebase origin main
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "Push failed, retrying in 5s... ($i/5)"
+            sleep 5
+            git pull --rebase origin main
+          done
 
       # ---- 构建前端并部署到 GitHub Pages ----
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'npm'
+          node-version: "20"
+          cache: "npm"
           cache-dependency-path: frontend/package-lock.json
 
       - name: Build frontend
