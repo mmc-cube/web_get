@@ -1,34 +1,34 @@
 {
   "date": "2026-02-16",
-  "generated_at": "2026-02-17T11:11:42.046934",
+  "generated_at": "2026-02-17T11:52:42.777467",
   "brief": [
     {
-      "conclusion": "Anthropic试图隐藏Claude的AI行为，开发者对此表示不满。",
-      "why_hot": "反映了AI模型透明度与开发者信任间的重要平衡问题。",
+      "conclusion": "Anthropic试图隐藏Claude的AI操作，引发开发者不满。",
+      "why_hot": "揭示了AI模型透明度问题对开发者信任的影响。",
       "evidence_urls": [
         "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Claude-engram项目将脑启发式持久记忆引入Claude.ai。",
-      "why_hot": "展示了如何通过模仿人类大脑机制来增强AI的记忆能力。",
+      "conclusion": "Claude-engram项目为Claude AI引入了脑启发的持久记忆功能。",
+      "why_hot": "展示了将生物学概念融入AI设计以增强其能力的趋势。",
       "evidence_urls": [
         "https://github.com/mlapeter/claude-engram"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Agent Forge为Claude Code提供持久内存及桌面自动化功能。",
-      "why_hot": "提升了基于Claude的人工智能助手的实际应用价值。",
+      "conclusion": "Agent Forge项目提供了持久内存和桌面自动化支持给Claude Code。",
+      "why_hot": "强调了通过外部工具扩展现有AI助手功能的重要性。",
       "evidence_urls": [
         "https://github.com/WeberG619/agent-forge"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "荷兰政府发布了针对Claude的插件集合。",
-      "why_hot": "标志着政府机构开始探索利用先进AI技术提高公共服务效率。",
+      "conclusion": "荷兰政府发布了针对Claude插件集。",
+      "why_hot": "表明政府机构正积极采用先进AI技术提高工作效率。",
       "evidence_urls": [
         "https://github.com/MinBZK/overheid-claude-plugins"
       ],
@@ -36,41 +36,41 @@
     },
     {
       "conclusion": "Comfy Pilot允许Claude Code编辑ComfyUI工作流。",
-      "why_hot": "促进了不同AI工具之间的互操作性。",
+      "why_hot": "体现了AI在图形界面定制领域的应用潜力。",
       "evidence_urls": [
         "https://github.com/ConstantineB6/comfy-pilot"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "p-e-w/heretic项目自动移除语言模型中的审查内容，今日新增891星。",
-      "why_hot": "体现了用户对自由表达权的支持以及对抗网络审查的需求。",
+      "conclusion": "p-e-w/heretic项目新增891星，总星数达6,674。",
+      "why_hot": "全自动语言模型审查移除工具受到广泛关注。",
       "evidence_urls": [
         "https://github.com/p-e-w/heretic"
       ],
       "category": "github"
     },
     {
-      "conclusion": "alibaba/zvec是一款轻量级、快速的进程内向量数据库，今日新增1094星。",
-      "why_hot": "满足了对于高效数据检索解决方案日益增长的需求。",
+      "conclusion": "alibaba/zvec项目新增1,473星，总星数达4,194。",
+      "why_hot": "轻量级、快速的进程内向量数据库解决方案吸引了大量关注。",
       "evidence_urls": [
         "https://github.com/alibaba/zvec"
       ],
       "category": "github"
     },
     {
-      "conclusion": "SushiSwap在Solana上推出新活动，参与者有机会赢得奖励。",
-      "why_hot": "为加密货币爱好者提供了参与新兴DeFi平台的机会。",
+      "conclusion": "SushiSwap与Solana合作推出新活动。",
+      "why_hot": "结合了两大热门区块链平台，为用户带来新的参与机会。",
       "evidence_urls": [
-        "https://galxe.com/sushiswap/campaign/GCfJYRk"
+        "https://galxe.com/SushiXSolanaLaunch"
       ],
       "category": "web3"
     },
     {
-      "conclusion": "BeatSwap发起$1,000 USDT奖池活动，鼓励用户激活金库并赚取L2E奖励。",
-      "why_hot": "激励更多人参与到去中心化金融活动中来。",
+      "conclusion": "BeatSwap提供$1,000 USDT奖池激励用户参与。",
+      "why_hot": "鼓励用户利用去中心化金融工具获取奖励。",
       "evidence_urls": [
-        "https://galxe.com/beatswap/campaign/GCfJYRk"
+        "https://galxe.com/beatswap-l2e-rewards"
       ],
       "category": "web3"
     }
@@ -85,7 +85,7 @@
       "created_at": "2026-02-16T11:06:28+00:00",
       "likes": 376,
       "reposts": 0,
-      "replies": 236,
+      "replies": 237,
       "bookmarks": 0,
       "urls": [
         "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
@@ -95,7 +95,7 @@
       ],
       "is_ad_suspect": false,
       "cluster_id": "cluster_015",
-      "heat_score": 1.3
+      "heat_score": 1.31
     },
     {
       "id": "hn_47037566",
@@ -297,7 +297,7 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 6653,
+      "stars": 6674,
       "forks": 665,
       "stars_24h": 891,
       "created_at": "2025-09-21T05:46:16+00:00",
@@ -321,8 +321,8 @@
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9161,
-      "forks": 606,
+      "stars": 9166,
+      "forks": 607,
       "stars_24h": 182,
       "created_at": "2022-03-09T09:18:22+00:00",
       "language": "TypeScript",
@@ -352,8 +352,8 @@
       "name": "obra/superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 53098,
-      "forks": 4029,
+      "stars": 53121,
+      "forks": 4033,
       "stars_24h": 725,
       "created_at": "2025-10-09T19:45:18+00:00",
       "language": "Shell",
@@ -373,9 +373,9 @@
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3684,
+      "stars": 3691,
       "forks": 313,
-      "stars_24h": 637,
+      "stars_24h": 469,
       "created_at": "2025-12-12T12:36:45+00:00",
       "language": "Go",
       "topics": [
@@ -399,9 +399,9 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4177,
-      "forks": 218,
-      "stars_24h": 1094,
+      "stars": 4194,
+      "forks": 221,
+      "stars_24h": 1473,
       "created_at": "2025-12-05T07:45:38+00:00",
       "language": "C++",
       "topics": [
@@ -425,9 +425,9 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 203230,
-      "forks": 36689,
-      "stars_24h": 3873,
+      "stars": 203332,
+      "forks": 36713,
+      "stars_24h": 4201,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
       "topics": [
@@ -446,16 +446,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1107,
-      "open_issues": 6903
+      "watchers": 1109,
+      "open_issues": 6912
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1057,
+      "stars": 1059,
       "forks": 366,
-      "stars_24h": 205,
+      "stars_24h": 194,
       "created_at": "2025-12-09T15:19:10+00:00",
       "language": "JavaScript",
       "topics": [
@@ -481,14 +481,14 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 40,
+      "watchers": 39,
       "open_issues": 24
     },
     {
       "name": "ashishps1/awesome-system-design-resources",
       "owner": "ashishps1",
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "stars": 32554,
+      "stars": 32563,
       "forks": 7279,
       "stars_24h": 1097,
       "created_at": "2023-10-25T01:50:42+00:00",
@@ -519,7 +519,7 @@
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 16760,
+      "stars": 16771,
       "forks": 4406,
       "stars_24h": 339,
       "created_at": "2019-04-02T21:41:52+00:00",
@@ -556,8 +556,8 @@
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14263,
-      "forks": 2421,
+      "stars": 14271,
+      "forks": 2422,
       "stars_24h": 165,
       "created_at": "2024-08-29T19:52:32+00:00",
       "language": "Python",
@@ -576,7 +576,7 @@
       "name": "davila7/claude-code-templates",
       "owner": "davila7",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 20590,
+      "stars": 20597,
       "forks": 1926,
       "stars_24h": 216,
       "created_at": "2025-07-04T01:26:26+00:00",
@@ -601,7 +601,7 @@
       "name": "OpenCTI-Platform/opencti",
       "owner": "OpenCTI-Platform",
       "description": "Open Cyber Threat Intelligence Platform",
-      "stars": 8237,
+      "stars": 8247,
       "forks": 1221,
       "stars_24h": 13,
       "created_at": "2018-12-17T22:57:34+00:00",
@@ -623,15 +623,15 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 147,
-      "open_issues": 1750
+      "open_issues": 1751
     },
     {
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6928,
-      "forks": 596,
-      "stars_24h": 344,
+      "stars": 6931,
+      "forks": 597,
+      "stars_24h": 300,
       "created_at": "2025-06-07T04:32:30+00:00",
       "language": "Python",
       "topics": [],
@@ -684,15 +684,24 @@
       "open_issues": 7
     },
     {
-      "name": "emmabostian/developer-portfolios",
-      "owner": "emmabostian",
-      "description": "A list of developer portfolios for your inspiration",
-      "stars": 20689,
-      "forks": 4080,
-      "stars_24h": 45,
-      "created_at": "2019-09-13T14:18:58+00:00",
+      "name": "kaifcodec/user-scanner",
+      "owner": "kaifcodec",
+      "description": "🕵️🫆 (2-in-1) Emaill and Username  OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis",
+      "stars": 708,
+      "forks": 72,
+      "stars_24h": 33,
+      "created_at": "2025-10-19T04:21:48+00:00",
       "language": "Python",
-      "topics": [],
+      "topics": [
+        "email-osint",
+        "osint",
+        "osint-email",
+        "osint-tool",
+        "osint-tools",
+        "osint-username",
+        "python",
+        "username-osint"
+      ],
       "readme_summary": "",
       "relevance_tags": [
         "tooling"
@@ -700,8 +709,8 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 147,
-      "open_issues": 5
+      "watchers": 8,
+      "open_issues": 10
     }
   ],
   "github_new": [],
