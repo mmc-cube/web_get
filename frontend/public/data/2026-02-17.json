@@ -1,68 +1,68 @@
 {
   "date": "2026-02-16",
-  "generated_at": "2026-02-17T12:30:15.089608",
+  "generated_at": "2026-02-17T13:45:22.640390",
   "brief": [
     {
-      "conclusion": "Anthropic试图隐藏Claude AI的行为，引发开发者不满。",
-      "why_hot": "反映了AI工具透明度与用户信任之间的紧张关系。",
+      "conclusion": "Anthropic试图隐藏Claude AI的操作，引发开发者不满。",
+      "why_hot": "此举可能影响AI工具的透明度与信任。",
       "evidence_urls": [
         "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Claude-engram项目尝试为Claude添加持久记忆功能。",
-      "why_hot": "展示了如何通过模拟大脑机制来增强现有AI模型的能力。",
+      "conclusion": "Claude-engram项目推出，旨在为Claude.ai增加持久性记忆功能。",
+      "why_hot": "通过模仿大脑工作方式增强AI的记忆能力。",
       "evidence_urls": [
         "https://github.com/mlapeter/claude-engram"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Agent Forge为Claude Code提供桌面自动化和持久内存支持。",
-      "why_hot": "增强了Claude在复杂任务处理中的实用性和可靠性。",
+      "conclusion": "Agent Forge发布，提供给Claude Code持久内存和桌面自动化功能。",
+      "why_hot": "增强了Claude在复杂任务处理中的灵活性。",
       "evidence_urls": [
         "https://github.com/WeberG619/agent-forge"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "荷兰政府发布了一套针对Claude的插件集合。",
-      "why_hot": "表明了公共部门对于利用先进AI技术提高效率的兴趣。",
+      "conclusion": "荷兰政府发布了针对Claude插件的官方版本。",
+      "why_hot": "表明政府机构对采用先进AI技术的兴趣。",
       "evidence_urls": [
         "https://github.com/MinBZK/overheid-claude-plugins"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Comfy Pilot是一个让Claude Code能够编辑ComfyUI工作流程的服务。",
-      "why_hot": "促进了不同AI工具间的互操作性。",
+      "conclusion": "Comfy Pilot允许Claude Code编辑ComfyUI工作流。",
+      "why_hot": "简化了用户与AI之间的交互过程。",
       "evidence_urls": [
         "https://github.com/ConstantineB6/comfy-pilot"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "p-e-w/heretic项目自动移除语言模型中的审查内容，今日新增891星。",
-      "why_hot": "代表了开源社区对言论自由的支持态度。",
+      "conclusion": "p-e-w/heretic项目因自动删除语言模型中的审查内容而受到关注。",
+      "why_hot": "反映了对于开放信息流通的支持趋势。",
       "evidence_urls": [
         "https://github.com/p-e-w/heretic"
       ],
       "category": "github"
     },
     {
-      "conclusion": "alibaba/zvec是一款轻量级、超快的进程内向量数据库，今日新增1473星。",
-      "why_hot": "满足了快速增长的数据检索需求。",
+      "conclusion": "alibaba/zvec作为一个轻量级、超快的进程内向量数据库崭露头角。",
+      "why_hot": "满足了对高效数据检索日益增长的需求。",
       "evidence_urls": [
         "https://github.com/alibaba/zvec"
       ],
       "category": "github"
     },
     {
-      "conclusion": "SushiSwap宣布与Solana合作推出新活动。",
-      "why_hot": "这标志着DeFi领域两大重要玩家之间的战略合作。",
+      "conclusion": "SushiSwap在Solana上推出新活动，参与者有机会赢得奖励。",
+      "why_hot": "展示了DeFi领域持续的创新动力。",
       "evidence_urls": [
-        "https://galxe.com/sushiswap/campaign/GCvEzV"
+        "https://galxe.com/campaign/GCjRQyF"
       ],
       "category": "web3"
     }
@@ -206,7 +206,7 @@
       "text": "Show HN: Maths, CS and AI Compendium.",
       "lang": "en",
       "created_at": "2026-02-16T15:15:50+00:00",
-      "likes": 75,
+      "likes": 78,
       "reposts": 0,
       "replies": 17,
       "bookmarks": 0,
@@ -289,9 +289,9 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 6701,
-      "forks": 668,
-      "stars_24h": 891,
+      "stars": 6755,
+      "forks": 680,
+      "stars_24h": 666,
       "created_at": "2025-09-21T05:46:16+00:00",
       "language": "Python",
       "topics": [
@@ -313,9 +313,9 @@
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9173,
-      "forks": 608,
-      "stars_24h": 182,
+      "stars": 9183,
+      "forks": 609,
+      "stars_24h": 283,
       "created_at": "2022-03-09T09:18:22+00:00",
       "language": "TypeScript",
       "topics": [
@@ -338,14 +338,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 42,
-      "open_issues": 324
+      "open_issues": 323
     },
     {
       "name": "obra/superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 53139,
-      "forks": 4036,
+      "stars": 53186,
+      "forks": 4042,
       "stars_24h": 725,
       "created_at": "2025-10-09T19:45:18+00:00",
       "language": "Shell",
@@ -365,8 +365,8 @@
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3704,
-      "forks": 315,
+      "stars": 3717,
+      "forks": 317,
       "stars_24h": 469,
       "created_at": "2025-12-12T12:36:45+00:00",
       "language": "Go",
@@ -391,8 +391,8 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4217,
-      "forks": 224,
+      "stars": 4243,
+      "forks": 226,
       "stars_24h": 1473,
       "created_at": "2025-12-05T07:45:38+00:00",
       "language": "C++",
@@ -417,8 +417,8 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 203442,
-      "forks": 36733,
+      "stars": 203656,
+      "forks": 36797,
       "stars_24h": 4201,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -438,15 +438,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1112,
-      "open_issues": 6929
+      "watchers": 1110,
+      "open_issues": 6960
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1064,
-      "forks": 369,
+      "stars": 1078,
+      "forks": 373,
       "stars_24h": 194,
       "created_at": "2025-12-09T15:19:10+00:00",
       "language": "JavaScript",
@@ -473,15 +473,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 39,
-      "open_issues": 24
+      "watchers": 41,
+      "open_issues": 25
     },
     {
       "name": "ashishps1/awesome-system-design-resources",
       "owner": "ashishps1",
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "stars": 32577,
-      "forks": 7281,
+      "stars": 32613,
+      "forks": 7284,
       "stars_24h": 1097,
       "created_at": "2023-10-25T01:50:42+00:00",
       "language": "Java",
@@ -511,7 +511,7 @@
       "name": "steipete/summarize",
       "owner": "steipete",
       "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-      "stars": 3239,
+      "stars": 3258,
       "forks": 213,
       "stars_24h": 117,
       "created_at": "2025-12-17T12:19:51+00:00",
@@ -536,9 +536,9 @@
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 16782,
-      "forks": 4408,
-      "stars_24h": 339,
+      "stars": 16812,
+      "forks": 4411,
+      "stars_24h": 565,
       "created_at": "2019-04-02T21:41:52+00:00",
       "language": "Python",
       "topics": [
@@ -566,16 +566,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 192,
+      "watchers": 193,
       "open_issues": 333
     },
     {
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14283,
-      "forks": 2423,
-      "stars_24h": 165,
+      "stars": 14302,
+      "forks": 2424,
+      "stars_24h": 102,
       "created_at": "2024-08-29T19:52:32+00:00",
       "language": "Python",
       "topics": [],
@@ -593,9 +593,9 @@
       "name": "davila7/claude-code-templates",
       "owner": "davila7",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 20600,
-      "forks": 1926,
-      "stars_24h": 216,
+      "stars": 20610,
+      "forks": 1927,
+      "stars_24h": 110,
       "created_at": "2025-07-04T01:26:26+00:00",
       "language": "Python",
       "topics": [
@@ -618,8 +618,8 @@
       "name": "OpenCTI-Platform/opencti",
       "owner": "OpenCTI-Platform",
       "description": "Open Cyber Threat Intelligence Platform",
-      "stars": 8252,
-      "forks": 1221,
+      "stars": 8267,
+      "forks": 1222,
       "stars_24h": 13,
       "created_at": "2018-12-17T22:57:34+00:00",
       "language": "TypeScript",
@@ -640,13 +640,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 147,
-      "open_issues": 1750
+      "open_issues": 1745
     },
     {
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6933,
+      "stars": 6937,
       "forks": 598,
       "stars_24h": 300,
       "created_at": "2025-06-07T04:32:30+00:00",
@@ -667,7 +667,7 @@
       "owner": "GH05TCREW",
       "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
       "stars": 1576,
-      "forks": 352,
+      "forks": 353,
       "stars_24h": 25,
       "created_at": "2025-05-15T22:28:38+00:00",
       "language": "Python",
@@ -792,7 +792,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_074",
+      "id": "cluster_073",
       "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary.",
       "theme": "Demos / New Apps",
       "heat_score": 0.1,
@@ -810,7 +810,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_090",
+      "id": "cluster_089",
       "title": "Ask HN: What happens after the AI bubble bursts?.",
       "theme": "Demos / New Apps",
       "heat_score": 0.1,
@@ -2107,27 +2107,6 @@
     },
     {
       "id": "cluster_072",
-      "title": "Show HN: Is the \"frozen weights\" paradigm the main bottlenec...",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.0,
-      "keywords": [
-        "show",
-        "frozen",
-        "weights",
-        "paradigm",
-        "main",
-        "bottleneck",
-        "agi"
-      ],
-      "tweet_ids": [
-        "hn_47034056"
-      ],
-      "repo_names": [
-        "8lamaster8/hybrid-ai-core"
-      ]
-    },
-    {
-      "id": "cluster_073",
       "title": "Mistral Vibe.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -2141,7 +2120,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_075",
+      "id": "cluster_074",
       "title": "Show HN: Live Translation with Voxtral Mini Realtime and Dee...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -2162,7 +2141,7 @@
       ]
     },
     {
-      "id": "cluster_076",
+      "id": "cluster_075",
       "title": "Sometimes giving syndication feed readers good errors is a m...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -2182,7 +2161,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_077",
+      "id": "cluster_076",
       "title": "Show HN:AIP Protocol–Solving the agent revocation problem in...",
       "theme": "Coding Agents",
       "heat_score": 0.0,
@@ -2204,7 +2183,7 @@
       ]
     },
     {
-      "id": "cluster_078",
+      "id": "cluster_077",
       "title": "Show HN: Create new calendar systems to fix uneven months.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -2224,7 +2203,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_079",
+      "id": "cluster_078",
       "title": "Dozens of Australians diagnosed with rare tattoo-related vis...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -2244,7 +2223,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_080",
+      "id": "cluster_079",
       "title": "Weather: When to Cross the Great Australian Bight.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -2262,7 +2241,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_081",
+      "id": "cluster_080",
       "title": "Ask HN: How do companies that use Cursor handle compliance?.",
       "theme": "IDE / Copilot Tools",
       "heat_score": 0.0,
@@ -2281,7 +2260,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_082",
+      "id": "cluster_081",
       "title": "Show HN: Claude Remote – control Claude Code on your Mac fro...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -2300,7 +2279,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_083",
+      "id": "cluster_082",
       "title": "Show HN: PolyClaw – An Autonomous Docker-First MCP Agent for...",
       "theme": "Coding Agents",
       "heat_score": 0.0,
@@ -2320,7 +2299,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_084",
+      "id": "cluster_083",
       "title": "Show HN: Babylog – baby tracker built with OpenClaw from a h...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -2340,7 +2319,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_085",
+      "id": "cluster_084",
       "title": "Show HN: LLMFeeder – Multi-tab web to Markdown for LLM conte...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -2360,7 +2339,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_086",
+      "id": "cluster_085",
       "title": "Ask HN: Do LLM agents need a separate safety layer?.",
       "theme": "Coding Agents",
       "heat_score": 0.0,
@@ -2379,7 +2358,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_087",
+      "id": "cluster_086",
       "title": "Ask HN: In a blind coding test, could you identify an LLM st...",
       "theme": "IDE / Copilot Tools",
       "heat_score": 0.0,
@@ -2399,7 +2378,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_088",
+      "id": "cluster_087",
       "title": "My AI now has a license to drive.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -2414,7 +2393,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_089",
+      "id": "cluster_088",
       "title": "Show HN: Provisioner per-board sidecar for serial access, fl...",
       "theme": "IDE / Copilot Tools",
       "heat_score": 0.0,
@@ -2434,7 +2413,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_091",
+      "id": "cluster_090",
       "title": "Show HN: Dominake – A domino puzzle where 5×6 grids are impo...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -2453,7 +2432,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_092",
+      "id": "cluster_091",
       "title": "AI-powered Git CLI that generates commit messages automatica...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -2472,7 +2451,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_093",
+      "id": "cluster_092",
       "title": "Ask HN: Predictions on the state of theoretical STEM researc...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
