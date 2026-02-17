@@ -1,59 +1,69 @@
 {
   "date": "2026-02-16",
-  "generated_at": "2026-02-17T20:37:54.803971",
+  "generated_at": "2026-02-17T21:06:38.706213",
   "brief": [
     {
-      "conclusion": "Anthropic尝试隐藏Claude的AI行为，开发者对此表示不满。",
-      "why_hot": "反映了开发社区对AI透明度的高度关注。",
+      "conclusion": "Anthropic试图隐藏Claude的AI行为，引发开发者不满。",
+      "why_hot": "此事件反映了透明度在AI开发中的重要性。",
       "evidence_urls": [
         "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Claude-engram项目在GitHub上发布，为Claude提供大脑启发式的持久记忆功能。",
-      "why_hot": "探索了增强AI长期记忆的新方法，可能改变未来AI应用。",
+      "conclusion": "Claude-engram项目推出，旨在为Claude提供大脑启发式的持久记忆功能。",
+      "why_hot": "该项目展示了如何通过模仿人脑来增强AI的记忆能力。",
       "evidence_urls": [
         "https://github.com/mlapeter/claude-engram"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Alibaba发布了zvec，一个轻量级且极速的进程内向量数据库。",
-      "why_hot": "加速了AI应用程序中数据检索的速度与效率。",
+      "conclusion": "Agent Forge发布，支持Claude Code实现桌面自动化与持久记忆。",
+      "why_hot": "它扩展了Claude的能力范围，使其能够执行更复杂的任务。",
       "evidence_urls": [
-        "https://github.com/alibaba/zvec"
+        "https://github.com/WeberG619/agent-forge"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "SynkraAI推出了aios-core，一个面向全栈开发的人工智能编排系统核心框架。",
-      "why_hot": "简化了从设计到部署的整个软件开发生命周期。",
+      "conclusion": "荷兰政府推出了针对Claude的插件集合。",
+      "why_hot": "这标志着政府机构开始积极采用并定制AI技术。",
       "evidence_urls": [
-        "https://github.com/SynkraAI/aios-core"
+        "https://github.com/MinBZK/overheid-claude-plugins"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "p-e-w/heretic项目登上GitHub趋势榜，该项目旨在自动去除语言模型中的审查。",
-      "why_hot": "促进了更加开放和自由的信息交流环境。",
+      "conclusion": "Comfy Pilot允许用户使用Claude Code编辑ComfyUI工作流程。",
+      "why_hot": "该工具简化了AI辅助设计过程，提高了工作效率。",
+      "evidence_urls": [
+        "https://github.com/ConstantineB6/comfy-pilot"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "p-e-w/heretic项目新增自动去除语言模型中审查的功能。",
+      "why_hot": "此功能有助于保护言论自由和信息完整性。",
       "evidence_urls": [
         "https://github.com/p-e-w/heretic"
       ],
       "category": "github"
     },
     {
-      "conclusion": "obra/superpowers项目连续多天保持高增长态势，提供了一种新的软件开发方法论。",
-      "why_hot": "展示了如何通过代理技能框架提高开发效率。",
+      "conclusion": "seerr团队发布了一个开源媒体请求与发现管理器。",
+      "why_hot": "它为Jellyfin、Plex和Emby用户提供了一个统一的解决方案。",
       "evidence_urls": [
-        "https://github.com/obra/superpowers"
+        "https://github.com/seerr-team/seerr"
       ],
       "category": "github"
     },
     {
-      "conclusion": "Galxe平台上的ECOR活动允许用户轻松赚取高达$1,000奖励。",
-      "why_hot": "为Web3新手提供了低门槛参与区块链经济的机会。",
-      "evidence_urls": [],
+      "conclusion": "Galxe上ECOR活动只需简单点击即可获得高达$1,000奖励。",
+      "why_hot": "这是一个低门槛参与Web3世界并获取收益的机会。",
+      "evidence_urls": [
+        "https://galxe.com/ECOR/campaign/GCnRkEj45b"
+      ],
       "category": "web3"
     }
   ],
@@ -65,7 +75,7 @@
       "text": "Anthropic tries to hide Claude's AI actions. Devs hate it.",
       "lang": "en",
       "created_at": "2026-02-16T11:06:28+00:00",
-      "likes": 386,
+      "likes": 387,
       "reposts": 0,
       "replies": 239,
       "bookmarks": 0,
@@ -279,8 +289,8 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 7045,
-      "forks": 705,
+      "stars": 7059,
+      "forks": 707,
       "stars_24h": 666,
       "created_at": "2025-09-21T05:46:16+00:00",
       "language": "Python",
@@ -303,8 +313,8 @@
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9280,
-      "forks": 611,
+      "stars": 9286,
+      "forks": 610,
       "stars_24h": 283,
       "created_at": "2022-03-09T09:18:22+00:00",
       "language": "TypeScript",
@@ -328,14 +338,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 41,
-      "open_issues": 327
+      "open_issues": 325
     },
     {
       "name": "obra/superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 53474,
-      "forks": 4055,
+      "stars": 53492,
+      "forks": 4057,
       "stars_24h": 725,
       "created_at": "2025-10-09T19:45:18+00:00",
       "language": "Shell",
@@ -356,7 +366,7 @@
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "stars": 3817,
-      "forks": 318,
+      "forks": 317,
       "stars_24h": 469,
       "created_at": "2025-12-12T12:36:45+00:00",
       "language": "Go",
@@ -381,7 +391,7 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4415,
+      "stars": 4429,
       "forks": 236,
       "stars_24h": 1473,
       "created_at": "2025-12-05T07:45:38+00:00",
@@ -407,8 +417,8 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 204808,
-      "forks": 37235,
+      "stars": 204875,
+      "forks": 37259,
       "stars_24h": 4201,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -428,14 +438,14 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1114,
-      "open_issues": 7134
+      "watchers": 1115,
+      "open_issues": 7147
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1152,
+      "stars": 1160,
       "forks": 393,
       "stars_24h": 194,
       "created_at": "2025-12-09T15:19:10+00:00",
@@ -463,14 +473,14 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 45,
+      "watchers": 46,
       "open_issues": 25
     },
     {
       "name": "ashishps1/awesome-system-design-resources",
       "owner": "ashishps1",
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "stars": 32761,
+      "stars": 32767,
       "forks": 7299,
       "stars_24h": 457,
       "created_at": "2023-10-25T01:50:42+00:00",
@@ -501,7 +511,7 @@
       "name": "steipete/summarize",
       "owner": "steipete",
       "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-      "stars": 3377,
+      "stars": 3383,
       "forks": 215,
       "stars_24h": 117,
       "created_at": "2025-12-17T12:19:51+00:00",
@@ -526,7 +536,7 @@
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 16958,
+      "stars": 16965,
       "forks": 4415,
       "stars_24h": 565,
       "created_at": "2019-04-02T21:41:52+00:00",
@@ -557,13 +567,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 193,
-      "open_issues": 333
+      "open_issues": 332
     },
     {
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14419,
+      "stars": 14425,
       "forks": 2426,
       "stars_24h": 102,
       "created_at": "2024-08-29T19:52:32+00:00",
@@ -583,7 +593,7 @@
       "name": "davila7/claude-code-templates",
       "owner": "davila7",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 20684,
+      "stars": 20690,
       "forks": 1932,
       "stars_24h": 110,
       "created_at": "2025-07-04T01:26:26+00:00",
@@ -608,7 +618,7 @@
       "name": "OpenCTI-Platform/opencti",
       "owner": "OpenCTI-Platform",
       "description": "Open Cyber Threat Intelligence Platform",
-      "stars": 8356,
+      "stars": 8367,
       "forks": 1226,
       "stars_24h": 13,
       "created_at": "2018-12-17T22:57:34+00:00",
@@ -656,7 +666,7 @@
       "name": "GH05TCREW/pentestagent",
       "owner": "GH05TCREW",
       "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
-      "stars": 1584,
+      "stars": 1585,
       "forks": 353,
       "stars_24h": 25,
       "created_at": "2025-05-15T22:28:38+00:00",
