@@ -1,273 +1,278 @@
 {
-  "date": "2026-02-15",
-  "generated_at": "2026-02-17T06:09:21.974362",
+  "date": "2026-02-16",
+  "generated_at": "2026-02-17T07:13:54.984750",
   "brief": [
     {
-      "conclusion": "OpenAI宣布将GPT-5.3-Codex请求重定向至GPT-5.2，以优化性能。",
-      "why_hot": "表明了OpenAI对模型效率和用户体验的持续优化。",
+      "conclusion": "Anthropic尝试隐藏Claude AI的行为，引发开发者不满。",
+      "why_hot": "反映了AI透明度与开发者信任之间的紧张关系。",
       "evidence_urls": [
-        "https://github.com/openai/codex/issues/11561"
+        "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Alibaba发布了一款轻量级、快速的进程内向量数据库zvec，适用于多种场景。",
-      "why_hot": "此工具可能为AI应用提供更高效的数据处理能力。",
+      "conclusion": "Claude-engram项目在GitHub上发布，提供大脑启发的持久记忆功能。",
+      "why_hot": "展示了如何将类脑结构应用于现有AI模型以增强其能力。",
+      "evidence_urls": [
+        "https://github.com/mlapeter/claude-engram"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "荷兰政府推出官方Claude插件集，旨在提高公共服务效率。",
+      "why_hot": "标志着政府机构开始积极采纳特定领域的AI工具。",
+      "evidence_urls": [
+        "https://github.com/MinBZK/overheid-claude-plugins"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "Comfy Pilot项目允许通过Claude Code编辑ComfyUI工作流程。",
+      "why_hot": "简化了复杂AI界面的设计过程，提高了开发者的生产力。",
+      "evidence_urls": [
+        "https://github.com/ConstantineB6/comfy-pilot"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "Alibaba开源zvec项目，一个轻量级、快速的进程内向量数据库。",
+      "why_hot": "为开发者提供了高效的数据检索解决方案。",
       "evidence_urls": [
         "https://github.com/alibaba/zvec"
       ],
       "category": "github"
     },
     {
-      "conclusion": "OpenClaw团队加入OpenAI，计划进一步开发个人AI助手。",
-      "why_hot": "这标志着OpenAI在构建跨平台AI助手方面的又一重要进展。",
+      "conclusion": "Nautilus Trader项目增长迅速，成为高绩效算法交易平台。",
+      "why_hot": "代表了金融科技领域对高性能计算需求的增长趋势。",
       "evidence_urls": [
-        "https://steipete.me/posts/2026/openclaw"
-      ],
-      "category": "ai"
-    },
-    {
-      "conclusion": "SynkraAI推出aios-core框架，旨在通过AI协调系统实现全栈开发自动化。",
-      "why_hot": "展示了AI在软件开发流程中扮演越来越重要的角色。",
-      "evidence_urls": [
-        "https://github.com/SynkraAI/aios-core"
+        "https://github.com/nautechsystems/nautilus_trader"
       ],
       "category": "github"
     },
     {
-      "conclusion": "SushiSwap与Solana合作推出新活动，参与用户有机会获得奖励。",
-      "why_hot": "这是DeFi领域两个重要项目之间的一次强强联合。",
+      "conclusion": "SushiSwap与Solana合作推出新活动，吸引用户参与。",
+      "why_hot": "促进了DeFi平台间的跨链合作及用户活跃度。",
       "evidence_urls": [
-        "https://galxe.com/sushiswap/campaign/GCmXW"
+        "https://galxe.com/sushiswap/campaign/GCnQW"
       ],
       "category": "web3"
-    },
-    {
-      "conclusion": "Rowboat发布开源AI同事项目，支持记忆功能。",
-      "why_hot": "强调了AI在协作工作中的潜力。",
-      "evidence_urls": [
-        "https://github.com/rowboatlabs/rowboat"
-      ],
-      "category": "github"
     }
   ],
   "top_tweets": [
     {
-      "id": "hn_47028013",
-      "author_name": "mfiguiere",
-      "author_handle": "@mfiguiere",
-      "text": "I’m joining OpenAI.",
+      "id": "hn_47033622",
+      "author_name": "beardyw",
+      "author_handle": "@beardyw",
+      "text": "Anthropic tries to hide Claude's AI actions. Devs hate it.",
       "lang": "en",
-      "created_at": "2026-02-15T21:54:15+00:00",
-      "likes": 1400,
+      "created_at": "2026-02-16T11:06:28+00:00",
+      "likes": 372,
       "reposts": 0,
-      "replies": 1081,
+      "replies": 226,
       "bookmarks": 0,
       "urls": [
-        "https://steipete.me/posts/2026/openclaw"
+        "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
       ],
       "tags": [
-        "观点"
+        "模型更新"
       ],
       "is_ad_suspect": false,
-      "cluster_id": "cluster_034",
-      "heat_score": 4.89
+      "cluster_id": "cluster_015",
+      "heat_score": 1.26
     },
     {
-      "id": "hn_47024892",
-      "author_name": "prodigycorp",
-      "author_handle": "@prodigycorp",
-      "text": "Tell HN: OpenAI has been silently routing GPT-5.3-Codex requests to GPT-5.2.",
+      "id": "hn_47037566",
+      "author_name": "mlapeter",
+      "author_handle": "@mlapeter",
+      "text": "Show HN: Claude-engram – Brain-inspired persistent memory, runs inside Claude.ai.",
       "lang": "en",
-      "created_at": "2026-02-15T16:17:16+00:00",
-      "likes": 3,
+      "created_at": "2026-02-16T17:15:24+00:00",
+      "likes": 5,
+      "reposts": 0,
+      "replies": 2,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/mlapeter/claude-engram"
+      ],
+      "tags": [
+        "repo",
+        "模型更新"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_016",
+      "heat_score": 0.37
+    },
+    {
+      "id": "hn_47040746",
+      "author_name": "GeertJohan",
+      "author_handle": "@GeertJohan",
+      "text": "Dutch Government Claude Plugins.",
+      "lang": "en",
+      "created_at": "2026-02-16T21:45:33+00:00",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/MinBZK/overheid-claude-plugins"
+      ],
+      "tags": [
+        "repo",
+        "模型更新"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_023",
+      "heat_score": 0.37
+    },
+    {
+      "id": "hn_47037267",
+      "author_name": "0xConstantine",
+      "author_handle": "@0xConstantine",
+      "text": "Show HN: Comfy Pilot – MCP server that lets Claude Code edit ComfyUI workflows.",
+      "lang": "en",
+      "created_at": "2026-02-16T16:51:51+00:00",
+      "likes": 2,
       "reposts": 0,
       "replies": 0,
       "bookmarks": 0,
       "urls": [
-        "https://github.com/openai/codex/issues/11561"
+        "https://github.com/ConstantineB6/comfy-pilot"
       ],
       "tags": [
         "repo",
         "模型更新"
       ],
       "is_ad_suspect": false,
-      "cluster_id": "cluster_024",
-      "heat_score": 0.42
+      "cluster_id": "cluster_041",
+      "heat_score": 0.36
     },
     {
-      "id": "hn_47031334",
-      "author_name": "dvrp",
-      "author_handle": "@dvrp",
-      "text": "Show HN: Jemini – Gemini for the Epstein Files.",
+      "id": "hn_47043847",
+      "author_name": "rittermax",
+      "author_handle": "@rittermax",
+      "text": "Show HN: Claude Pilot – Claude Code is powerful. Pilot makes it reliable.",
       "lang": "en",
-      "created_at": "2026-02-16T05:53:03+00:00",
-      "likes": 314,
-      "reposts": 0,
-      "replies": 60,
-      "bookmarks": 0,
-      "urls": [
-        "https://jmail.world/jemini"
-      ],
-      "tags": [
-        "模型更新"
-      ],
-      "is_ad_suspect": false,
-      "cluster_id": "cluster_040",
-      "heat_score": 0.42
-    },
-    {
-      "id": "hn_47025398",
-      "author_name": "gottebp",
-      "author_handle": "@gottebp",
-      "text": "UIUC 2002 – we wrote a space shooter in x86 asm. In 2026 Claude resurrected it.",
-      "lang": "en",
-      "created_at": "2026-02-15T17:12:28+00:00",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 1,
-      "bookmarks": 0,
-      "urls": [
-        "https://github.com/gottebp/alan_parsons_project"
-      ],
-      "tags": [
-        "repo",
-        "模型更新"
-      ],
-      "is_ad_suspect": false,
-      "cluster_id": "cluster_018",
-      "heat_score": 0.37
-    },
-    {
-      "id": "hn_47024287",
-      "author_name": "gjkim",
-      "author_handle": "@gjkim",
-      "text": "Safely run Claude ––dangerously-skip-permissions on Kubernetes.",
-      "lang": "en",
-      "created_at": "2026-02-15T15:07:48+00:00",
-      "likes": 2,
-      "reposts": 0,
-      "replies": 1,
-      "bookmarks": 0,
-      "urls": [
-        "https://github.com/axon-core/axon"
-      ],
-      "tags": [
-        "repo",
-        "模型更新"
-      ],
-      "is_ad_suspect": false,
-      "cluster_id": "cluster_020",
-      "heat_score": 0.37
-    },
-    {
-      "id": "hn_47023049",
-      "author_name": "amananytime07",
-      "author_handle": "@amananytime07",
-      "text": "TexGuardian – Claude Code, but for LaTeX academic papers.",
-      "lang": "en",
-      "created_at": "2026-02-15T12:04:39+00:00",
-      "likes": 2,
-      "reposts": 0,
-      "replies": 1,
-      "bookmarks": 0,
-      "urls": [
-        "https://github.com/arcAman07/TexGuardian"
-      ],
-      "tags": [
-        "repo",
-        "模型更新"
-      ],
-      "is_ad_suspect": false,
-      "cluster_id": "cluster_021",
-      "heat_score": 0.37
-    },
-    {
-      "id": "hn_47022524",
-      "author_name": "wbnns",
-      "author_handle": "@wbnns",
-      "text": "Show HN: Claude Extender – Autonomous Agent Management for Claude Code.",
-      "lang": "en",
-      "created_at": "2026-02-15T10:06:09+00:00",
-      "likes": 2,
-      "reposts": 0,
-      "replies": 1,
-      "bookmarks": 0,
-      "urls": [
-        "https://github.com/wbnns/cx"
-      ],
-      "tags": [
-        "repo",
-        "模型更新"
-      ],
-      "is_ad_suspect": false,
-      "cluster_id": "cluster_022",
-      "heat_score": 0.37
-    },
-    {
-      "id": "hn_47026886",
-      "author_name": "crog",
-      "author_handle": "@crog",
-      "text": "Show HN: Claude-relais – A plan/build/judge loop mixing Claude with Cursor.",
-      "lang": "en",
-      "created_at": "2026-02-15T19:52:27+00:00",
+      "created_at": "2026-02-17T04:55:29+00:00",
       "likes": 1,
       "reposts": 0,
       "replies": 0,
       "bookmarks": 0,
       "urls": [
-        "https://github.com/clementrog/claude-relais"
+        "https://github.com/maxritter/claude-pilot"
       ],
       "tags": [
         "repo",
         "模型更新"
       ],
       "is_ad_suspect": false,
-      "cluster_id": "cluster_005",
+      "cluster_id": "cluster_042",
       "heat_score": 0.36
     },
     {
-      "id": "hn_47024470",
-      "author_name": "fintechie",
-      "author_handle": "@fintechie",
-      "text": "OMLX – Ollama for MLX (LLM Inference Server for Apple Silicon).",
+      "id": "hn_47036063",
+      "author_name": "HenryNdubuaku",
+      "author_handle": "@HenryNdubuaku",
+      "text": "Show HN: Maths, CS and AI Compendium.",
       "lang": "en",
-      "created_at": "2026-02-15T15:33:25+00:00",
+      "created_at": "2026-02-16T15:15:50+00:00",
+      "likes": 72,
+      "reposts": 0,
+      "replies": 17,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+      ],
+      "tags": [
+        "repo"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_052",
+      "heat_score": 0.36
+    },
+    {
+      "id": "hn_47039332",
+      "author_name": "medunes",
+      "author_handle": "@medunes",
+      "text": "Dewdrops – Turn your Git repo into a single Markdown file for LLMs.",
+      "lang": "en",
+      "created_at": "2026-02-16T19:43:48+00:00",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 5,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/MedUnes/dewdrops"
+      ],
+      "tags": [
+        "repo"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_014",
+      "heat_score": 0.3
+    },
+    {
+      "id": "hn_47043811",
+      "author_name": "loayabdalslam",
+      "author_handle": "@loayabdalslam",
+      "text": "Show HN: HJX – An AI-Native Web Language Unifying HTML, CSS and JavaScript.",
+      "lang": "en",
+      "created_at": "2026-02-17T04:49:50+00:00",
       "likes": 2,
+      "reposts": 0,
+      "replies": 3,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/loayabdalslam/hjx"
+      ],
+      "tags": [
+        "repo"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_033",
+      "heat_score": 0.29
+    },
+    {
+      "id": "hn_47039992",
+      "author_name": "mthwsjc_",
+      "author_handle": "@mthwsjc_",
+      "text": "Peon Training feature piggybacks on AI coding session.",
+      "lang": "en",
+      "created_at": "2026-02-16T20:36:15+00:00",
+      "likes": 1,
       "reposts": 0,
       "replies": 0,
       "bookmarks": 0,
       "urls": [
-        "https://github.com/jundot/omlx"
-      ],
-      "tags": [
-        "repo",
-        "模型更新"
-      ],
-      "is_ad_suspect": false,
-      "cluster_id": "cluster_014",
-      "heat_score": 0.36
-    },
-    {
-      "id": "hn_47030354",
-      "author_name": "aSidorenkoCode",
-      "author_handle": "@aSidorenkoCode",
-      "text": "Show HN: OpenSlimedit – Cut AI coding token usage by 21-45% with zero config.",
-      "lang": "en",
-      "created_at": "2026-02-16T02:53:32+00:00",
-      "likes": 2,
-      "reposts": 0,
-      "replies": 8,
-      "bookmarks": 0,
-      "urls": [
-        "https://github.com/ASidorenkoCode/openslimedit"
+        "https://github.com/PeonPing/peon-ping"
       ],
       "tags": [
         "repo"
       ],
       "is_ad_suspect": false,
       "cluster_id": "cluster_001",
-      "heat_score": 0.3
+      "heat_score": 0.28
+    },
+    {
+      "id": "hn_47036723",
+      "author_name": "WayneCider",
+      "author_handle": "@WayneCider",
+      "text": "Show HN: YOPJ – Local AI coding agent with 8-layer security sandbox (no cloud).",
+      "lang": "en",
+      "created_at": "2026-02-16T16:05:48+00:00",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/WayneCider/YourOwnPersonalJean-Luc"
+      ],
+      "tags": [
+        "repo"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_002",
+      "heat_score": 0.28
     }
   ],
   "github_trending": [
@@ -275,8 +280,8 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 3866,
-      "forks": 208,
+      "stars": 3933,
+      "forks": 214,
       "stars_24h": 1094,
       "created_at": "2025-12-05T07:45:38+00:00",
       "language": "C++",
@@ -295,14 +300,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 22,
-      "open_issues": 43
+      "open_issues": 45
     },
     {
       "name": "nautechsystems/nautilus_trader",
       "owner": "nautechsystems",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "stars": 19844,
-      "forks": 2332,
+      "stars": 19863,
+      "forks": 2337,
       "stars_24h": 546,
       "created_at": "2018-06-25T06:26:16+00:00",
       "language": "Rust",
@@ -335,8 +340,8 @@
       "name": "rowboatlabs/rowboat",
       "owner": "rowboatlabs",
       "description": "Open-source AI coworker, with memory",
-      "stars": 7403,
-      "forks": 623,
+      "stars": 7418,
+      "forks": 625,
       "stars_24h": 700,
       "created_at": "2025-01-13T09:30:40+00:00",
       "language": "TypeScript",
@@ -373,8 +378,8 @@
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3592,
-      "forks": 305,
+      "stars": 3618,
+      "forks": 308,
       "stars_24h": 637,
       "created_at": "2025-12-12T12:36:45+00:00",
       "language": "Go",
@@ -399,8 +404,8 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 202396,
-      "forks": 36424,
+      "stars": 202550,
+      "forks": 36488,
       "stars_24h": 3873,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -420,15 +425,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1100,
-      "open_issues": 6826
+      "watchers": 1097,
+      "open_issues": 6857
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1024,
-      "forks": 364,
+      "stars": 1033,
+      "forks": 366,
       "stars_24h": 205,
       "created_at": "2025-12-09T15:19:10+00:00",
       "language": "JavaScript",
@@ -462,8 +467,8 @@
       "name": "letta-ai/letta-code",
       "owner": "letta-ai",
       "description": "The memory-first coding agent",
-      "stars": 1503,
-      "forks": 156,
+      "stars": 1516,
+      "forks": 157,
       "stars_24h": 22,
       "created_at": "2025-10-25T04:17:51+00:00",
       "language": "TypeScript",
@@ -482,8 +487,8 @@
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6860,
-      "forks": 587,
+      "stars": 6873,
+      "forks": 589,
       "stars_24h": 344,
       "created_at": "2025-06-07T04:32:30+00:00",
       "language": "Python",
@@ -502,8 +507,8 @@
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9126,
-      "forks": 604,
+      "stars": 9129,
+      "forks": 605,
       "stars_24h": 182,
       "created_at": "2022-03-09T09:18:22+00:00",
       "language": "TypeScript",
@@ -533,8 +538,8 @@
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 16657,
-      "forks": 4396,
+      "stars": 16678,
+      "forks": 4399,
       "stars_24h": 339,
       "created_at": "2019-04-02T21:41:52+00:00",
       "language": "Python",
@@ -570,8 +575,8 @@
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14245,
-      "forks": 2418,
+      "stars": 14250,
+      "forks": 2419,
       "stars_24h": 165,
       "created_at": "2024-08-29T19:52:32+00:00",
       "language": "Python",
@@ -590,8 +595,8 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 6562,
-      "forks": 657,
+      "stars": 6584,
+      "forks": 659,
       "stars_24h": 891,
       "created_at": "2025-09-21T05:46:16+00:00",
       "language": "Python",
@@ -607,14 +612,14 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 35,
+      "watchers": 36,
       "open_issues": 61
     },
     {
       "name": "hesreallyhim/awesome-claude-code",
       "owner": "hesreallyhim",
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
-      "stars": 23956,
+      "stars": 23961,
       "forks": 1412,
       "stars_24h": 133,
       "created_at": "2025-04-19T20:55:59+00:00",
@@ -654,8 +659,8 @@
       "name": "karpathy/nanochat",
       "owner": "karpathy",
       "description": "The best ChatGPT that $100 can buy.",
-      "stars": 43502,
-      "forks": 5669,
+      "stars": 43507,
+      "forks": 5670,
       "stars_24h": 100,
       "created_at": "2025-10-13T13:46:35+00:00",
       "language": "Python",
@@ -667,14 +672,14 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 301,
+      "watchers": 300,
       "open_issues": 49
     },
     {
       "name": "home-assistant/core",
       "owner": "home-assistant",
       "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-      "stars": 84856,
+      "stars": 84857,
       "forks": 36765,
       "stars_24h": 27,
       "created_at": "2013-09-17T07:29:48+00:00",
@@ -697,1297 +702,1793 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 1330,
-      "open_issues": 3238
+      "open_issues": 3240
     }
   ],
   "github_new": [],
   "clusters": [
     {
-      "id": "cluster_034",
-      "title": "I’m joining OpenAI.",
-      "theme": "Demos / New Apps",
-      "heat_score": 2.5,
-      "keywords": [
-        "joining",
-        "openai"
-      ],
-      "tweet_ids": [
-        "hn_47028013"
-      ],
-      "repo_names": []
-    },
-    {
-      "id": "cluster_040",
-      "title": "Show HN: Jemini – Gemini for the Epstein Files.",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.4,
-      "keywords": [
-        "show",
-        "jemini",
-        "gemini",
-        "epstein",
-        "files"
-      ],
-      "tweet_ids": [
-        "hn_47031334"
-      ],
-      "repo_names": []
-    },
-    {
-      "id": "cluster_008",
-      "title": "Two different tricks for fast LLM inference.",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.3,
-      "keywords": [
-        "two",
-        "different",
-        "tricks",
-        "fast",
-        "llm",
-        "inference"
-      ],
-      "tweet_ids": [
-        "hn_47022329"
-      ],
-      "repo_names": []
-    },
-    {
-      "id": "cluster_023",
-      "title": "Show HN: Microgpt is a GPT you can visualize in the browser.",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.3,
-      "keywords": [
-        "show",
-        "microgpt",
-        "gpt",
-        "visualize",
-        "browser"
-      ],
-      "tweet_ids": [
-        "hn_47026186"
-      ],
-      "repo_names": []
-    },
-    {
-      "id": "cluster_058",
-      "title": "OpenClaw (ClawdBot) joins OpenAI.",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.1,
-      "keywords": [
-        "openclaw",
-        "openai",
-        "clawdbot",
-        "joins",
-        "acquires"
-      ],
-      "tweet_ids": [
-        "hn_47027907",
-        "hn_47027974"
-      ],
-      "repo_names": []
-    },
-    {
-      "id": "cluster_063",
-      "title": "Show HN: Lightwave – Real-time notes app, 3.5 years of hand-...",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.1,
-      "keywords": [
-        "show",
-        "lightwave",
-        "real",
-        "time",
-        "notes",
-        "app",
-        "years",
-        "hand"
-      ],
-      "tweet_ids": [
-        "hn_47027463"
-      ],
-      "repo_names": []
-    },
-    {
-      "id": "cluster_000",
-      "title": "Show HN: Shareful.ai – Stack Overflow for AI Coding Agents.",
-      "theme": "Coding Agents",
-      "heat_score": 0.0,
-      "keywords": [
-        "show",
-        "shareful",
-        "stack",
-        "overflow",
-        "coding",
-        "agents"
-      ],
-      "tweet_ids": [
-        "hn_47022208"
-      ],
-      "repo_names": []
-    },
-    {
-      "id": "cluster_001",
-      "title": "Show HN: OpenSlimedit – Cut AI coding token usage by 21-45% ...",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.0,
-      "keywords": [
-        "show",
-        "openslimedit",
-        "cut",
-        "coding",
-        "token",
-        "usage",
-        "zero",
-        "config"
-      ],
-      "tweet_ids": [
-        "hn_47030354"
-      ],
-      "repo_names": [
-        "ASidorenkoCode/openslimedit"
-      ]
-    },
-    {
-      "id": "cluster_002",
-      "title": "Show HN: ContextLedger – CLI to track and handoff context b/...",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.0,
-      "keywords": [
-        "show",
-        "contextledger",
-        "cli",
-        "track",
-        "handoff",
-        "context",
-        "coding",
-        "sessions"
-      ],
-      "tweet_ids": [
-        "hn_47027105"
-      ],
-      "repo_names": [
-        "manthan787/context-ledger"
-      ]
-    },
-    {
-      "id": "cluster_003",
-      "title": "Show HN: Stato captures and transfers AI coding agent expert...",
-      "theme": "Coding Agents",
-      "heat_score": 0.0,
-      "keywords": [
-        "show",
-        "stato",
-        "captures",
-        "transfers",
-        "coding",
-        "agent",
-        "expertise",
-        "across"
-      ],
-      "tweet_ids": [
-        "hn_47029217"
-      ],
-      "repo_names": [
-        "genecell/stato"
-      ]
-    },
-    {
-      "id": "cluster_004",
-      "title": "Show HN: Alive-analysis – Git-tracked analysis notes for AI ...",
-      "theme": "Coding Agents",
-      "heat_score": 0.0,
-      "keywords": [
-        "analysis",
-        "show",
-        "alive",
-        "git",
-        "tracked",
-        "notes",
-        "agents"
-      ],
-      "tweet_ids": [
-        "hn_47025175"
-      ],
-      "repo_names": [
-        "with-geun/alive-analysis"
-      ]
-    },
-    {
-      "id": "cluster_005",
-      "title": "Show HN: Claude-relais – A plan/build/judge loop mixing Clau...",
+      "id": "cluster_015",
+      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it.",
       "theme": "IDE / Copilot Tools",
-      "heat_score": 0.0,
+      "heat_score": 0.6,
       "keywords": [
+        "anthropic",
+        "tries",
+        "hide",
         "claude",
-        "show",
-        "relais",
-        "plan",
-        "build",
-        "judge",
-        "loop",
-        "mixing"
+        "actions",
+        "devs",
+        "hate"
       ],
       "tweet_ids": [
-        "hn_47026886"
-      ],
-      "repo_names": [
-        "clementrog/claude-relais"
-      ]
-    },
-    {
-      "id": "cluster_006",
-      "title": "\" Tech debt is gone. Not that we solved it, but that AI made...",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.0,
-      "keywords": [
-        "tech",
-        "debt",
-        "gone",
-        "solved",
-        "made",
-        "irrelevant"
-      ],
-      "tweet_ids": [
-        "hn_47024053"
+        "hn_47033622"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_007",
-      "title": "The Vibe Coding Slot Machine.",
+      "title": "The long tail of LLM-assisted decompilation.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.1,
+      "keywords": [
+        "long",
+        "tail",
+        "llm",
+        "assisted",
+        "decompilation"
+      ],
+      "tweet_ids": [
+        "hn_47038270"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_052",
+      "title": "Show HN: Maths, CS and AI Compendium.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.1,
+      "keywords": [
+        "show",
+        "maths",
+        "compendium"
+      ],
+      "tweet_ids": [
+        "hn_47036063"
+      ],
+      "repo_names": [
+        "HenryNdubuaku/maths-cs-ai-compendium"
+      ]
+    },
+    {
+      "id": "cluster_059",
+      "title": "Pentagon Threatens Anthropic Punishment.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.1,
+      "keywords": [
+        "pentagon",
+        "threatens",
+        "anthropic",
+        "punishment"
+      ],
+      "tweet_ids": [
+        "hn_47035607"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_074",
+      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.1,
+      "keywords": [
+        "show",
+        "scanned",
+        "daily",
+        "usfs",
+        "work",
+        "diary"
+      ],
+      "tweet_ids": [
+        "hn_47041836"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_090",
+      "title": "Ask HN: What happens after the AI bubble bursts?.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.1,
+      "keywords": [
+        "ask",
+        "what",
+        "happens",
+        "bubble",
+        "bursts"
+      ],
+      "tweet_ids": [
+        "hn_47034849"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_000",
+      "title": "Cognitive Debt in AI Coding.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "vibe",
-        "coding",
-        "slot",
-        "machine"
+        "cognitive",
+        "debt",
+        "coding"
       ],
       "tweet_ids": [
-        "hn_47022282"
+        "hn_47031879"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_001",
+      "title": "Peon Training feature piggybacks on AI coding session.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "peon",
+        "training",
+        "feature",
+        "piggybacks",
+        "coding",
+        "session"
+      ],
+      "tweet_ids": [
+        "hn_47039992"
+      ],
+      "repo_names": [
+        "PeonPing/peon-ping"
+      ]
+    },
+    {
+      "id": "cluster_002",
+      "title": "Show HN: YOPJ – Local AI coding agent with 8-layer security ...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "yopj",
+        "local",
+        "coding",
+        "agent",
+        "layer",
+        "security",
+        "sandbox"
+      ],
+      "tweet_ids": [
+        "hn_47036723"
+      ],
+      "repo_names": [
+        "WayneCider/YourOwnPersonalJean-Luc"
+      ]
+    },
+    {
+      "id": "cluster_003",
+      "title": "Which AI coding tools are you using? (Monthly Agentic Coding...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "coding",
+        "which",
+        "tools",
+        "using",
+        "monthly",
+        "agentic",
+        "index",
+        "survey"
+      ],
+      "tweet_ids": [
+        "hn_47035805"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_004",
+      "title": "Yes, You Can Vibe-Code. Here’s How to Get Started..",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "yes",
+        "vibe",
+        "code",
+        "here",
+        "how",
+        "get",
+        "started"
+      ],
+      "tweet_ids": [
+        "hn_47042069"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_005",
+      "title": "Show HN: Alexa-like voice interface for OpenClaw.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "alexa",
+        "like",
+        "voice",
+        "interface",
+        "openclaw"
+      ],
+      "tweet_ids": [
+        "hn_47044211"
+      ],
+      "repo_names": [
+        "sachaabot/openclaw-voice-agent"
+      ]
+    },
+    {
+      "id": "cluster_006",
+      "title": "Show HN: ViewLint – Lint UI, Not Code.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "viewlint",
+        "lint",
+        "code"
+      ],
+      "tweet_ids": [
+        "hn_47039716"
+      ],
+      "repo_names": [
+        "EvanZhouDev/viewlint"
+      ]
+    },
+    {
+      "id": "cluster_008",
+      "title": "Why I Built Reader: Open-source web scraping for LLMs.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "why",
+        "built",
+        "reader",
+        "open",
+        "source",
+        "web",
+        "scraping",
+        "llms"
+      ],
+      "tweet_ids": [
+        "hn_47042244"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_009",
-      "title": "Show HN: An open-source extension to chat with your bookmark...",
+      "title": "LLM-generated skills work, if you generate them afterwards.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "show",
-        "open",
-        "source",
-        "extension",
-        "chat",
-        "bookmarks",
-        "using",
-        "local"
+        "llm",
+        "generated",
+        "skills",
+        "work",
+        "generate",
+        "them",
+        "afterwards"
       ],
       "tweet_ids": [
-        "hn_47025288"
+        "hn_47043338"
       ],
-      "repo_names": [
-        "dailypixie/talkwithbookmarks"
-      ]
+      "repo_names": []
     },
     {
       "id": "cluster_010",
-      "title": "Adafruit – Our First Gemini Deep Think LLM-Assisted Hardware...",
+      "title": "The Economics of LLM Inference.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "adafruit",
-        "our",
-        "first",
-        "gemini",
-        "deep",
-        "think",
+        "economics",
         "llm",
-        "assisted"
+        "inference"
       ],
       "tweet_ids": [
-        "hn_47024973"
+        "hn_47040551"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_011",
-      "title": "A Debate Tournament for LLMs.",
+      "title": "The LLM Experience of BoreDOM.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "debate",
-        "tournament",
-        "llms"
+        "llm",
+        "experience",
+        "boredom"
       ],
       "tweet_ids": [
-        "hn_47023598"
+        "hn_47036308"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_012",
-      "title": "Show HN: Lineark – Linear CLI and Rust SDK for Humans and LL...",
-      "theme": "Tooling / Infra",
+      "title": "Are We Becoming Architects or Butlers to LLMs?.",
+      "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "show",
-        "lineark",
-        "linear",
-        "cli",
-        "rust",
-        "sdk",
-        "humans",
+        "becoming",
+        "architects",
+        "butlers",
         "llms"
       ],
       "tweet_ids": [
-        "hn_47023922"
-      ],
-      "repo_names": [
-        "flipbit03/lineark"
-      ]
-    },
-    {
-      "id": "cluster_013",
-      "title": "Show HN: Evolved x86 AVX-512 kernels for NF4 LLM inference.",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.0,
-      "keywords": [
-        "show",
-        "evolved",
-        "avx",
-        "kernels",
-        "llm",
-        "inference"
-      ],
-      "tweet_ids": [
-        "hn_47030839"
-      ],
-      "repo_names": [
-        "Anuar81/genesis-kernel"
-      ]
-    },
-    {
-      "id": "cluster_014",
-      "title": "OMLX – Ollama for MLX (LLM Inference Server for Apple Silico...",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.0,
-      "keywords": [
-        "omlx",
-        "ollama",
-        "mlx",
-        "llm",
-        "inference",
-        "server",
-        "apple",
-        "silicon"
-      ],
-      "tweet_ids": [
-        "hn_47024470"
-      ],
-      "repo_names": [
-        "jundot/omlx"
-      ]
-    },
-    {
-      "id": "cluster_015",
-      "title": "Epstein LLM.",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.0,
-      "keywords": [
-        "epstein",
-        "llm"
-      ],
-      "tweet_ids": [
-        "hn_47022843"
-      ],
-      "repo_names": [
-        "lachameleon/epstein-llm"
-      ]
-    },
-    {
-      "id": "cluster_016",
-      "title": "Pentagon's use of Claude during Maduro raid sparks Anthropic...",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.0,
-      "keywords": [
-        "pentagon",
-        "use",
-        "claude",
-        "maduro",
-        "raid",
-        "sparks",
-        "anthropic",
-        "feud"
-      ],
-      "tweet_ids": [
-        "hn_47028417"
+        "hn_47036257"
       ],
       "repo_names": []
     },
     {
-      "id": "cluster_017",
-      "title": "Anthropic improves free Claude tier as OpenAI prepares inser...",
+      "id": "cluster_013",
+      "title": "Do LLMs hallucinate more in Czech than in English?.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "anthropic",
-        "improves",
-        "free",
-        "claude",
-        "tier",
-        "openai",
-        "prepares",
-        "insert"
+        "llms",
+        "hallucinate",
+        "more",
+        "czech",
+        "english"
       ],
       "tweet_ids": [
-        "hn_47029911"
+        "hn_47032358"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_014",
+      "title": "Dewdrops – Turn your Git repo into a single Markdown file fo...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "dewdrops",
+        "turn",
+        "git",
+        "repo",
+        "single",
+        "markdown",
+        "file",
+        "llms"
+      ],
+      "tweet_ids": [
+        "hn_47039332"
+      ],
+      "repo_names": [
+        "MedUnes/dewdrops"
+      ]
+    },
+    {
+      "id": "cluster_016",
+      "title": "Show HN: Claude-engram – Brain-inspired persistent memory, r...",
+      "theme": "IDE / Copilot Tools",
+      "heat_score": 0.0,
+      "keywords": [
+        "claude",
+        "show",
+        "engram",
+        "brain",
+        "inspired",
+        "persistent",
+        "memory",
+        "runs"
+      ],
+      "tweet_ids": [
+        "hn_47037566"
+      ],
+      "repo_names": [
+        "mlapeter/claude-engram"
+      ]
+    },
+    {
+      "id": "cluster_017",
+      "title": "US Military used Anthropic's AI model Claude in Venezuela ra...",
+      "theme": "Model Releases & Updates",
+      "heat_score": 0.0,
+      "keywords": [
+        "military",
+        "used",
+        "anthropic",
+        "model",
+        "claude",
+        "venezuela",
+        "raid",
+        "report"
+      ],
+      "tweet_ids": [
+        "hn_47036533"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_018",
-      "title": "UIUC 2002 – we wrote a space shooter in x86 asm. In 2026 Cla...",
+      "title": "TIL: Claude Opus 4.6 Can Reverse Engineer STL Files.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "uiuc",
-        "wrote",
-        "space",
-        "shooter",
-        "asm",
+        "til",
         "claude",
-        "resurrected"
+        "opus",
+        "reverse",
+        "engineer",
+        "stl",
+        "files"
       ],
       "tweet_ids": [
-        "hn_47025398"
+        "hn_47035080"
       ],
-      "repo_names": [
-        "gottebp/alan_parsons_project"
-      ]
+      "repo_names": []
     },
     {
       "id": "cluster_019",
-      "title": "I Vibe Coded the Epstein Files Podcast with Claude and Hit 1...",
+      "title": "Claude Cowork.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "vibe",
-        "coded",
-        "epstein",
-        "files",
-        "podcast",
         "claude",
-        "hit",
-        "downloads"
+        "cowork"
       ],
       "tweet_ids": [
-        "hn_47024023"
+        "hn_47040233"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_020",
-      "title": "Safely run Claude ––dangerously-skip-permissions on Kubernet...",
+      "title": "User \"Claude\" committing vulnerabilities at a rapid rate.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "safely",
-        "run",
+        "user",
         "claude",
-        "dangerously",
-        "skip",
-        "permissions",
-        "kubernetes"
+        "committing",
+        "vulnerabilities",
+        "rapid",
+        "rate"
       ],
       "tweet_ids": [
-        "hn_47024287"
+        "hn_47040144"
       ],
-      "repo_names": [
-        "axon-core/axon"
-      ]
+      "repo_names": []
     },
     {
       "id": "cluster_021",
-      "title": "TexGuardian – Claude Code, but for LaTeX academic papers.",
-      "theme": "Demos / New Apps",
+      "title": "Flare: Visual CSS editor that generates prompts for Claude C...",
+      "theme": "IDE / Copilot Tools",
       "heat_score": 0.0,
       "keywords": [
-        "texguardian",
+        "flare",
+        "visual",
+        "css",
+        "editor",
+        "generates",
+        "prompts",
         "claude",
-        "code",
-        "latex",
-        "academic",
-        "papers"
-      ],
-      "tweet_ids": [
-        "hn_47023049"
-      ],
-      "repo_names": [
-        "arcAman07/TexGuardian"
-      ]
-    },
-    {
-      "id": "cluster_022",
-      "title": "Show HN: Claude Extender – Autonomous Agent Management for C...",
-      "theme": "Coding Agents",
-      "heat_score": 0.0,
-      "keywords": [
-        "claude",
-        "show",
-        "extender",
-        "autonomous",
-        "agent",
-        "management",
         "code"
       ],
       "tweet_ids": [
-        "hn_47022524"
+        "hn_47037464"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_022",
+      "title": "Grug Meets His Match – Or – Grug, Claude, and Big Snap Man.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "grug",
+        "meets",
+        "his",
+        "match",
+        "claude",
+        "big",
+        "snap",
+        "man"
+      ],
+      "tweet_ids": [
+        "hn_47044125"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_023",
+      "title": "Dutch Government Claude Plugins.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "dutch",
+        "government",
+        "claude",
+        "plugins"
+      ],
+      "tweet_ids": [
+        "hn_47040746"
       ],
       "repo_names": [
-        "wbnns/cx"
+        "MinBZK/overheid-claude-plugins"
       ]
     },
     {
       "id": "cluster_024",
-      "title": "Tell HN: OpenAI has been silently routing GPT-5.3-Codex requ...",
+      "title": "From Pixels to Raytracing – A 3D Rendering Engine Built with...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "gpt",
-        "tell",
-        "openai",
-        "silently",
-        "routing",
-        "codex",
-        "requests"
+        "pixels",
+        "raytracing",
+        "rendering",
+        "engine",
+        "built",
+        "claude",
+        "code"
       ],
       "tweet_ids": [
-        "hn_47024892"
+        "hn_47034042"
       ],
-      "repo_names": [
-        "openai/codex"
-      ]
+      "repo_names": []
     },
     {
       "id": "cluster_025",
-      "title": "Microgpt.py – train and inference a GPT in pure, dependency-...",
+      "title": "Beating GPT-2 for less than $100 – Andrej Karpathy.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "microgpt",
-        "train",
-        "inference",
+        "beating",
         "gpt",
-        "pure",
-        "dependency",
-        "free",
-        "python"
+        "less",
+        "andrej",
+        "karpathy"
       ],
       "tweet_ids": [
-        "hn_47024260"
+        "hn_47042493"
       ],
-      "repo_names": []
+      "repo_names": [
+        "karpathy/nanochat"
+      ]
     },
     {
       "id": "cluster_026",
-      "title": "Ask anything about quantum and gravity from this GPT.",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.0,
-      "keywords": [
-        "ask",
-        "anything",
-        "quantum",
-        "gravity",
-        "gpt"
-      ],
-      "tweet_ids": [
-        "hn_47022123"
-      ],
-      "repo_names": []
-    },
-    {
-      "id": "cluster_027",
-      "title": "Show HN: Jsiphon – Streaming JSON parser with delta tracking...",
+      "title": "Show HN: PicoGPT v2 – GPT in <40 lines of vanilla JS running...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
         "show",
-        "jsiphon",
-        "streaming",
-        "json",
-        "parser",
-        "delta",
-        "tracking",
-        "ambiguity"
+        "picogpt",
+        "gpt",
+        "lines",
+        "vanilla",
+        "running",
+        "code"
       ],
       "tweet_ids": [
-        "hn_47030961"
+        "hn_47039865"
       ],
       "repo_names": [
-        "webtoon-today/jsiphon"
+        "Kuberwastaken/picogpt"
+      ]
+    },
+    {
+      "id": "cluster_027",
+      "title": "GPT in 2 LOC.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "gpt",
+        "loc"
+      ],
+      "tweet_ids": [
+        "hn_47044438"
+      ],
+      "repo_names": [
+        "Lazarus-931/femto-gpt"
       ]
     },
     {
       "id": "cluster_028",
-      "title": "Show HN: Free mission statement generator – paste URL, get d...",
+      "title": "Show HN: Glitchy camera – a circuit-bent camera simulator in...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
+        "camera",
         "show",
-        "free",
-        "mission",
-        "statement",
-        "generator",
-        "paste",
-        "url",
-        "get"
+        "glitchy",
+        "circuit",
+        "bent",
+        "simulator",
+        "browser"
       ],
       "tweet_ids": [
-        "hn_47022851"
+        "hn_47033954"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_029",
-      "title": "The Neuro-Data Bottleneck: Why Neuro-AI Interfacing Breaks t...",
+      "title": "Show HN: Million Dollar Chat.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "neuro",
-        "data",
-        "bottleneck",
-        "why",
-        "interfacing",
-        "breaks",
-        "modern",
-        "stack"
+        "show",
+        "million",
+        "dollar",
+        "chat"
       ],
       "tweet_ids": [
-        "hn_47025874"
+        "hn_47036960"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_030",
-      "title": "Cursor for Writers: How I chained parallel agents to track n...",
-      "theme": "Coding Agents",
+      "title": "Show HN: API router that picks the cheapest model that fits ...",
+      "theme": "Model Releases & Updates",
       "heat_score": 0.0,
       "keywords": [
-        "cursor",
-        "writers",
-        "how",
-        "chained",
-        "parallel",
-        "agents",
-        "track",
-        "narrative"
+        "show",
+        "api",
+        "router",
+        "picks",
+        "cheapest",
+        "model",
+        "fits",
+        "each"
       ],
       "tweet_ids": [
-        "hn_47027297"
+        "hn_47036011"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_031",
-      "title": "OpenReview MCP server with Cursor integration.",
-      "theme": "IDE / Copilot Tools",
+      "title": "Show HN: SafeClaw – Sleep-by-default AI assistant with runti...",
+      "theme": "Tooling / Infra",
       "heat_score": 0.0,
       "keywords": [
-        "openreview",
-        "mcp",
-        "server",
-        "cursor",
-        "integration"
+        "show",
+        "safeclaw",
+        "sleep",
+        "default",
+        "assistant",
+        "runtime",
+        "tool",
+        "permissions"
       ],
       "tweet_ids": [
-        "hn_47031128"
+        "hn_47039765"
       ],
       "repo_names": [
-        "anyakors/openreview-mcp-server"
+        "rawalrahul/safeclaw"
       ]
     },
     {
       "id": "cluster_032",
-      "title": "Show HN: LaTeX Salon, a Trystero-based multiplayer LaTeX scr...",
+      "title": "Show HN: Palettepoint.com – AI color palettes from text desc...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "latex",
         "show",
-        "salon",
-        "trystero",
-        "based",
-        "multiplayer",
-        "scratchpad"
+        "palettepoint",
+        "com",
+        "color",
+        "palettes",
+        "text",
+        "descriptions",
+        "images"
       ],
       "tweet_ids": [
-        "hn_47025788"
+        "hn_47035231"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_033",
-      "title": "Show HN: Addictive little browser game involving gravity.",
+      "title": "Show HN: HJX – An AI-Native Web Language Unifying HTML, CSS ...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
         "show",
-        "addictive",
-        "little",
-        "browser",
-        "game",
-        "involving",
-        "gravity"
+        "hjx",
+        "native",
+        "web",
+        "language",
+        "unifying",
+        "html",
+        "css"
       ],
       "tweet_ids": [
-        "hn_47022609"
+        "hn_47043811"
+      ],
+      "repo_names": [
+        "loayabdalslam/hjx"
+      ]
+    },
+    {
+      "id": "cluster_034",
+      "title": "Show HN: Security-Risk Patterns in OpenClaw Skills.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "security",
+        "risk",
+        "patterns",
+        "openclaw",
+        "skills"
+      ],
+      "tweet_ids": [
+        "hn_47041889"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_035",
-      "title": "OpenClaw creator Peter Steinberger joins OpenAI.",
-      "theme": "Demos / New Apps",
+      "title": "Show HN: Train AI Agents to Write Better Playwright Tests.",
+      "theme": "Coding Agents",
       "heat_score": 0.0,
       "keywords": [
-        "openclaw",
-        "creator",
-        "peter",
-        "steinberger",
-        "joins",
-        "openai"
+        "show",
+        "train",
+        "agents",
+        "write",
+        "better",
+        "playwright",
+        "tests"
       ],
       "tweet_ids": [
-        "hn_47028989"
+        "hn_47032774"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_036",
-      "title": "Following Discord's suit, OpenAI will scan your usage and as...",
-      "theme": "Demos / New Apps",
+      "title": "Show HN: VoteShip – Feature request platform built for AI ag...",
+      "theme": "Coding Agents",
       "heat_score": 0.0,
       "keywords": [
-        "following",
-        "discord",
-        "suit",
-        "openai",
-        "scan",
-        "usage",
-        "ask",
-        "confirm"
+        "show",
+        "voteship",
+        "feature",
+        "request",
+        "platform",
+        "built",
+        "agents"
       ],
       "tweet_ids": [
-        "hn_47028557"
+        "hn_47040022"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_037",
-      "title": "Microsoft AI chief confirms plan to ditch OpenAI.",
-      "theme": "Demos / New Apps",
+      "title": "Expanding our long-running agents research preview.",
+      "theme": "Coding Agents",
       "heat_score": 0.0,
       "keywords": [
-        "microsoft",
-        "chief",
-        "confirms",
-        "plan",
-        "ditch",
-        "openai"
+        "expanding",
+        "our",
+        "long",
+        "running",
+        "agents",
+        "research",
+        "preview"
       ],
       "tweet_ids": [
-        "hn_47028269"
+        "hn_47038867"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_038",
-      "title": "Peter Steinberger, creator of OpenClaw, joins OpenAI.",
-      "theme": "Demos / New Apps",
+      "title": "Gentoo Linux Begins Codeberg Migration Moving Away from GitH...",
+      "theme": "IDE / Copilot Tools",
       "heat_score": 0.0,
       "keywords": [
-        "peter",
-        "steinberger",
-        "creator",
-        "openclaw",
-        "joins",
-        "openai"
+        "gentoo",
+        "linux",
+        "begins",
+        "codeberg",
+        "migration",
+        "moving",
+        "away",
+        "github"
       ],
       "tweet_ids": [
-        "hn_47028995"
+        "hn_47043852"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_039",
-      "title": "OpenAI Hires OpenClaw AI Agent Developer Peter Steinberg.",
-      "theme": "Coding Agents",
+      "title": "Show HN: DoScript – DSL for file automation with natural lan...",
+      "theme": "Workflow Automation",
       "heat_score": 0.0,
       "keywords": [
-        "openai",
-        "hires",
-        "openclaw",
-        "agent",
-        "developer",
-        "peter",
-        "steinberg"
+        "show",
+        "doscript",
+        "dsl",
+        "file",
+        "automation",
+        "natural",
+        "language",
+        "syntax"
       ],
       "tweet_ids": [
-        "hn_47028888"
+        "hn_47032476"
+      ],
+      "repo_names": [
+        "TheServer-lab/DoScript"
+      ]
+    },
+    {
+      "id": "cluster_040",
+      "title": "Show HN: I.T. Never Ends – IT Support Simulator Built with R...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "never",
+        "ends",
+        "support",
+        "simulator",
+        "built",
+        "react",
+        "tauri"
+      ],
+      "tweet_ids": [
+        "hn_47037629"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_041",
-      "title": "Gemini's mobile app inherits Google's location permissions.",
-      "theme": "Demos / New Apps",
+      "title": "Show HN: Comfy Pilot – MCP server that lets Claude Code edit...",
+      "theme": "Workflow Automation",
       "heat_score": 0.0,
       "keywords": [
-        "gemini",
-        "mobile",
-        "app",
-        "inherits",
-        "google",
-        "location",
-        "permissions"
+        "show",
+        "comfy",
+        "pilot",
+        "mcp",
+        "server",
+        "lets",
+        "claude",
+        "code"
       ],
       "tweet_ids": [
-        "hn_47021922"
+        "hn_47037267"
       ],
-      "repo_names": []
+      "repo_names": [
+        "ConstantineB6/comfy-pilot"
+      ]
     },
     {
       "id": "cluster_042",
-      "title": "Show HN: AIWriteBook – AI tool to write, design, and publish...",
-      "theme": "Tooling / Infra",
-      "heat_score": 0.0,
-      "keywords": [
-        "show",
-        "aiwritebook",
-        "tool",
-        "write",
-        "design",
-        "publish",
-        "full",
-        "length"
-      ],
-      "tweet_ids": [
-        "hn_47022899"
-      ],
-      "repo_names": []
-    },
-    {
-      "id": "cluster_043",
-      "title": "Show HN: Mindweave – AI-powered personal knowledge hub with ...",
+      "title": "Show HN: Claude Pilot – Claude Code is powerful. Pilot makes...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
+        "claude",
+        "pilot",
         "show",
-        "mindweave",
-        "powered",
-        "personal",
-        "knowledge",
-        "hub",
-        "semantic",
-        "search"
+        "code",
+        "powerful",
+        "makes",
+        "reliable"
       ],
       "tweet_ids": [
-        "hn_47031164"
+        "hn_47043847"
+      ],
+      "repo_names": [
+        "maxritter/claude-pilot"
+      ]
+    },
+    {
+      "id": "cluster_043",
+      "title": "OpenAI president becomes top Trump donor with $25M gift.",
+      "theme": "IDE / Copilot Tools",
+      "heat_score": 0.0,
+      "keywords": [
+        "openai",
+        "president",
+        "becomes",
+        "top",
+        "trump",
+        "donor",
+        "gift"
+      ],
+      "tweet_ids": [
+        "hn_47033900"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_044",
-      "title": "Show HN: Vibe Audit – Detecting Context Drift in Coding Agen...",
-      "theme": "Coding Agents",
+      "title": "The watchers: exposing OpenAI, the US government, and person...",
+      "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "show",
-        "vibe",
-        "audit",
-        "detecting",
-        "context",
-        "drift",
-        "coding",
-        "agents"
+        "watchers",
+        "exposing",
+        "openai",
+        "government",
+        "persona"
       ],
       "tweet_ids": [
-        "hn_47023258"
+        "hn_47041285"
       ],
-      "repo_names": [
-        "toumai266/Vibe-Audit"
-      ]
+      "repo_names": []
     },
     {
       "id": "cluster_045",
-      "title": "Show HN: Wisepanel – Multi-model AI panel for decision suppo...",
-      "theme": "Model Releases & Updates",
+      "title": "Anthropic got an 11% user boost from its OpenAI-bashing Supe...",
+      "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "show",
-        "wisepanel",
-        "multi",
-        "model",
-        "panel",
-        "decision",
-        "support"
+        "anthropic",
+        "got",
+        "user",
+        "boost",
+        "openai",
+        "bashing",
+        "super",
+        "bowl"
       ],
       "tweet_ids": [
-        "hn_47031423"
+        "hn_47040040"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_046",
-      "title": "Show HN: Deadend CLI – Open-source self-hosted agentic pente...",
-      "theme": "Coding Agents",
-      "heat_score": 0.0,
-      "keywords": [
-        "show",
-        "deadend",
-        "cli",
-        "open",
-        "source",
-        "self",
-        "hosted",
-        "agentic"
-      ],
-      "tweet_ids": [
-        "hn_47025738"
-      ],
-      "repo_names": [
-        "xoxruns/deadend-cli"
-      ]
-    },
-    {
-      "id": "cluster_047",
-      "title": "Anthropic resists as Department of War wants AI to kill.",
+      "title": "Amodei suggests OpenAI doesn't \"understand the risks they're...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "anthropic",
-        "resists",
-        "department",
-        "war",
-        "wants",
-        "kill"
+        "amodei",
+        "suggests",
+        "openai",
+        "doesn",
+        "understand",
+        "risks",
+        "taking"
       ],
       "tweet_ids": [
-        "hn_47029346"
+        "hn_47036748"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_047",
+      "title": "CA ballot measures aimed at OpenAI filed by stepbrother of A...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "ballot",
+        "measures",
+        "aimed",
+        "openai",
+        "filed",
+        "stepbrother",
+        "anthropic",
+        "employee"
+      ],
+      "tweet_ids": [
+        "hn_47035064"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_048",
-      "title": "Pentagon threatens to cut off Anthropic in AI safeguards dis...",
+      "title": "Thoughts on Peter Steinberger Joining OpenAI.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "pentagon",
-        "threatens",
-        "cut",
-        "off",
-        "anthropic",
-        "safeguards",
-        "dispute"
+        "thoughts",
+        "peter",
+        "steinberger",
+        "joining",
+        "openai"
       ],
       "tweet_ids": [
-        "hn_47026968"
+        "hn_47033947"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_049",
-      "title": "Show HN: MarginDash – See which AI customers are profitable.",
+      "title": "OpenAI Mission Statement through the years.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "show",
-        "margindash",
-        "see",
-        "which",
-        "customers",
-        "profitable"
+        "openai",
+        "mission",
+        "statement",
+        "years"
       ],
       "tweet_ids": [
-        "hn_47029486"
+        "hn_47039628"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_050",
-      "title": "Show HN: LLM AuthZ Audit – find auth gaps and prompt injecti...",
+      "title": "OpenClaw founder Peter Steinberger is joining OpenAI.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "llm",
-        "show",
-        "authz",
-        "audit",
-        "find",
-        "auth",
-        "gaps",
-        "prompt"
+        "openclaw",
+        "founder",
+        "peter",
+        "steinberger",
+        "joining",
+        "openai"
       ],
       "tweet_ids": [
-        "hn_47031695"
+        "hn_47037557"
       ],
-      "repo_names": [
-        "aiauthz/llm-authz-audit"
-      ]
+      "repo_names": []
     },
     {
       "id": "cluster_051",
-      "title": "Show HN: Minisft – from base model to chat model.",
-      "theme": "Model Releases & Updates",
+      "title": "Show HN: Agentic Shift: Peter Steinberger Joins OpenAI.",
+      "theme": "Coding Agents",
       "heat_score": 0.0,
       "keywords": [
-        "model",
         "show",
-        "minisft",
-        "base",
-        "chat"
+        "agentic",
+        "shift",
+        "peter",
+        "steinberger",
+        "joins",
+        "openai"
       ],
       "tweet_ids": [
-        "hn_47022508"
-      ],
-      "repo_names": [
-        "onurkanbakirci/Llama-2-7b-oasst-sft"
-      ]
-    },
-    {
-      "id": "cluster_052",
-      "title": "Where Does Ollama run glm-5:cloud Run? And other Security Bl...",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.0,
-      "keywords": [
-        "run",
-        "where",
-        "ollama",
-        "glm",
-        "cloud",
-        "other",
-        "security",
-        "blunders"
-      ],
-      "tweet_ids": [
-        "hn_47025806"
+        "hn_47033865"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_053",
-      "title": "I made a real BMO local AI agent with a Raspberry Pi and Oll...",
-      "theme": "Coding Agents",
+      "title": "The Drama and Dysfunction of Gemini 2.5 and 3 Pro.",
+      "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "made",
-        "real",
-        "bmo",
-        "local",
-        "agent",
-        "raspberry",
-        "ollama"
+        "drama",
+        "dysfunction",
+        "gemini",
+        "pro"
       ],
       "tweet_ids": [
-        "hn_47026705"
+        "hn_47031936"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_054",
-      "title": "Show HN: AgentKV – SQLite for AI agent memory (MMAP vector+g...",
-      "theme": "Coding Agents",
+      "title": "Show HN: CodeGraph CLI – Chat with your codebase using graph...",
+      "theme": "RAG / Retrieval",
       "heat_score": 0.0,
       "keywords": [
         "show",
-        "agentkv",
-        "sqlite",
-        "agent",
-        "memory",
-        "mmap",
-        "vector",
-        "graph"
+        "codegraph",
+        "cli",
+        "chat",
+        "codebase",
+        "using",
+        "graph",
+        "augmented"
       ],
       "tweet_ids": [
-        "hn_47027887"
+        "hn_47043764"
       ],
       "repo_names": [
-        "DarkMatterCompiler/agentkv"
+        "al1-nasir/codegraph-cli"
       ]
     },
     {
       "id": "cluster_055",
-      "title": "I got tired of babysitting Claude,so I built AI agent that r...",
-      "theme": "Coding Agents",
+      "title": "Show HN: AsdPrompt – Vimium-style keyboard navigation for AI...",
+      "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "claude",
         "show",
-        "got",
-        "tired",
-        "babysitting",
-        "built",
-        "agent",
-        "run"
+        "asdprompt",
+        "vimium",
+        "style",
+        "keyboard",
+        "navigation",
+        "chat",
+        "responses"
       ],
       "tweet_ids": [
-        "hn_47030623",
-        "hn_47029874",
-        "hn_47029168"
+        "hn_47037709"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_056",
-      "title": "Codex CLI might silently re-route your GPT-5.3 traffic to GP...",
+      "title": "Show HN: CoolWulf AI – A personal AI assistant built in Go, ...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "gpt",
-        "codex",
-        "cli",
-        "silently",
-        "route",
-        "traffic",
-        "instead"
+        "show",
+        "coolwulf",
+        "personal",
+        "assistant",
+        "built",
+        "optimized",
+        "macos"
       ],
       "tweet_ids": [
-        "hn_47030800"
+        "hn_47044036"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_057",
-      "title": "Show HN: PolyMCP – A framework for structuring and orchestra...",
-      "theme": "Tooling / Infra",
-      "heat_score": 0.0,
-      "keywords": [
-        "show",
-        "polymcp",
-        "framework",
-        "structuring",
-        "orchestrating",
-        "mcp",
-        "agents"
-      ],
-      "tweet_ids": [
-        "hn_47026179"
-      ],
-      "repo_names": []
-    },
-    {
-      "id": "cluster_059",
-      "title": "Show HN: I built \"Docker for code\", isolate AI logic into se...",
+      "title": "Show HN: Snapbyte – personalized email digests from HN/Reddi...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
         "show",
-        "built",
-        "docker",
-        "code",
-        "isolate",
-        "logic",
-        "semantic",
-        "containers"
+        "snapbyte",
+        "personalized",
+        "email",
+        "digests",
+        "reddit",
+        "lobsters"
       ],
       "tweet_ids": [
-        "hn_47028623"
+        "hn_47040895"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_058",
+      "title": "Show HN: Nexus AI – DevOps terminal bridge to Telegram (loca...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "nexus",
+        "devops",
+        "terminal",
+        "bridge",
+        "telegram",
+        "local",
+        "first"
+      ],
+      "tweet_ids": [
+        "hn_47036241"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_060",
-      "title": "Ask HN: LLMs helping you read papers and books.",
+      "title": "The One Woman Anthropic Trusts to Teach AI Morals.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "ask",
-        "llms",
-        "helping",
-        "read",
-        "papers",
-        "books"
+        "one",
+        "woman",
+        "anthropic",
+        "trusts",
+        "teach",
+        "morals"
       ],
       "tweet_ids": [
-        "hn_47023094"
+        "hn_47040207"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_061",
-      "title": "LLM-written short story about being a LLM.",
+      "title": "Anthropic opens Bengaluru office and announces new partnersh...",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "llm",
-        "written",
-        "short",
-        "story",
-        "being"
+        "anthropic",
+        "opens",
+        "bengaluru",
+        "office",
+        "announces",
+        "new",
+        "partnerships",
+        "across"
       ],
       "tweet_ids": [
-        "hn_47024868"
+        "hn_47036003"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_062",
-      "title": "Launched Book Digest on PH – learned that users want 3x more...",
-      "theme": "Model Releases & Updates",
+      "title": "Pentagon Close to Cutting Anthropic Ties After AI Talks, Rep...",
+      "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "launched",
-        "book",
-        "digest",
-        "learned",
-        "users",
-        "want",
-        "more",
-        "depth"
+        "pentagon",
+        "close",
+        "cutting",
+        "anthropic",
+        "ties",
+        "talks",
+        "report",
+        "says"
       ],
       "tweet_ids": [
-        "hn_47029133"
+        "hn_47035911"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_063",
+      "title": "Pentagon reviewing Anthropic partnership over terms of use d...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "pentagon",
+        "reviewing",
+        "anthropic",
+        "partnership",
+        "over",
+        "terms",
+        "use",
+        "dispute"
+      ],
+      "tweet_ids": [
+        "hn_47039465"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_064",
-      "title": "Ask HN: What's the best realtime, local, TTS solution? Live ...",
+      "title": "Anthropic Raised $30B. Where Does It Go?.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "ask",
-        "what",
-        "best",
-        "realtime",
-        "local",
-        "tts",
-        "solution",
-        "live"
+        "anthropic",
+        "raised",
+        "where"
       ],
       "tweet_ids": [
-        "hn_47025861"
+        "hn_47040033"
       ],
       "repo_names": []
     },
     {
       "id": "cluster_065",
-      "title": "Top non-ad google result for \"polymarket\" in Australia is a ...",
+      "title": "Alibaba Unveils Major AI Model Upgrade Ahead of DeepSeek Rel...",
+      "theme": "Model Releases & Updates",
+      "heat_score": 0.0,
+      "keywords": [
+        "alibaba",
+        "unveils",
+        "major",
+        "model",
+        "upgrade",
+        "ahead",
+        "deepseek",
+        "release"
+      ],
+      "tweet_ids": [
+        "hn_47034449"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_066",
+      "title": "Show HN: Gulama – Security-first open-source AI agent (OpenC...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "gulama",
+        "security",
+        "first",
+        "open",
+        "source",
+        "agent",
+        "openclaw"
+      ],
+      "tweet_ids": [
+        "hn_47031982"
+      ],
+      "repo_names": [
+        "san-techie21/gulama-bot"
+      ]
+    },
+    {
+      "id": "cluster_067",
+      "title": "Show HN: MLX-Ruby – Ruby Bindings for Apple's MLX ML Framewo...",
+      "theme": "Tooling / Infra",
+      "heat_score": 0.0,
+      "keywords": [
+        "mlx",
+        "ruby",
+        "show",
+        "bindings",
+        "apple",
+        "framework"
+      ],
+      "tweet_ids": [
+        "hn_47032297"
+      ],
+      "repo_names": [
+        "skryl/mlx-ruby"
+      ]
+    },
+    {
+      "id": "cluster_068",
+      "title": "A Scientific Table Generator.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
       "keywords": [
-        "top",
-        "non",
-        "google",
-        "result",
-        "polymarket",
-        "australia",
-        "crypto",
-        "scam"
+        "scientific",
+        "table",
+        "generator"
       ],
       "tweet_ids": [
-        "hn_47030691"
+        "hn_47044342"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_069",
+      "title": "I Tried New Claude Code Ollama Workflow (It's Wild and Free)...",
+      "theme": "Workflow Automation",
+      "heat_score": 0.0,
+      "keywords": [
+        "tried",
+        "new",
+        "claude",
+        "code",
+        "ollama",
+        "workflow",
+        "wild",
+        "free"
+      ],
+      "tweet_ids": [
+        "hn_47037956"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_070",
+      "title": "Show HN: DroidClaw – Turn old Android phones into AI agents.",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "droidclaw",
+        "turn",
+        "old",
+        "android",
+        "phones",
+        "agents"
+      ],
+      "tweet_ids": [
+        "hn_47037459"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_071",
+      "title": "Show HN: M-Courtyard – Fine-tune LLMs on your Mac with zero ...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "courtyard",
+        "fine",
+        "tune",
+        "llms",
+        "mac",
+        "zero",
+        "code"
+      ],
+      "tweet_ids": [
+        "hn_47043508"
+      ],
+      "repo_names": [
+        "Mcourtyard/m-courtyard"
+      ]
+    },
+    {
+      "id": "cluster_072",
+      "title": "Show HN: Is the \"frozen weights\" paradigm the main bottlenec...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "frozen",
+        "weights",
+        "paradigm",
+        "main",
+        "bottleneck",
+        "agi"
+      ],
+      "tweet_ids": [
+        "hn_47034056"
+      ],
+      "repo_names": [
+        "8lamaster8/hybrid-ai-core"
+      ]
+    },
+    {
+      "id": "cluster_073",
+      "title": "Mistral Vibe.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "mistral",
+        "vibe"
+      ],
+      "tweet_ids": [
+        "hn_47036263"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_075",
+      "title": "Show HN: Live Translation with Voxtral Mini Realtime and Dee...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "live",
+        "translation",
+        "voxtral",
+        "mini",
+        "realtime",
+        "deepl"
+      ],
+      "tweet_ids": [
+        "hn_47033239"
+      ],
+      "repo_names": [
+        "alxlion/voxtral-live-translation"
+      ]
+    },
+    {
+      "id": "cluster_076",
+      "title": "Sometimes giving syndication feed readers good errors is a m...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "sometimes",
+        "giving",
+        "syndication",
+        "feed",
+        "readers",
+        "good",
+        "errors",
+        "mistake"
+      ],
+      "tweet_ids": [
+        "hn_47037117"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_077",
+      "title": "Show HN:AIP Protocol–Solving the agent revocation problem in...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "aip",
+        "protocol",
+        "solving",
+        "agent",
+        "revocation",
+        "problem",
+        "distributed"
+      ],
+      "tweet_ids": [
+        "hn_47036121"
+      ],
+      "repo_names": [
+        "theaniketgiri/aip"
+      ]
+    },
+    {
+      "id": "cluster_078",
+      "title": "Show HN: Create new calendar systems to fix uneven months.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "create",
+        "new",
+        "calendar",
+        "systems",
+        "fix",
+        "uneven",
+        "months"
+      ],
+      "tweet_ids": [
+        "hn_47034465"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_079",
+      "title": "Dozens of Australians diagnosed with rare tattoo-related vis...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "dozens",
+        "australians",
+        "diagnosed",
+        "rare",
+        "tattoo",
+        "related",
+        "vision",
+        "loss"
+      ],
+      "tweet_ids": [
+        "hn_47039607"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_080",
+      "title": "Weather: When to Cross the Great Australian Bight.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "weather",
+        "when",
+        "cross",
+        "great",
+        "australian",
+        "bight"
+      ],
+      "tweet_ids": [
+        "hn_47034456"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_081",
+      "title": "Ask HN: How do companies that use Cursor handle compliance?.",
+      "theme": "IDE / Copilot Tools",
+      "heat_score": 0.0,
+      "keywords": [
+        "ask",
+        "how",
+        "companies",
+        "use",
+        "cursor",
+        "handle",
+        "compliance"
+      ],
+      "tweet_ids": [
+        "hn_47043484"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_082",
+      "title": "Show HN: Claude Remote – control Claude Code on your Mac fro...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "claude",
+        "show",
+        "remote",
+        "control",
+        "code",
+        "mac",
+        "phone"
+      ],
+      "tweet_ids": [
+        "hn_47032993"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_083",
+      "title": "Show HN: PolyClaw – An Autonomous Docker-First MCP Agent for...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "polyclaw",
+        "autonomous",
+        "docker",
+        "first",
+        "mcp",
+        "agent",
+        "polymcp"
+      ],
+      "tweet_ids": [
+        "hn_47036828"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_084",
+      "title": "Show HN: Babylog – baby tracker built with OpenClaw from a h...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "babylog",
+        "baby",
+        "tracker",
+        "built",
+        "openclaw",
+        "hospital",
+        "room"
+      ],
+      "tweet_ids": [
+        "hn_47041425"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_085",
+      "title": "Show HN: LLMFeeder – Multi-tab web to Markdown for LLM conte...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "llmfeeder",
+        "multi",
+        "tab",
+        "web",
+        "markdown",
+        "llm",
+        "context"
+      ],
+      "tweet_ids": [
+        "hn_47040739"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_086",
+      "title": "Ask HN: Do LLM agents need a separate safety layer?.",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "ask",
+        "llm",
+        "agents",
+        "need",
+        "separate",
+        "safety",
+        "layer"
+      ],
+      "tweet_ids": [
+        "hn_47032312"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_087",
+      "title": "Ask HN: In a blind coding test, could you identify an LLM st...",
+      "theme": "IDE / Copilot Tools",
+      "heat_score": 0.0,
+      "keywords": [
+        "ask",
+        "blind",
+        "coding",
+        "test",
+        "identify",
+        "llm",
+        "strictly",
+        "off"
+      ],
+      "tweet_ids": [
+        "hn_47035894"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_088",
+      "title": "My AI now has a license to drive.",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "now",
+        "license",
+        "drive"
+      ],
+      "tweet_ids": [
+        "hn_47036273"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_089",
+      "title": "Show HN: Provisioner per-board sidecar for serial access, fl...",
+      "theme": "IDE / Copilot Tools",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "provisioner",
+        "per",
+        "board",
+        "sidecar",
+        "serial",
+        "access",
+        "flashing"
+      ],
+      "tweet_ids": [
+        "hn_47040176"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_091",
+      "title": "Show HN: Dominake – A domino puzzle where 5×6 grids are impo...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "dominake",
+        "domino",
+        "puzzle",
+        "where",
+        "grids",
+        "impossible"
+      ],
+      "tweet_ids": [
+        "hn_47032808"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_092",
+      "title": "AI-powered Git CLI that generates commit messages automatica...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "powered",
+        "git",
+        "cli",
+        "generates",
+        "commit",
+        "messages",
+        "automatically"
+      ],
+      "tweet_ids": [
+        "hn_47035076"
+      ],
+      "repo_names": []
+    },
+    {
+      "id": "cluster_093",
+      "title": "Ask HN: Predictions on the state of theoretical STEM researc...",
+      "theme": "Demos / New Apps",
+      "heat_score": 0.0,
+      "keywords": [
+        "ask",
+        "predictions",
+        "state",
+        "theoretical",
+        "stem",
+        "research",
+        "post",
+        "agi"
+      ],
+      "tweet_ids": [
+        "hn_47033985"
       ],
       "repo_names": []
     }
