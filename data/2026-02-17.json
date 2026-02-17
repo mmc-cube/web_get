@@ -1,69 +1,59 @@
 {
   "date": "2026-02-16",
-  "generated_at": "2026-02-17T19:59:33.822270",
+  "generated_at": "2026-02-17T20:37:54.803971",
   "brief": [
     {
-      "conclusion": "Anthropic试图隐藏Claude的AI行为，引发开发者不满。",
-      "why_hot": "此事件反映了透明度对于AI模型信任的重要性。",
+      "conclusion": "Anthropic尝试隐藏Claude的AI行为，开发者对此表示不满。",
+      "why_hot": "反映了开发社区对AI透明度的高度关注。",
       "evidence_urls": [
         "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Claude-engram项目提供了一种脑启发式的持久记忆解决方案。",
-      "why_hot": "它代表了向更自然的人工智能交互迈进的重要一步。",
+      "conclusion": "Claude-engram项目在GitHub上发布，为Claude提供大脑启发式的持久记忆功能。",
+      "why_hot": "探索了增强AI长期记忆的新方法，可能改变未来AI应用。",
       "evidence_urls": [
         "https://github.com/mlapeter/claude-engram"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Agent Forge为Claude Code增加了持久内存和桌面自动化功能。",
-      "why_hot": "这标志着向更加集成化、用户友好的AI辅助开发工具方向发展。",
+      "conclusion": "Alibaba发布了zvec，一个轻量级且极速的进程内向量数据库。",
+      "why_hot": "加速了AI应用程序中数据检索的速度与效率。",
       "evidence_urls": [
-        "https://github.com/WeberG619/agent-forge"
+        "https://github.com/alibaba/zvec"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "荷兰政府发布了针对Claude插件集。",
-      "why_hot": "表明政府机构正积极采用最新AI技术来提高效率。",
+      "conclusion": "SynkraAI推出了aios-core，一个面向全栈开发的人工智能编排系统核心框架。",
+      "why_hot": "简化了从设计到部署的整个软件开发生命周期。",
       "evidence_urls": [
-        "https://github.com/MinBZK/overheid-claude-plugins"
+        "https://github.com/SynkraAI/aios-core"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Comfy Pilot是一个MCP服务器，允许Claude Code编辑ComfyUI工作流。",
-      "why_hot": "通过整合不同平台，该项目展示了AI在创造性工作中的应用潜力。",
-      "evidence_urls": [
-        "https://github.com/ConstantineB6/comfy-pilot"
-      ],
-      "category": "ai"
-    },
-    {
-      "conclusion": "p-e-w/heretic项目自动移除语言模型中的审查内容，在GitHub上迅速走红。",
-      "why_hot": "体现了社区对言论自由及信息开放性的追求。",
+      "conclusion": "p-e-w/heretic项目登上GitHub趋势榜，该项目旨在自动去除语言模型中的审查。",
+      "why_hot": "促进了更加开放和自由的信息交流环境。",
       "evidence_urls": [
         "https://github.com/p-e-w/heretic"
       ],
       "category": "github"
     },
     {
-      "conclusion": "alibaba/zvec作为轻量级进程内向量数据库发布，获得大量关注。",
-      "why_hot": "高效的数据处理能力是现代软件系统的关键需求之一。",
+      "conclusion": "obra/superpowers项目连续多天保持高增长态势，提供了一种新的软件开发方法论。",
+      "why_hot": "展示了如何通过代理技能框架提高开发效率。",
       "evidence_urls": [
-        "https://github.com/alibaba/zvec"
+        "https://github.com/obra/superpowers"
       ],
       "category": "github"
     },
     {
-      "conclusion": "Galxe平台上ECOR活动吸引了众多参与者，只需简单操作即可赢得奖励。",
-      "why_hot": "这种低门槛高回报的方式有助于吸引更多用户参与Web3生态系统。",
-      "evidence_urls": [
-        "https://galxe.com/quest/ECOR/clicked-a-couple-of-times-grabbed-1000"
-      ],
+      "conclusion": "Galxe平台上的ECOR活动允许用户轻松赚取高达$1,000奖励。",
+      "why_hot": "为Web3新手提供了低门槛参与区块链经济的机会。",
+      "evidence_urls": [],
       "category": "web3"
     }
   ],
@@ -289,8 +279,8 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 7019,
-      "forks": 701,
+      "stars": 7045,
+      "forks": 705,
       "stars_24h": 666,
       "created_at": "2025-09-21T05:46:16+00:00",
       "language": "Python",
@@ -307,14 +297,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 36,
-      "open_issues": 61
+      "open_issues": 63
     },
     {
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9274,
-      "forks": 610,
+      "stars": 9280,
+      "forks": 611,
       "stars_24h": 283,
       "created_at": "2022-03-09T09:18:22+00:00",
       "language": "TypeScript",
@@ -337,14 +327,14 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 42,
-      "open_issues": 324
+      "watchers": 41,
+      "open_issues": 327
     },
     {
       "name": "obra/superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 53448,
+      "stars": 53474,
       "forks": 4055,
       "stars_24h": 725,
       "created_at": "2025-10-09T19:45:18+00:00",
@@ -359,14 +349,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 301,
-      "open_issues": 149
+      "open_issues": 150
     },
     {
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3808,
-      "forks": 317,
+      "stars": 3817,
+      "forks": 318,
       "stars_24h": 469,
       "created_at": "2025-12-12T12:36:45+00:00",
       "language": "Go",
@@ -385,14 +375,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 22,
-      "open_issues": 113
+      "open_issues": 115
     },
     {
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4391,
-      "forks": 235,
+      "stars": 4415,
+      "forks": 236,
       "stars_24h": 1473,
       "created_at": "2025-12-05T07:45:38+00:00",
       "language": "C++",
@@ -417,8 +407,8 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 204727,
-      "forks": 37205,
+      "stars": 204808,
+      "forks": 37235,
       "stars_24h": 4201,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -438,15 +428,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1113,
-      "open_issues": 7117
+      "watchers": 1114,
+      "open_issues": 7134
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1141,
-      "forks": 390,
+      "stars": 1152,
+      "forks": 393,
       "stars_24h": 194,
       "created_at": "2025-12-09T15:19:10+00:00",
       "language": "JavaScript",
@@ -473,15 +463,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 44,
+      "watchers": 45,
       "open_issues": 25
     },
     {
       "name": "ashishps1/awesome-system-design-resources",
       "owner": "ashishps1",
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "stars": 32752,
-      "forks": 7296,
+      "stars": 32761,
+      "forks": 7299,
       "stars_24h": 457,
       "created_at": "2023-10-25T01:50:42+00:00",
       "language": "Java",
@@ -505,13 +495,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 402,
-      "open_issues": 6
+      "open_issues": 8
     },
     {
       "name": "steipete/summarize",
       "owner": "steipete",
       "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-      "stars": 3373,
+      "stars": 3377,
       "forks": 215,
       "stars_24h": 117,
       "created_at": "2025-12-17T12:19:51+00:00",
@@ -536,8 +526,8 @@
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 16942,
-      "forks": 4414,
+      "stars": 16958,
+      "forks": 4415,
       "stars_24h": 565,
       "created_at": "2019-04-02T21:41:52+00:00",
       "language": "Python",
@@ -567,13 +557,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 193,
-      "open_issues": 332
+      "open_issues": 333
     },
     {
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14405,
+      "stars": 14419,
       "forks": 2426,
       "stars_24h": 102,
       "created_at": "2024-08-29T19:52:32+00:00",
@@ -593,8 +583,8 @@
       "name": "davila7/claude-code-templates",
       "owner": "davila7",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 20671,
-      "forks": 1930,
+      "stars": 20684,
+      "forks": 1932,
       "stars_24h": 110,
       "created_at": "2025-07-04T01:26:26+00:00",
       "language": "Python",
@@ -618,8 +608,8 @@
       "name": "OpenCTI-Platform/opencti",
       "owner": "OpenCTI-Platform",
       "description": "Open Cyber Threat Intelligence Platform",
-      "stars": 8349,
-      "forks": 1224,
+      "stars": 8356,
+      "forks": 1226,
       "stars_24h": 13,
       "created_at": "2018-12-17T22:57:34+00:00",
       "language": "TypeScript",
@@ -640,14 +630,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 147,
-      "open_issues": 1750
+      "open_issues": 1751
     },
     {
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6954,
-      "forks": 600,
+      "stars": 6955,
+      "forks": 602,
       "stars_24h": 300,
       "created_at": "2025-06-07T04:32:30+00:00",
       "language": "Python",
@@ -666,7 +656,7 @@
       "name": "GH05TCREW/pentestagent",
       "owner": "GH05TCREW",
       "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
-      "stars": 1583,
+      "stars": 1584,
       "forks": 353,
       "stars_24h": 25,
       "created_at": "2025-05-15T22:28:38+00:00",
