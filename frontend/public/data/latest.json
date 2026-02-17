@@ -1,59 +1,45 @@
 {
   "date": "2026-02-16",
-  "generated_at": "2026-02-17T08:41:18.198606",
+  "generated_at": "2026-02-17T09:31:36.345294",
   "brief": [
     {
-      "conclusion": "Anthropic试图隐藏Claude AI的操作，引发开发者不满。",
-      "why_hot": "此事件反映了AI模型透明度与用户信任之间的紧张关系。",
+      "conclusion": "Anthropic试图隐藏Claude AI的行为，开发者对此表示不满。",
+      "why_hot": "反映了AI模型透明度与开发者信任之间的矛盾。",
       "evidence_urls": [
         "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Claude-engram项目在GitHub上发布，提供大脑启发的持久记忆功能。",
-      "why_hot": "该项目展示了将认知科学原理应用于AI模型以增强其能力的新方向。",
+      "conclusion": "Claude-engram项目在GitHub上发布，为Claude添加了受大脑启发的持久记忆功能。",
+      "why_hot": "展示了如何通过创新方式扩展现有AI模型的功能。",
       "evidence_urls": [
         "https://github.com/mlapeter/claude-engram"
       ],
-      "category": "github"
-    },
-    {
-      "conclusion": "荷兰政府发布了针对Claude的官方插件集。",
-      "why_hot": "这表明了政府机构正积极采用特定AI工具来提高公共服务效率。",
-      "evidence_urls": [
-        "https://github.com/MinBZK/overheid-claude-plugins"
-      ],
       "category": "ai"
     },
     {
-      "conclusion": "Comfy Pilot允许通过Claude Code编辑ComfyUI工作流程。",
-      "why_hot": "该工具代表了AI辅助界面设计领域的一个重要进展。",
-      "evidence_urls": [
-        "https://github.com/ConstantineB6/comfy-pilot"
-      ],
-      "category": "ai"
-    },
-    {
-      "conclusion": "alibaba/zvec作为一个轻量级、快速的向量数据库，在GitHub上迅速获得关注。",
-      "why_hot": "高效的数据检索技术对于大规模机器学习应用至关重要。",
+      "conclusion": "阿里巴巴发布了zvec，一个轻量级、超快的进程内向量数据库。",
+      "why_hot": "表明了大厂正积极开发支持AI应用的基础技术。",
       "evidence_urls": [
         "https://github.com/alibaba/zvec"
       ],
       "category": "github"
     },
     {
-      "conclusion": "openclaw/openclaw成为GitHub上的热门项目，提供跨平台的个人AI助手。",
-      "why_hot": "个性化且易于部署的AI解决方案越来越受到欢迎。",
+      "conclusion": "Nautilus Trader作为一个高性能算法交易平台，在GitHub上获得了大量关注。",
+      "why_hot": "体现了利用AI提升金融交易效率的趋势。",
       "evidence_urls": [
-        "https://github.com/openclaw/openclaw"
+        "https://github.com/nautechsystems/nautilus_trader"
       ],
       "category": "github"
     },
     {
-      "conclusion": "SushiSwap与Solana合作推出新活动，为参与者提供奖励。",
-      "why_hot": "此类合作有助于扩大DeFi项目的用户基础并促进生态系统增长。",
-      "evidence_urls": [],
+      "conclusion": "SushiSwap与Solana合作推出新活动，参与者有机会赢取奖励。",
+      "why_hot": "展示了Web3领域中DeFi平台之间合作带来的新机遇。",
+      "evidence_urls": [
+        "https://galxe.com/sushiswap/campaign/GCJYKQ"
+      ],
       "category": "web3"
     }
   ],
@@ -67,7 +53,7 @@
       "created_at": "2026-02-16T11:06:28+00:00",
       "likes": 374,
       "reposts": 0,
-      "replies": 230,
+      "replies": 232,
       "bookmarks": 0,
       "urls": [
         "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
@@ -77,7 +63,7 @@
       ],
       "is_ad_suspect": false,
       "cluster_id": "cluster_015",
-      "heat_score": 1.28
+      "heat_score": 1.29
     },
     {
       "id": "hn_47037566",
@@ -102,6 +88,28 @@
       "heat_score": 0.37
     },
     {
+      "id": "hn_47044282",
+      "author_name": "WeberG619",
+      "author_handle": "@WeberG619",
+      "text": "Show HN: Agent Forge – Persistent memory and desktop automation for Claude Code.",
+      "lang": "en",
+      "created_at": "2026-02-17T06:16:11+00:00",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "urls": [
+        "https://github.com/WeberG619/agent-forge"
+      ],
+      "tags": [
+        "repo",
+        "模型更新"
+      ],
+      "is_ad_suspect": false,
+      "cluster_id": "cluster_020",
+      "heat_score": 0.37
+    },
+    {
       "id": "hn_47040746",
       "author_name": "GeertJohan",
       "author_handle": "@GeertJohan",
@@ -120,7 +128,7 @@
         "模型更新"
       ],
       "is_ad_suspect": false,
-      "cluster_id": "cluster_023",
+      "cluster_id": "cluster_024",
       "heat_score": 0.37
     },
     {
@@ -174,7 +182,7 @@
       "text": "Show HN: Maths, CS and AI Compendium.",
       "lang": "en",
       "created_at": "2026-02-16T15:15:50+00:00",
-      "likes": 73,
+      "likes": 74,
       "reposts": 0,
       "replies": 17,
       "bookmarks": 0,
@@ -250,27 +258,6 @@
       "is_ad_suspect": false,
       "cluster_id": "cluster_001",
       "heat_score": 0.28
-    },
-    {
-      "id": "hn_47036723",
-      "author_name": "WayneCider",
-      "author_handle": "@WayneCider",
-      "text": "Show HN: YOPJ – Local AI coding agent with 8-layer security sandbox (no cloud).",
-      "lang": "en",
-      "created_at": "2026-02-16T16:05:48+00:00",
-      "likes": 1,
-      "reposts": 0,
-      "replies": 0,
-      "bookmarks": 0,
-      "urls": [
-        "https://github.com/WayneCider/YourOwnPersonalJean-Luc"
-      ],
-      "tags": [
-        "repo"
-      ],
-      "is_ad_suspect": false,
-      "cluster_id": "cluster_002",
-      "heat_score": 0.28
     }
   ],
   "github_trending": [
@@ -278,8 +265,8 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4018,
-      "forks": 216,
+      "stars": 4082,
+      "forks": 217,
       "stars_24h": 1094,
       "created_at": "2025-12-05T07:45:38+00:00",
       "language": "C++",
@@ -304,8 +291,8 @@
       "name": "nautechsystems/nautilus_trader",
       "owner": "nautechsystems",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "stars": 19893,
-      "forks": 2340,
+      "stars": 19902,
+      "forks": 2341,
       "stars_24h": 546,
       "created_at": "2018-06-25T06:26:16+00:00",
       "language": "Rust",
@@ -338,8 +325,8 @@
       "name": "rowboatlabs/rowboat",
       "owner": "rowboatlabs",
       "description": "Open-source AI coworker, with memory",
-      "stars": 7454,
-      "forks": 627,
+      "stars": 7469,
+      "forks": 629,
       "stars_24h": 700,
       "created_at": "2025-01-13T09:30:40+00:00",
       "language": "TypeScript",
@@ -370,13 +357,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 50,
-      "open_issues": 45
+      "open_issues": 46
     },
     {
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3646,
+      "stars": 3665,
       "forks": 312,
       "stars_24h": 637,
       "created_at": "2025-12-12T12:36:45+00:00",
@@ -402,8 +389,8 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 202781,
-      "forks": 36584,
+      "stars": 202939,
+      "forks": 36624,
       "stars_24h": 3873,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -424,13 +411,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 1101,
-      "open_issues": 6882
+      "open_issues": 6886
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1043,
+      "stars": 1045,
       "forks": 366,
       "stars_24h": 205,
       "created_at": "2025-12-09T15:19:10+00:00",
@@ -465,7 +452,7 @@
       "name": "letta-ai/letta-code",
       "owner": "letta-ai",
       "description": "The memory-first coding agent",
-      "stars": 1530,
+      "stars": 1532,
       "forks": 157,
       "stars_24h": 22,
       "created_at": "2025-10-25T04:17:51+00:00",
@@ -485,8 +472,8 @@
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6897,
-      "forks": 591,
+      "stars": 6908,
+      "forks": 593,
       "stars_24h": 344,
       "created_at": "2025-06-07T04:32:30+00:00",
       "language": "Python",
@@ -505,8 +492,8 @@
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9142,
-      "forks": 605,
+      "stars": 9148,
+      "forks": 606,
       "stars_24h": 182,
       "created_at": "2022-03-09T09:18:22+00:00",
       "language": "TypeScript",
@@ -530,14 +517,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 42,
-      "open_issues": 322
+      "open_issues": 324
     },
     {
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 16708,
-      "forks": 4401,
+      "stars": 16721,
+      "forks": 4404,
       "stars_24h": 339,
       "created_at": "2019-04-02T21:41:52+00:00",
       "language": "Python",
@@ -567,14 +554,14 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 192,
-      "open_issues": 330
+      "open_issues": 332
     },
     {
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14255,
-      "forks": 2419,
+      "stars": 14259,
+      "forks": 2421,
       "stars_24h": 165,
       "created_at": "2024-08-29T19:52:32+00:00",
       "language": "Python",
@@ -593,8 +580,8 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 6605,
-      "forks": 662,
+      "stars": 6620,
+      "forks": 663,
       "stars_24h": 891,
       "created_at": "2025-09-21T05:46:16+00:00",
       "language": "Python",
@@ -617,7 +604,7 @@
       "name": "hesreallyhim/awesome-claude-code",
       "owner": "hesreallyhim",
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
-      "stars": 23972,
+      "stars": 23975,
       "forks": 1412,
       "stars_24h": 133,
       "created_at": "2025-04-19T20:55:59+00:00",
@@ -657,7 +644,7 @@
       "name": "karpathy/nanochat",
       "owner": "karpathy",
       "description": "The best ChatGPT that $100 can buy.",
-      "stars": 43511,
+      "stars": 43514,
       "forks": 5670,
       "stars_24h": 100,
       "created_at": "2025-10-13T13:46:35+00:00",
@@ -677,7 +664,7 @@
       "name": "home-assistant/core",
       "owner": "home-assistant",
       "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-      "stars": 84857,
+      "stars": 84858,
       "forks": 36765,
       "stars_24h": 27,
       "created_at": "2013-09-17T07:29:48+00:00",
@@ -700,7 +687,7 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 1330,
-      "open_issues": 3239
+      "open_issues": 3241
     }
   ],
   "github_new": [],
@@ -1150,6 +1137,28 @@
     },
     {
       "id": "cluster_020",
+      "title": "Show HN: Agent Forge – Persistent memory and desktop automat...",
+      "theme": "Coding Agents",
+      "heat_score": 0.0,
+      "keywords": [
+        "show",
+        "agent",
+        "forge",
+        "persistent",
+        "memory",
+        "desktop",
+        "automation",
+        "claude"
+      ],
+      "tweet_ids": [
+        "hn_47044282"
+      ],
+      "repo_names": [
+        "WeberG619/agent-forge"
+      ]
+    },
+    {
+      "id": "cluster_021",
       "title": "Claude Cowork.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1163,7 +1172,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_021",
+      "id": "cluster_022",
       "title": "User \"Claude\" committing vulnerabilities at a rapid rate.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1181,7 +1190,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_022",
+      "id": "cluster_023",
       "title": "Flare: Visual CSS editor that generates prompts for Claude C...",
       "theme": "IDE / Copilot Tools",
       "heat_score": 0.0,
@@ -1201,7 +1210,7 @@
       "repo_names": []
     },
     {
-      "id": "cluster_023",
+      "id": "cluster_024",
       "title": "Dutch Government Claude Plugins.",
       "theme": "Demos / New Apps",
       "heat_score": 0.0,
@@ -1217,25 +1226,6 @@
       "repo_names": [
         "MinBZK/overheid-claude-plugins"
       ]
-    },
-    {
-      "id": "cluster_024",
-      "title": "From Pixels to Raytracing – A 3D Rendering Engine Built with...",
-      "theme": "Demos / New Apps",
-      "heat_score": 0.0,
-      "keywords": [
-        "pixels",
-        "raytracing",
-        "rendering",
-        "engine",
-        "built",
-        "claude",
-        "code"
-      ],
-      "tweet_ids": [
-        "hn_47034042"
-      ],
-      "repo_names": []
     },
     {
       "id": "cluster_025",
