@@ -1,60 +1,52 @@
 {
   "date": "2026-02-16",
-  "generated_at": "2026-02-18T04:28:03.521147",
+  "generated_at": "2026-02-18T05:43:59.987124",
   "brief": [
     {
-      "conclusion": "Anthropic试图隐藏Claude的AI行为，开发者对此表示不满。",
-      "why_hot": "反映了开发者对透明度的需求及对AI工具的信任问题。",
+      "conclusion": "Anthropic试图隐藏Claude AI的操作，引发开发者不满。",
+      "why_hot": "这反映了AI透明度和用户信任问题的重要性。",
       "evidence_urls": [
         "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "Claude-enram项目为Claude.ai引入了大脑启发式的持久内存功能。",
-      "why_hot": "展示了通过模拟生物神经系统来增强AI模型能力的新尝试。",
+      "conclusion": "Claude-engram项目在GitHub上发布，旨在为Claude AI添加持久记忆功能。",
+      "why_hot": "该项目展示了如何通过生物启发式方法增强现有AI模型的能力。",
       "evidence_urls": [
         "https://github.com/mlapeter/claude-engram"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "阿里巴巴发布了一款名为zvec的轻量级、超快的进程内向量数据库。",
-      "why_hot": "表明了在提高数据处理速度和效率方面的重要进展。",
+      "conclusion": "Alibaba推出zvec，一个轻量级且超快的进程内向量数据库。",
+      "why_hot": "随着向量搜索技术日益受到关注，这样的工具对于加速开发至关重要。",
       "evidence_urls": [
         "https://github.com/alibaba/zvec"
       ],
       "category": "github"
     },
     {
-      "conclusion": "OpenClaw项目成为个人AI助手解决方案中的新星。",
-      "why_hot": "代表了跨平台个性化AI助手发展的新趋势。",
+      "conclusion": "OpenClaw开源了一个跨平台的个人AI助手项目。",
+      "why_hot": "此项目标志着个人化AI助手领域的一个重要里程碑。",
       "evidence_urls": [
         "https://github.com/openclaw/openclaw"
       ],
       "category": "github"
     },
     {
-      "conclusion": "SynkraAI推出用于全栈开发的AI编排系统核心框架。",
-      "why_hot": "强调了AI技术在软件开发自动化领域的潜力。",
+      "conclusion": "SynkraAI发布了aios-core框架，支持全栈开发的AI编排系统。",
+      "why_hot": "该框架可能成为未来自动化软件构建流程的关键组成部分。",
       "evidence_urls": [
         "https://github.com/SynkraAI/aios-core"
       ],
       "category": "github"
     },
     {
-      "conclusion": "ECOR活动允许参与者通过简单的互动获得高达1,000美元。",
-      "why_hot": "体现了Web3领域内社区参与奖励机制的有效性。",
+      "conclusion": "Galxe上的ECOR活动允许参与者轻松赚取高达$1,000。",
+      "why_hot": "这类活动为Web3社区成员提供了直接参与并获得奖励的机会。",
       "evidence_urls": [
-        "https://galxe.com/ecor/campaign/GCQZsN4Yr"
-      ],
-      "category": "web3"
-    },
-    {
-      "conclusion": "SodaBot发起农历马年社区赠品活动。",
-      "why_hot": "展示了Web3项目如何利用节日氛围加强与用户间的联系。",
-      "evidence_urls": [
-        "https://galxe.com/sodabot/campaign/GCQZsN4Yr"
+        "https://galxe.com/ecor/campaign/GCtqJZj7N"
       ],
       "category": "web3"
     }
@@ -154,7 +146,7 @@
       "text": "Show HN: Maths, CS and AI Compendium.",
       "lang": "en",
       "created_at": "2026-02-16T15:15:50+00:00",
-      "likes": 85,
+      "likes": 86,
       "reposts": 0,
       "replies": 21,
       "bookmarks": 0,
@@ -281,8 +273,8 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 7344,
-      "forks": 749,
+      "stars": 7385,
+      "forks": 759,
       "stars_24h": 656,
       "created_at": "2025-09-21T05:46:16+00:00",
       "language": "Python",
@@ -305,7 +297,7 @@
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9361,
+      "stars": 9370,
       "forks": 612,
       "stars_24h": 282,
       "created_at": "2022-03-09T09:18:22+00:00",
@@ -336,8 +328,8 @@
       "name": "obra/superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 53706,
-      "forks": 4076,
+      "stars": 53751,
+      "forks": 4078,
       "stars_24h": 569,
       "created_at": "2025-10-09T19:45:18+00:00",
       "language": "Shell",
@@ -350,15 +342,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 303,
-      "open_issues": 151
+      "watchers": 304,
+      "open_issues": 152
     },
     {
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3917,
-      "forks": 321,
+      "stars": 3939,
+      "forks": 322,
       "stars_24h": 469,
       "created_at": "2025-12-12T12:36:45+00:00",
       "language": "Go",
@@ -383,8 +375,8 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4549,
-      "forks": 244,
+      "stars": 4568,
+      "forks": 247,
       "stars_24h": 1473,
       "created_at": "2025-12-05T07:45:38+00:00",
       "language": "C++",
@@ -409,8 +401,8 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 205898,
-      "forks": 37583,
+      "stars": 206067,
+      "forks": 37636,
       "stars_24h": 4201,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -430,15 +422,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1119,
-      "open_issues": 7271
+      "watchers": 1120,
+      "open_issues": 7301
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1233,
-      "forks": 414,
+      "stars": 1238,
+      "forks": 415,
       "stars_24h": 194,
       "created_at": "2025-12-09T15:19:10+00:00",
       "language": "JavaScript",
@@ -465,15 +457,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 50,
+      "watchers": 51,
       "open_issues": 26
     },
     {
       "name": "ashishps1/awesome-system-design-resources",
       "owner": "ashishps1",
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "stars": 32877,
-      "forks": 7303,
+      "stars": 32891,
+      "forks": 7304,
       "stars_24h": 510,
       "created_at": "2023-10-25T01:50:42+00:00",
       "language": "Java",
@@ -503,7 +495,7 @@
       "name": "steipete/summarize",
       "owner": "steipete",
       "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-      "stars": 3497,
+      "stars": 3510,
       "forks": 222,
       "stars_24h": 119,
       "created_at": "2025-12-17T12:19:51+00:00",
@@ -522,13 +514,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 13,
-      "open_issues": 26
+      "open_issues": 27
     },
     {
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 17104,
+      "stars": 17124,
       "forks": 4421,
       "stars_24h": 568,
       "created_at": "2019-04-02T21:41:52+00:00",
@@ -565,7 +557,7 @@
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14532,
+      "stars": 14545,
       "forks": 2429,
       "stars_24h": 87,
       "created_at": "2024-08-29T19:52:32+00:00",
@@ -585,8 +577,8 @@
       "name": "davila7/claude-code-templates",
       "owner": "davila7",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 20752,
-      "forks": 1939,
+      "stars": 20774,
+      "forks": 1940,
       "stars_24h": 111,
       "created_at": "2025-07-04T01:26:26+00:00",
       "language": "Python",
@@ -610,7 +602,7 @@
       "name": "OpenCTI-Platform/opencti",
       "owner": "OpenCTI-Platform",
       "description": "Open Cyber Threat Intelligence Platform",
-      "stars": 8438,
+      "stars": 8454,
       "forks": 1228,
       "stars_24h": 16,
       "created_at": "2018-12-17T22:57:34+00:00",
@@ -638,7 +630,7 @@
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6961,
+      "stars": 6963,
       "forks": 603,
       "stars_24h": 258,
       "created_at": "2025-06-07T04:32:30+00:00",
@@ -658,7 +650,7 @@
       "name": "GH05TCREW/pentestagent",
       "owner": "GH05TCREW",
       "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
-      "stars": 1597,
+      "stars": 1598,
       "forks": 353,
       "stars_24h": 18,
       "created_at": "2025-05-15T22:28:38+00:00",
