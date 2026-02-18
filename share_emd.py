@@ -6,6 +6,9 @@ import requests
 from datetime import datetime
 
 import openpyxl
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 # =============================
@@ -19,7 +22,7 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "").strip()
 
 QWEN_API_KEY = os.getenv("QWEN_API_KEY", os.getenv("DASHSCOPE_API_KEY", "")).strip()
 QWEN_BASE_URL = os.getenv("QWEN_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1").rstrip("/")
-QWEN_MODEL = os.getenv("QWEN_MODEL", "qwen-plus")
+QWEN_MODEL = os.getenv("QWEN_MODEL", "qwen3-max-2026-01-23")
 
 
 # =============================
@@ -61,7 +64,6 @@ def pick_many(rows: list[dict], col: str, k: int) -> list[str]:
 
 def build_raw_text(sheets: dict) -> str:
     modules = sheets.get("modules", [])
-    projects = sheets.get("projects", [])
 
     if not modules:
         raise ValueError("modules sheet 为空")
@@ -89,16 +91,24 @@ def build_raw_text(sheets: dict) -> str:
                 deliver2 = d
                 break
 
-    proj_col = list(projects[0].keys())[0] if projects else "col0"
-    proj_list = pick_many(projects, proj_col, 6) if projects else []
+    # 关键词服务范围（替代具体项目列举）
+    keyword_services = [
+        "单片机设计代做", "stm32单片机设计", "stm32单片机代做",
+        "esp32单片机", "51单片机设计", "单片机程序开发",
+        "单片机定制开发", "单片机实物设计", "arduino开发",
+        "电路设计", "pcb设计", "电路仿真设计", "嘉立创打板",
+        "单片机项目开发", "单片机定制", "单片机程序设计",
+        "keil程序开发", "zigbee开发", "lora开发",
+        "硬件实物", "软件开发定制", "app开发", "云平台对接",
+    ]
+    kw_sample = random.sample(keyword_services, min(8, len(keyword_services)))
 
     raw = (
         f"{hook}\n\n"
         f"{ability}\n"
         f"{service}\n\n"
     )
-    if proj_list:
-        raw += f"可做方向（随机举例）：{' / '.join(proj_list)}\n\n"
+    raw += f"可接范围：{' / '.join(kw_sample)}\n\n"
     raw += (
         f"交付：\n"
         f"- {deliver1}\n"
@@ -124,16 +134,23 @@ def qwen_polish(text: str) -> str:
     }
 
     user_prompt = (
-        '你要做的是"轻度润色"，不是重写。\n\n'
+        '你是闲鱼SEO文案助手。目标：让买家搜索关键词时能搜到这条文案。\n\n'
+        '核心搜索关键词（必须尽量多地自然嵌入，每条文案至少命中5个不同的关键词）：\n'
+        '单片机设计代做、单片机代做、单片机设计、单片机定制、单片机项目代做、\n'
+        'stm32单片机设计、stm32单片机代做、单片机程序开发、单片机程序设计、\n'
+        '单片机定制开发、单片机实物设计、esp32单片机、51单片机、arduino开发、\n'
+        '电路设计、pcb设计、电路仿真设计、嘉立创打板、单片机项目开发\n\n'
         '规则（必须遵守）：\n'
-        '1) 只允许调整语序、合并/拆分句子、删掉重复表达；不要新增能力、不要新增项目、不要编造数据或案例。\n'
-        '2) 保留原文信息点：能力范围、可做方向、交付、背书、引导私信。\n'
-        '3) 输出像真实工程师发闲鱼，不要像广告；不要用夸张词：如"轻松搞定/从0到1/完美/秒出/全网最低"等。\n'
-        '4) 不要写强营销口号（如"限时/速来/赶紧下单"）。可以保留一句自然的私信引导。\n'
-        '5) 不要使用小标题（如【交付内容】），用自然段即可。\n'
-        '6) 字数控制在 220~320 字。\n'
-        '7) 重点 我们行业的主要获客关键词就是单片机设计 物联网开发 stm32 开发 esp32单片机开发 '
-        '禁止出现关于课程设计 毕业设计 大学生毕业设计 大学生课程设计 等等这种学术代做的文字\n\n'
+        '1) 关键词优先：文案围绕上面的搜索关键词组织，用关键词本身描述服务能力，'
+        '禁止出现具体项目名称（禁止写"xx系统""xx机器""智能xx"等具体项目描述，会稀释关键词权重）。\n'
+        '2) 不要自称"资深工程师""专业团队""多年经验"等包装人设，用朴实口吻，像普通卖家发帖。\n'
+        '3) 服务范围用关键词表达，例如：接单片机设计代做、stm32单片机程序开发、'
+        'esp32单片机代做、51单片机设计、电路设计、pcb设计、嘉立创打板、硬件实物等。\n'
+        '4) 禁止出现：课程设计、毕业设计、大学生、学术代做等字眼。\n'
+        '5) 禁止夸张词（轻松搞定/从0到1/完美/秒出/全网最低）和强营销口号（限时/速来/赶紧下单）。\n'
+        '6) 保留一句自然的私信引导（如"有需要可以私信聊"）。\n'
+        '7) 不要使用小标题（如【交付内容】），用自然段。\n'
+        '8) 字数控制在 220~320 字。\n\n'
         '把下面文本润色后输出（只输出润色后的最终文案）：\n\n'
         f'<<<\n{text}\n>>>'
     )
@@ -141,7 +158,7 @@ def qwen_polish(text: str) -> str:
     payload = {
         "model": QWEN_MODEL,
         "messages": [
-            {"role": "system", "content": "你是资深嵌入式工程师文案助手，风格自然、克制、可信。"},
+            {"role": "system", "content": "你是闲鱼SEO获客文案助手，擅长把搜索关键词自然嵌入文案，风格朴实像真人发帖。"},
             {"role": "user", "content": user_prompt}
         ],
         "temperature": 0.7
