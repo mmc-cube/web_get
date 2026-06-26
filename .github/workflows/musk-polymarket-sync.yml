@@ -1,0 +1,52 @@
+name: Sync Musk Polymarket data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: musk-polymarket-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+      - name: Fetch API snapshots
+        run: |
+          set -euo pipefail
+          mkdir -p musk-polymarket/data
+          python3 - <<'PY'
+          import json
+          import urllib.request
+          from pathlib import Path
+
+          base = 'http://47.252.19.171:8088'
+          out = Path('musk-polymarket/data')
+          endpoints = {
+              'status.json': '/api/x/musk/status',
+              'markets.json': '/api/x/musk/markets',
+          }
+          for name, path in endpoints.items():
+              with urllib.request.urlopen(base + path, timeout=60) as response:
+                  payload = json.load(response)
+              (out / name).write_text(json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          PY
+      - name: Commit updates
+        run: |
+          if git diff --quiet -- musk-polymarket/data; then
+            echo 'No data changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add musk-polymarket/data/status.json musk-polymarket/data/markets.json
+          git commit -m 'Refresh Musk Polymarket data'
+          git push
