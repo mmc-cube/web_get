@@ -3,8 +3,8 @@
   "data": {
     "handle": "elonmusk",
     "source": "xtracker",
-    "latest_xtracker_sync": "2026-07-26T10:55:16.017Z",
-    "generated_at_utc": "2026-07-26T10:57:07Z",
+    "latest_xtracker_sync": "2026-07-26T12:00:17.160Z",
+    "generated_at_utc": "2026-07-26T12:01:22Z",
     "markets": [
       {
         "tracking_id": "bac87dc2-3b0b-43b5-978f-a2b84eac1d23",
@@ -18,19 +18,19 @@
         "is_started": true,
         "is_ended": false,
         "current_count": 233,
-        "elapsed_hours": 114.952,
-        "remaining_hours": 53.048,
-        "progress_pct": 0.6842,
+        "elapsed_hours": 116.023,
+        "remaining_hours": 51.977,
+        "progress_pct": 0.6906,
         "projection_confidence": "normal",
         "count_last_1h": 0,
         "count_last_3h": 0,
         "count_last_6h": 0,
         "count_last_24h": 36,
-        "rate_elapsed_per_day": 48.65,
+        "rate_elapsed_per_day": 48.2,
         "rate_24h_per_day": 36.0,
-        "projected_by_elapsed_rate": 340.52,
-        "projected_by_24h_rate": 312.57,
-        "historical_90d_mean_same_duration": 197.38,
+        "projected_by_elapsed_rate": 337.38,
+        "projected_by_24h_rate": 310.97,
+        "historical_90d_mean_same_duration": 197.43,
         "historical_90d_median_same_duration": 197.0,
         "historical_90d_p25": 161.0,
         "historical_90d_p75": 226.0,
@@ -42,7 +42,7 @@
           {
             "days": 90,
             "n": 1993,
-            "mean": 197.38,
+            "mean": 197.43,
             "median": 197.0,
             "p25": 161.0,
             "p75": 226.0,
@@ -53,7 +53,7 @@
           {
             "days": 60,
             "n": 1273,
-            "mean": 201.1,
+            "mean": 201.18,
             "median": 203.0,
             "p25": 183.0,
             "p75": 223.0,
@@ -64,7 +64,7 @@
           {
             "days": 30,
             "n": 553,
-            "mean": 177.83,
+            "mean": 177.98,
             "median": 174.0,
             "p25": 158.0,
             "p75": 199.0,
@@ -75,10 +75,10 @@
           {
             "days": 15,
             "n": 193,
-            "mean": 190.39,
+            "mean": 191.01,
             "median": 188.0,
-            "p25": 156.0,
-            "p75": 205.0,
+            "p25": 157.0,
+            "p75": 206.0,
             "p90": 250.0,
             "min": 150,
             "max": 279
@@ -95,13 +95,13 @@
             "max": 275
           }
         ],
-        "historical_matches_count": 122,
+        "historical_matches_count": 135,
         "conditional_match_tolerance": 35,
-        "conditional_final_median": 265.5,
+        "conditional_final_median": 266.0,
         "conditional_final_p25": 264.0,
-        "conditional_final_p75": 291.75,
-        "conditional_final_p90": 297.9,
-        "latest_xtracker_sync": "2026-07-26T10:55:16.017Z"
+        "conditional_final_p75": 291.5,
+        "conditional_final_p90": 299.0,
+        "latest_xtracker_sync": "2026-07-26T12:00:17.160Z"
       },
       {
         "tracking_id": "1f939265-a6f2-4f47-98ee-5a13151a0fea",
@@ -115,19 +115,19 @@
         "is_started": true,
         "is_ended": false,
         "current_count": 102,
-        "elapsed_hours": 42.952,
-        "remaining_hours": 125.048,
-        "progress_pct": 0.2557,
+        "elapsed_hours": 44.023,
+        "remaining_hours": 123.977,
+        "progress_pct": 0.262,
         "projection_confidence": "normal",
         "count_last_1h": 0,
         "count_last_3h": 0,
         "count_last_6h": 0,
         "count_last_24h": 36,
-        "rate_elapsed_per_day": 56.99,
+        "rate_elapsed_per_day": 55.61,
         "rate_24h_per_day": 36.0,
-        "projected_by_elapsed_rate": 398.95,
-        "projected_by_24h_rate": 289.57,
-        "historical_90d_mean_same_duration": 197.38,
+        "projected_by_elapsed_rate": 389.25,
+        "projected_by_24h_rate": 287.97,
+        "historical_90d_mean_same_duration": 197.43,
         "historical_90d_median_same_duration": 197.0,
         "historical_90d_p25": 161.0,
         "historical_90d_p75": 226.0,
@@ -139,7 +139,7 @@
           {
             "days": 90,
             "n": 1993,
-            "mean": 197.38,
+            "mean": 197.43,
             "median": 197.0,
             "p25": 161.0,
             "p75": 226.0,
@@ -150,7 +150,7 @@
           {
             "days": 60,
             "n": 1273,
-            "mean": 201.1,
+            "mean": 201.18,
             "median": 203.0,
             "p25": 183.0,
             "p75": 223.0,
@@ -161,7 +161,7 @@
           {
             "days": 30,
             "n": 553,
-            "mean": 177.83,
+            "mean": 177.98,
             "median": 174.0,
             "p25": 158.0,
             "p75": 199.0,
@@ -172,10 +172,10 @@
           {
             "days": 15,
             "n": 193,
-            "mean": 190.39,
+            "mean": 191.01,
             "median": 188.0,
-            "p25": 156.0,
-            "p75": 205.0,
+            "p25": 157.0,
+            "p75": 206.0,
             "p90": 250.0,
             "min": 150,
             "max": 279
@@ -192,13 +192,13 @@
             "max": 275
           }
         ],
-        "historical_matches_count": 106,
+        "historical_matches_count": 121,
         "conditional_match_tolerance": 15,
-        "conditional_final_median": 256.5,
-        "conditional_final_p25": 216.75,
+        "conditional_final_median": 247.0,
+        "conditional_final_p25": 208.0,
         "conditional_final_p75": 264.0,
-        "conditional_final_p90": 271.0,
-        "latest_xtracker_sync": "2026-07-26T10:55:16.017Z"
+        "conditional_final_p90": 268.0,
+        "latest_xtracker_sync": "2026-07-26T12:00:17.160Z"
       },
       {
         "tracking_id": "5b5ee60e-a0cd-44ff-bb73-039bfe294b54",
@@ -212,19 +212,19 @@
         "is_started": true,
         "is_ended": false,
         "current_count": 36,
-        "elapsed_hours": 18.952,
-        "remaining_hours": 29.048,
-        "progress_pct": 0.3948,
+        "elapsed_hours": 20.023,
+        "remaining_hours": 27.977,
+        "progress_pct": 0.4171,
         "projection_confidence": "medium",
         "count_last_1h": 0,
         "count_last_3h": 0,
         "count_last_6h": 0,
         "count_last_24h": 36,
-        "rate_elapsed_per_day": 45.59,
+        "rate_elapsed_per_day": 43.15,
         "rate_24h_per_day": 36.0,
-        "projected_by_elapsed_rate": 91.18,
-        "projected_by_24h_rate": 79.57,
-        "historical_90d_mean_same_duration": 56.91,
+        "projected_by_elapsed_rate": 86.3,
+        "projected_by_24h_rate": 77.97,
+        "historical_90d_mean_same_duration": 56.93,
         "historical_90d_median_same_duration": 54.0,
         "historical_90d_p25": 40.0,
         "historical_90d_p75": 70.0,
@@ -236,7 +236,7 @@
           {
             "days": 90,
             "n": 2113,
-            "mean": 56.91,
+            "mean": 56.93,
             "median": 54.0,
             "p25": 40.0,
             "p75": 70.0,
@@ -247,55 +247,55 @@
           {
             "days": 60,
             "n": 1393,
-            "mean": 58.39,
+            "mean": 58.44,
             "median": 58.0,
             "p25": 42.0,
             "p75": 71.0,
-            "p90": 87.8,
+            "p90": 87.0,
             "min": 12,
             "max": 119
           },
           {
             "days": 30,
             "n": 673,
-            "mean": 55.23,
+            "mean": 55.31,
             "median": 47.0,
             "p25": 34.0,
             "p75": 76.0,
             "p90": 94.0,
             "min": 12,
-            "max": 115
+            "max": 114
           },
           {
             "days": 15,
             "n": 313,
-            "mean": 58.8,
-            "median": 51.0,
+            "mean": 59.05,
+            "median": 52.0,
             "p25": 35.0,
-            "p75": 81.0,
-            "p90": 105.4,
+            "p75": 82.0,
+            "p90": 106.0,
             "min": 24,
-            "max": 115
+            "max": 114
           },
           {
             "days": 7,
             "n": 121,
-            "mean": 84.09,
+            "mean": 84.63,
             "median": 85.0,
-            "p25": 73.0,
+            "p25": 75.0,
             "p75": 106.0,
             "p90": 112.0,
             "min": 35,
-            "max": 115
+            "max": 114
           }
         ],
-        "historical_matches_count": 271,
+        "historical_matches_count": 326,
         "conditional_match_tolerance": 5,
         "conditional_final_median": 70.0,
-        "conditional_final_p25": 64.0,
-        "conditional_final_p75": 80.0,
-        "conditional_final_p90": 102.0,
-        "latest_xtracker_sync": "2026-07-26T10:55:16.017Z"
+        "conditional_final_p25": 62.0,
+        "conditional_final_p75": 77.0,
+        "conditional_final_p90": 101.0,
+        "latest_xtracker_sync": "2026-07-26T12:00:17.160Z"
       },
       {
         "tracking_id": "e54e50f2-56c9-4af2-8ddc-702b04c1de00",
@@ -321,7 +321,7 @@
         "rate_24h_per_day": 36.0,
         "projected_by_elapsed_rate": null,
         "projected_by_24h_rate": null,
-        "historical_90d_mean_same_duration": 56.91,
+        "historical_90d_mean_same_duration": 56.93,
         "historical_90d_median_same_duration": 54.0,
         "historical_90d_p25": 40.0,
         "historical_90d_p75": 70.0,
@@ -333,7 +333,7 @@
           {
             "days": 90,
             "n": 2113,
-            "mean": 56.91,
+            "mean": 56.93,
             "median": 54.0,
             "p25": 40.0,
             "p75": 70.0,
@@ -344,46 +344,46 @@
           {
             "days": 60,
             "n": 1393,
-            "mean": 58.39,
+            "mean": 58.44,
             "median": 58.0,
             "p25": 42.0,
             "p75": 71.0,
-            "p90": 87.8,
+            "p90": 87.0,
             "min": 12,
             "max": 119
           },
           {
             "days": 30,
             "n": 673,
-            "mean": 55.23,
+            "mean": 55.31,
             "median": 47.0,
             "p25": 34.0,
             "p75": 76.0,
             "p90": 94.0,
             "min": 12,
-            "max": 115
+            "max": 114
           },
           {
             "days": 15,
             "n": 313,
-            "mean": 58.8,
-            "median": 51.0,
+            "mean": 59.05,
+            "median": 52.0,
             "p25": 35.0,
-            "p75": 81.0,
-            "p90": 105.4,
+            "p75": 82.0,
+            "p90": 106.0,
             "min": 24,
-            "max": 115
+            "max": 114
           },
           {
             "days": 7,
             "n": 121,
-            "mean": 84.09,
+            "mean": 84.63,
             "median": 85.0,
-            "p25": 73.0,
+            "p25": 75.0,
             "p75": 106.0,
             "p90": 112.0,
             "min": 35,
-            "max": 115
+            "max": 114
           }
         ],
         "historical_matches_count": 0,
@@ -392,7 +392,7 @@
         "conditional_final_p25": null,
         "conditional_final_p75": null,
         "conditional_final_p90": null,
-        "latest_xtracker_sync": "2026-07-26T10:55:16.017Z"
+        "latest_xtracker_sync": "2026-07-26T12:00:17.160Z"
       },
       {
         "tracking_id": "e70e48dc-d277-49f7-bbeb-67a53ee95650",
@@ -418,7 +418,7 @@
         "rate_24h_per_day": 36.0,
         "projected_by_elapsed_rate": null,
         "projected_by_24h_rate": null,
-        "historical_90d_mean_same_duration": 197.38,
+        "historical_90d_mean_same_duration": 197.43,
         "historical_90d_median_same_duration": 197.0,
         "historical_90d_p25": 161.0,
         "historical_90d_p75": 226.0,
@@ -430,7 +430,7 @@
           {
             "days": 90,
             "n": 1993,
-            "mean": 197.38,
+            "mean": 197.43,
             "median": 197.0,
             "p25": 161.0,
             "p75": 226.0,
@@ -441,7 +441,7 @@
           {
             "days": 60,
             "n": 1273,
-            "mean": 201.1,
+            "mean": 201.18,
             "median": 203.0,
             "p25": 183.0,
             "p75": 223.0,
@@ -452,7 +452,7 @@
           {
             "days": 30,
             "n": 553,
-            "mean": 177.83,
+            "mean": 177.98,
             "median": 174.0,
             "p25": 158.0,
             "p75": 199.0,
@@ -463,10 +463,10 @@
           {
             "days": 15,
             "n": 193,
-            "mean": 190.39,
+            "mean": 191.01,
             "median": 188.0,
-            "p25": 156.0,
-            "p75": 205.0,
+            "p25": 157.0,
+            "p75": 206.0,
             "p90": 250.0,
             "min": 150,
             "max": 279
@@ -489,7 +489,7 @@
         "conditional_final_p25": null,
         "conditional_final_p75": null,
         "conditional_final_p90": null,
-        "latest_xtracker_sync": "2026-07-26T10:55:16.017Z"
+        "latest_xtracker_sync": "2026-07-26T12:00:17.160Z"
       },
       {
         "tracking_id": "f9b0df7f-1245-4641-a99a-8c3c16f8d2c2",
@@ -515,7 +515,7 @@
         "rate_24h_per_day": 36.0,
         "projected_by_elapsed_rate": null,
         "projected_by_24h_rate": null,
-        "historical_90d_mean_same_duration": 904.94,
+        "historical_90d_mean_same_duration": 904.95,
         "historical_90d_median_same_duration": 902.0,
         "historical_90d_p25": 868.0,
         "historical_90d_p75": 942.0,
@@ -527,7 +527,7 @@
           {
             "days": 90,
             "n": 1417,
-            "mean": 904.94,
+            "mean": 904.95,
             "median": 902.0,
             "p25": 868.0,
             "p75": 942.0,
@@ -538,10 +538,10 @@
           {
             "days": 60,
             "n": 697,
-            "mean": 900.21,
+            "mean": 900.05,
             "median": 888.0,
             "p25": 870.0,
-            "p75": 933.0,
+            "p75": 926.0,
             "p90": 976.0,
             "min": 826,
             "max": 993
@@ -586,7 +586,7 @@
         "conditional_final_p25": null,
         "conditional_final_p75": null,
         "conditional_final_p90": null,
-        "latest_xtracker_sync": "2026-07-26T10:55:16.017Z"
+        "latest_xtracker_sync": "2026-07-26T12:00:17.160Z"
       }
     ]
   }
