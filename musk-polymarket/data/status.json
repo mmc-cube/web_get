@@ -6,6 +6,66 @@
     "latest_created_at_utc": "2026-08-15T17:04:10Z",
     "recent_runs": [
       {
+        "id": 19901,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-15T19:22:22Z",
+        "finished_at": "2026-08-15T19:22:22Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 69,
+        "details_json": "{\"new\": 0, \"updated\": 69, \"failed\": 0, \"posts\": 69}",
+        "error": null
+      },
+      {
+        "id": 19900,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-15T19:16:59Z",
+        "finished_at": "2026-08-15T19:16:59Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 69,
+        "details_json": "{\"new\": 0, \"updated\": 69, \"failed\": 0, \"posts\": 69}",
+        "error": null
+      },
+      {
+        "id": 19899,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-15T19:11:33Z",
+        "finished_at": "2026-08-15T19:11:34Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 71,
+        "details_json": "{\"new\": 0, \"updated\": 71, \"failed\": 0, \"posts\": 71}",
+        "error": null
+      },
+      {
+        "id": 19898,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-15T19:06:33Z",
+        "finished_at": "2026-08-15T19:06:33Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 71,
+        "details_json": "{\"new\": 0, \"updated\": 71, \"failed\": 0, \"posts\": 71}",
+        "error": null
+      },
+      {
+        "id": 19897,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-15T19:01:16Z",
+        "finished_at": "2026-08-15T19:01:17Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 71,
+        "details_json": "{\"new\": 0, \"updated\": 71, \"failed\": 0, \"posts\": 71}",
+        "error": null
+      },
+      {
         "id": 19896,
         "source": "xtracker",
         "mode": "import",
@@ -63,66 +123,6 @@
         "new_count": 0,
         "updated_count": 71,
         "details_json": "{\"new\": 0, \"updated\": 71, \"failed\": 0, \"posts\": 71}",
-        "error": null
-      },
-      {
-        "id": 19891,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-15T18:30:05Z",
-        "finished_at": "2026-08-15T18:30:05Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 71,
-        "details_json": "{\"new\": 0, \"updated\": 71, \"failed\": 0, \"posts\": 71}",
-        "error": null
-      },
-      {
-        "id": 19890,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-15T18:24:33Z",
-        "finished_at": "2026-08-15T18:24:34Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 71,
-        "details_json": "{\"new\": 0, \"updated\": 71, \"failed\": 0, \"posts\": 71}",
-        "error": null
-      },
-      {
-        "id": 19889,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-15T18:19:28Z",
-        "finished_at": "2026-08-15T18:19:29Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 71,
-        "details_json": "{\"new\": 0, \"updated\": 71, \"failed\": 0, \"posts\": 71}",
-        "error": null
-      },
-      {
-        "id": 19888,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-15T18:14:09Z",
-        "finished_at": "2026-08-15T18:14:10Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 71,
-        "details_json": "{\"new\": 0, \"updated\": 71, \"failed\": 0, \"posts\": 71}",
-        "error": null
-      },
-      {
-        "id": 19887,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-15T18:08:33Z",
-        "finished_at": "2026-08-15T18:08:34Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 74,
-        "details_json": "{\"new\": 0, \"updated\": 74, \"failed\": 0, \"posts\": 74}",
         "error": null
       }
     ]
