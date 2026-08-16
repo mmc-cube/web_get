@@ -6,6 +6,30 @@
     "latest_created_at_utc": "2026-08-16T06:31:45Z",
     "recent_runs": [
       {
+        "id": 20182,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-16T19:55:53Z",
+        "finished_at": "2026-08-16T19:55:53Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 67,
+        "details_json": "{\"new\": 0, \"updated\": 67, \"failed\": 0, \"posts\": 67}",
+        "error": null
+      },
+      {
+        "id": 20181,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-16T19:50:35Z",
+        "finished_at": "2026-08-16T19:50:35Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 67,
+        "details_json": "{\"new\": 0, \"updated\": 67, \"failed\": 0, \"posts\": 67}",
+        "error": null
+      },
+      {
         "id": 20180,
         "source": "xtracker",
         "mode": "import",
@@ -99,30 +123,6 @@
         "new_count": 0,
         "updated_count": 71,
         "details_json": "{\"new\": 0, \"updated\": 71, \"failed\": 0, \"posts\": 71}",
-        "error": null
-      },
-      {
-        "id": 20172,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-16T19:03:24Z",
-        "finished_at": "2026-08-16T19:03:25Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 72,
-        "details_json": "{\"new\": 0, \"updated\": 72, \"failed\": 0, \"posts\": 72}",
-        "error": null
-      },
-      {
-        "id": 20171,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-16T18:58:02Z",
-        "finished_at": "2026-08-16T18:58:03Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 72,
-        "details_json": "{\"new\": 0, \"updated\": 72, \"failed\": 0, \"posts\": 72}",
         "error": null
       }
     ]
