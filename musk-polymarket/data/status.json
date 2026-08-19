@@ -1,10 +1,70 @@
 {
   "ok": true,
   "data": {
-    "tweets": 7061,
-    "countable": 4894,
-    "latest_created_at_utc": "2026-08-19T14:20:14Z",
+    "tweets": 7063,
+    "countable": 4896,
+    "latest_created_at_utc": "2026-08-19T14:55:58Z",
     "recent_runs": [
+      {
+        "id": 20952,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-19T15:04:15Z",
+        "finished_at": "2026-08-19T15:04:15Z",
+        "status": "success",
+        "new_count": 1,
+        "updated_count": 92,
+        "details_json": "{\"new\": 1, \"updated\": 92, \"failed\": 0, \"posts\": 93}",
+        "error": null
+      },
+      {
+        "id": 20951,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-19T14:58:53Z",
+        "finished_at": "2026-08-19T14:58:53Z",
+        "status": "success",
+        "new_count": 1,
+        "updated_count": 91,
+        "details_json": "{\"new\": 1, \"updated\": 91, \"failed\": 0, \"posts\": 92}",
+        "error": null
+      },
+      {
+        "id": 20950,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-19T14:53:34Z",
+        "finished_at": "2026-08-19T14:53:35Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 91,
+        "details_json": "{\"new\": 0, \"updated\": 91, \"failed\": 0, \"posts\": 91}",
+        "error": null
+      },
+      {
+        "id": 20949,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-19T14:48:33Z",
+        "finished_at": "2026-08-19T14:48:34Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 91,
+        "details_json": "{\"new\": 0, \"updated\": 91, \"failed\": 0, \"posts\": 91}",
+        "error": null
+      },
+      {
+        "id": 20948,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-19T14:43:07Z",
+        "finished_at": "2026-08-19T14:43:07Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 91,
+        "details_json": "{\"new\": 0, \"updated\": 91, \"failed\": 0, \"posts\": 91}",
+        "error": null
+      },
       {
         "id": 20947,
         "source": "xtracker",
@@ -63,66 +123,6 @@
         "new_count": 3,
         "updated_count": 86,
         "details_json": "{\"new\": 3, \"updated\": 86, \"failed\": 0, \"posts\": 89}",
-        "error": null
-      },
-      {
-        "id": 20942,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-19T14:12:05Z",
-        "finished_at": "2026-08-19T14:12:05Z",
-        "status": "success",
-        "new_count": 2,
-        "updated_count": 84,
-        "details_json": "{\"new\": 2, \"updated\": 84, \"failed\": 0, \"posts\": 86}",
-        "error": null
-      },
-      {
-        "id": 20941,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-19T14:06:58Z",
-        "finished_at": "2026-08-19T14:06:59Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 84,
-        "details_json": "{\"new\": 0, \"updated\": 84, \"failed\": 0, \"posts\": 84}",
-        "error": null
-      },
-      {
-        "id": 20940,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-19T14:01:55Z",
-        "finished_at": "2026-08-19T14:01:56Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 84,
-        "details_json": "{\"new\": 0, \"updated\": 84, \"failed\": 0, \"posts\": 84}",
-        "error": null
-      },
-      {
-        "id": 20939,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-19T13:56:33Z",
-        "finished_at": "2026-08-19T13:56:34Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 84,
-        "details_json": "{\"new\": 0, \"updated\": 84, \"failed\": 0, \"posts\": 84}",
-        "error": null
-      },
-      {
-        "id": 20938,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-19T13:51:22Z",
-        "finished_at": "2026-08-19T13:51:22Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 84,
-        "details_json": "{\"new\": 0, \"updated\": 84, \"failed\": 0, \"posts\": 84}",
         "error": null
       }
     ]
