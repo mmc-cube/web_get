@@ -1,10 +1,94 @@
 {
   "ok": true,
   "data": {
-    "tweets": 7086,
-    "countable": 4919,
-    "latest_created_at_utc": "2026-08-19T18:07:09Z",
+    "tweets": 7090,
+    "countable": 4923,
+    "latest_created_at_utc": "2026-08-19T18:45:08Z",
     "recent_runs": [
+      {
+        "id": 20995,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-19T18:50:12Z",
+        "finished_at": "2026-08-19T18:50:12Z",
+        "status": "success",
+        "new_count": 1,
+        "updated_count": 119,
+        "details_json": "{\"new\": 1, \"updated\": 119, \"failed\": 0, \"posts\": 120}",
+        "error": null
+      },
+      {
+        "id": 20994,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-19T18:44:58Z",
+        "finished_at": "2026-08-19T18:44:59Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 119,
+        "details_json": "{\"new\": 0, \"updated\": 119, \"failed\": 0, \"posts\": 119}",
+        "error": null
+      },
+      {
+        "id": 20993,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-19T18:39:33Z",
+        "finished_at": "2026-08-19T18:39:34Z",
+        "status": "success",
+        "new_count": 2,
+        "updated_count": 117,
+        "details_json": "{\"new\": 2, \"updated\": 117, \"failed\": 0, \"posts\": 119}",
+        "error": null
+      },
+      {
+        "id": 20992,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-19T18:34:26Z",
+        "finished_at": "2026-08-19T18:34:26Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 117,
+        "details_json": "{\"new\": 0, \"updated\": 117, \"failed\": 0, \"posts\": 117}",
+        "error": null
+      },
+      {
+        "id": 20991,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-19T18:29:07Z",
+        "finished_at": "2026-08-19T18:29:08Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 117,
+        "details_json": "{\"new\": 0, \"updated\": 117, \"failed\": 0, \"posts\": 117}",
+        "error": null
+      },
+      {
+        "id": 20990,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-19T18:23:54Z",
+        "finished_at": "2026-08-19T18:23:54Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 117,
+        "details_json": "{\"new\": 0, \"updated\": 117, \"failed\": 0, \"posts\": 117}",
+        "error": null
+      },
+      {
+        "id": 20989,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-19T18:18:33Z",
+        "finished_at": "2026-08-19T18:18:34Z",
+        "status": "success",
+        "new_count": 1,
+        "updated_count": 116,
+        "details_json": "{\"new\": 1, \"updated\": 116, \"failed\": 0, \"posts\": 117}",
+        "error": null
+      },
       {
         "id": 20988,
         "source": "xtracker",
@@ -39,90 +123,6 @@
         "new_count": 1,
         "updated_count": 114,
         "details_json": "{\"new\": 1, \"updated\": 114, \"failed\": 0, \"posts\": 115}",
-        "error": null
-      },
-      {
-        "id": 20985,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-19T17:57:32Z",
-        "finished_at": "2026-08-19T17:57:32Z",
-        "status": "success",
-        "new_count": 2,
-        "updated_count": 112,
-        "details_json": "{\"new\": 2, \"updated\": 112, \"failed\": 0, \"posts\": 114}",
-        "error": null
-      },
-      {
-        "id": 20984,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-19T17:52:16Z",
-        "finished_at": "2026-08-19T17:52:16Z",
-        "status": "success",
-        "new_count": 2,
-        "updated_count": 110,
-        "details_json": "{\"new\": 2, \"updated\": 110, \"failed\": 0, \"posts\": 112}",
-        "error": null
-      },
-      {
-        "id": 20983,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-19T17:47:00Z",
-        "finished_at": "2026-08-19T17:47:01Z",
-        "status": "success",
-        "new_count": 1,
-        "updated_count": 109,
-        "details_json": "{\"new\": 1, \"updated\": 109, \"failed\": 0, \"posts\": 110}",
-        "error": null
-      },
-      {
-        "id": 20982,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-19T17:41:33Z",
-        "finished_at": "2026-08-19T17:41:34Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 109,
-        "details_json": "{\"new\": 0, \"updated\": 109, \"failed\": 0, \"posts\": 109}",
-        "error": null
-      },
-      {
-        "id": 20981,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-19T17:36:28Z",
-        "finished_at": "2026-08-19T17:36:28Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 109,
-        "details_json": "{\"new\": 0, \"updated\": 109, \"failed\": 0, \"posts\": 109}",
-        "error": null
-      },
-      {
-        "id": 20980,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-19T17:31:12Z",
-        "finished_at": "2026-08-19T17:31:12Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 109,
-        "details_json": "{\"new\": 0, \"updated\": 109, \"failed\": 0, \"posts\": 109}",
-        "error": null
-      },
-      {
-        "id": 20979,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-19T17:25:55Z",
-        "finished_at": "2026-08-19T17:25:56Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 109,
-        "details_json": "{\"new\": 0, \"updated\": 109, \"failed\": 0, \"posts\": 109}",
         "error": null
       }
     ]
