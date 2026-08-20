@@ -6,11 +6,11 @@
     "latest_created_at_utc": "2026-08-20T11:40:45Z",
     "recent_runs": [
       {
-        "id": 21199,
+        "id": 21209,
         "source": "xtracker",
         "mode": "import",
-        "started_at": "2026-08-20T12:37:33Z",
-        "finished_at": "2026-08-20T12:37:34Z",
+        "started_at": "2026-08-20T13:29:56Z",
+        "finished_at": "2026-08-20T13:29:57Z",
         "status": "success",
         "new_count": 0,
         "updated_count": 169,
@@ -18,11 +18,11 @@
         "error": null
       },
       {
-        "id": 21198,
+        "id": 21208,
         "source": "xtracker",
         "mode": "import",
-        "started_at": "2026-08-20T12:32:11Z",
-        "finished_at": "2026-08-20T12:32:11Z",
+        "started_at": "2026-08-20T13:24:34Z",
+        "finished_at": "2026-08-20T13:24:35Z",
         "status": "success",
         "new_count": 0,
         "updated_count": 169,
@@ -30,11 +30,11 @@
         "error": null
       },
       {
-        "id": 21197,
+        "id": 21207,
         "source": "xtracker",
         "mode": "import",
-        "started_at": "2026-08-20T12:26:43Z",
-        "finished_at": "2026-08-20T12:26:43Z",
+        "started_at": "2026-08-20T13:19:33Z",
+        "finished_at": "2026-08-20T13:19:34Z",
         "status": "success",
         "new_count": 0,
         "updated_count": 169,
@@ -42,11 +42,11 @@
         "error": null
       },
       {
-        "id": 21196,
+        "id": 21206,
         "source": "xtracker",
         "mode": "import",
-        "started_at": "2026-08-20T12:21:33Z",
-        "finished_at": "2026-08-20T12:21:34Z",
+        "started_at": "2026-08-20T13:14:20Z",
+        "finished_at": "2026-08-20T13:14:20Z",
         "status": "success",
         "new_count": 0,
         "updated_count": 169,
@@ -54,11 +54,11 @@
         "error": null
       },
       {
-        "id": 21195,
+        "id": 21205,
         "source": "xtracker",
         "mode": "import",
-        "started_at": "2026-08-20T12:16:30Z",
-        "finished_at": "2026-08-20T12:16:30Z",
+        "started_at": "2026-08-20T13:09:12Z",
+        "finished_at": "2026-08-20T13:09:12Z",
         "status": "success",
         "new_count": 0,
         "updated_count": 169,
@@ -66,11 +66,11 @@
         "error": null
       },
       {
-        "id": 21194,
+        "id": 21204,
         "source": "xtracker",
         "mode": "import",
-        "started_at": "2026-08-20T12:11:06Z",
-        "finished_at": "2026-08-20T12:11:06Z",
+        "started_at": "2026-08-20T13:03:43Z",
+        "finished_at": "2026-08-20T13:03:44Z",
         "status": "success",
         "new_count": 0,
         "updated_count": 169,
@@ -78,11 +78,11 @@
         "error": null
       },
       {
-        "id": 21193,
+        "id": 21203,
         "source": "xtracker",
         "mode": "import",
-        "started_at": "2026-08-20T12:05:33Z",
-        "finished_at": "2026-08-20T12:05:34Z",
+        "started_at": "2026-08-20T12:58:33Z",
+        "finished_at": "2026-08-20T12:58:34Z",
         "status": "success",
         "new_count": 0,
         "updated_count": 169,
@@ -90,11 +90,11 @@
         "error": null
       },
       {
-        "id": 21192,
+        "id": 21202,
         "source": "xtracker",
         "mode": "import",
-        "started_at": "2026-08-20T12:00:17Z",
-        "finished_at": "2026-08-20T12:00:18Z",
+        "started_at": "2026-08-20T12:53:15Z",
+        "finished_at": "2026-08-20T12:53:16Z",
         "status": "success",
         "new_count": 0,
         "updated_count": 169,
@@ -102,11 +102,11 @@
         "error": null
       },
       {
-        "id": 21191,
+        "id": 21201,
         "source": "xtracker",
         "mode": "import",
-        "started_at": "2026-08-20T11:55:01Z",
-        "finished_at": "2026-08-20T11:55:02Z",
+        "started_at": "2026-08-20T12:48:12Z",
+        "finished_at": "2026-08-20T12:48:13Z",
         "status": "success",
         "new_count": 0,
         "updated_count": 169,
@@ -114,15 +114,15 @@
         "error": null
       },
       {
-        "id": 21190,
+        "id": 21200,
         "source": "xtracker",
         "mode": "import",
-        "started_at": "2026-08-20T11:49:56Z",
-        "finished_at": "2026-08-20T11:49:56Z",
+        "started_at": "2026-08-20T12:42:43Z",
+        "finished_at": "2026-08-20T12:42:43Z",
         "status": "success",
-        "new_count": 1,
-        "updated_count": 168,
-        "details_json": "{\"new\": 1, \"updated\": 168, \"failed\": 0, \"posts\": 169}",
+        "new_count": 0,
+        "updated_count": 169,
+        "details_json": "{\"new\": 0, \"updated\": 169, \"failed\": 0, \"posts\": 169}",
         "error": null
       }
     ]
