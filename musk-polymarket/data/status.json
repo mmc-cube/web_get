@@ -6,6 +6,66 @@
     "latest_created_at_utc": "2026-08-22T03:40:43Z",
     "recent_runs": [
       {
+        "id": 21781,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-22T15:25:25Z",
+        "finished_at": "2026-08-22T15:25:26Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 172,
+        "details_json": "{\"new\": 0, \"updated\": 172, \"failed\": 0, \"posts\": 172}",
+        "error": null
+      },
+      {
+        "id": 21780,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-22T15:19:58Z",
+        "finished_at": "2026-08-22T15:19:59Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 172,
+        "details_json": "{\"new\": 0, \"updated\": 172, \"failed\": 0, \"posts\": 172}",
+        "error": null
+      },
+      {
+        "id": 21779,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-22T15:14:33Z",
+        "finished_at": "2026-08-22T15:14:34Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 174,
+        "details_json": "{\"new\": 0, \"updated\": 174, \"failed\": 0, \"posts\": 174}",
+        "error": null
+      },
+      {
+        "id": 21778,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-22T15:09:32Z",
+        "finished_at": "2026-08-22T15:09:32Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 175,
+        "details_json": "{\"new\": 0, \"updated\": 175, \"failed\": 0, \"posts\": 175}",
+        "error": null
+      },
+      {
+        "id": 21777,
+        "source": "xtracker",
+        "mode": "import",
+        "started_at": "2026-08-22T15:04:07Z",
+        "finished_at": "2026-08-22T15:04:07Z",
+        "status": "success",
+        "new_count": 0,
+        "updated_count": 176,
+        "details_json": "{\"new\": 0, \"updated\": 176, \"failed\": 0, \"posts\": 176}",
+        "error": null
+      },
+      {
         "id": 21776,
         "source": "xtracker",
         "mode": "import",
@@ -63,66 +123,6 @@
         "new_count": 0,
         "updated_count": 178,
         "details_json": "{\"new\": 0, \"updated\": 178, \"failed\": 0, \"posts\": 178}",
-        "error": null
-      },
-      {
-        "id": 21771,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-22T14:33:04Z",
-        "finished_at": "2026-08-22T14:33:04Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 178,
-        "details_json": "{\"new\": 0, \"updated\": 178, \"failed\": 0, \"posts\": 178}",
-        "error": null
-      },
-      {
-        "id": 21770,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-22T14:27:33Z",
-        "finished_at": "2026-08-22T14:27:34Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 178,
-        "details_json": "{\"new\": 0, \"updated\": 178, \"failed\": 0, \"posts\": 178}",
-        "error": null
-      },
-      {
-        "id": 21769,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-22T14:22:13Z",
-        "finished_at": "2026-08-22T14:22:14Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 178,
-        "details_json": "{\"new\": 0, \"updated\": 178, \"failed\": 0, \"posts\": 178}",
-        "error": null
-      },
-      {
-        "id": 21768,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-22T14:16:58Z",
-        "finished_at": "2026-08-22T14:16:59Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 180,
-        "details_json": "{\"new\": 0, \"updated\": 180, \"failed\": 0, \"posts\": 180}",
-        "error": null
-      },
-      {
-        "id": 21767,
-        "source": "xtracker",
-        "mode": "import",
-        "started_at": "2026-08-22T14:11:45Z",
-        "finished_at": "2026-08-22T14:11:45Z",
-        "status": "success",
-        "new_count": 0,
-        "updated_count": 182,
-        "details_json": "{\"new\": 0, \"updated\": 182, \"failed\": 0, \"posts\": 182}",
         "error": null
       }
     ]
